@@ -5,8 +5,6 @@ overview: true
 permalink: /libro/aplica-principios-programacion-funcional/
 ---
 
-> Mardown test
-
 Recientemente, la comunidad programadora ha demostrado un renovado interés por la programación funcional. Parte del motivo es que las propiedades emergentes de este paradigma la hacen una buena opción para abordar la transición de la industria hacia el desarrollo sobre arquitecturas multi-core. Sin embargo, aunque ésta es sin dudas una aplicación importante, no es la razón por la que este texto te exhorta a que aprendas sobre programación funcional.
 
 Dominar el paradigma funcional puede mejorar enormemente la calidad del código que escribes en otros contextos. Si lo comprendes profundamente y lo aplicas a tus diseños, lograrás un nivel mucho más alto de transparencia referencial.
