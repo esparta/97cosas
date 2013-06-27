@@ -24,3 +24,5 @@ Por Giles Colborne
 Traducción: Natán Calzolari
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Ask_%22What_Would_the_User_Do%3F%22_%28You_Are_not_the_User%29)
+
+[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)
