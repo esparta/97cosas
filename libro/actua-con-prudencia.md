@@ -6,7 +6,8 @@ permalink: /libro/actua-con-prudencia/
 ---
 
 > En todo lo que emprendas, actúa con prudencia y considera las consecuencias
-> Anónimo
+> 
+> _Anónimo_
 
 
 No importa qué tan cómodo parezca ser un cronograma de trabajo al comienzo de una iteración, no podrás evitar sentirte bajo presión en algún momento. Si te encuentras en una situación en la que tienes que elegir entre “hacerlo bien” o “hacerlo rápido”, suele ser tentador “hacerlo rápido” pensando que regresarás a corregirlo más adelante. Cuando te haces esta promesa a ti mismo, a tu equipo, al cliente, lo haces en serio. Pero muy a menudo la siguiente iteración trae nuevos problemas y te debes enfocar en ellos. Este tipo de trabajo aplazado se conoce como deuda técnica y no es un muy buen amigo. Martin Fowler, en su [taxonomía de la deuda técnica](http://martinfowler.com/bliki/TechnicalDebtQuadrant.html), la llama específicamente deuda técnica deliberada, la cual no debería confundirse con la deuda técnica inadvertida.
