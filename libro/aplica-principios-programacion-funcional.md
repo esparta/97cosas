@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: libro
 title: 02. Aplica los principios de la programación funcional
 overview: true
 permalink: /libro/aplica-principios-programacion-funcional/
