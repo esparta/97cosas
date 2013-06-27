@@ -1,7 +1,7 @@
 No tengas miedo de romper cosas
 ===
 
-Todos los que tiene experiencia en el sector indudablemente han trabajado en un proyecto donde el código base era, en el mejor de los casos, precario. El sistema es factorizado pobremente, y cambiar alguna cosa siempre lleva a descomponer otra característica no relacionada. Cada vez que se añade un módulo, la meta del programador es cambiar lo menos que sea posible, y contener la respiración durante cada lanzamiento. Esto es el equivalente de jugar Jenga con vigas de acero en un rascacielos, y se dirige desastre.
+Todos los que tiene experiencia en el sector indudablemente han trabajado en un proyecto donde el código base era, en el mejor de los casos, precario. El sistema es factorizado pobremente, y cambiar alguna cosa siempre lleva a descomponer otra característica no relacionada. Cada vez que se añade un módulo, la meta del programador es cambiar lo menos que sea posible, y contener la respiración durante cada lanzamiento. Esto es el equivalente de jugar Jenga con vigas de acero en un rascacielos, y se dirige a un desastre.
 
 La razón por lo que realizar cambios es tan destroza-nervios se debe a que el sistema está enfermo. Necesita un médico, de lo contrario su condición sólo empeorará. Ya sabes lo que está mal en tu sistema, pero tienes miedo de romper los huevos para hacer tu omelet. Un cirujano experto sabe que deben hacerse cortes para operar, pero el cirujano experto también sabe que esos cortes son temporales y se curan. El resultado final de la operación bien vale el dolor inicial, y el pacience debe sanar a un mejor estado del que tenía antes de la operación.
 
