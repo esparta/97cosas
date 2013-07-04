@@ -1,7 +1,10 @@
 ---
 layout: page
 title: Implementa rápido y con frecuencia
+<<<<<<< HEAD
 overview: true
+=======
+>>>>>>> 763fe7837c904625ef007a624a87b5ea360c99d7
 permalink: /libro/implementa-rapido-y-con-frecuencia/
 ---
 
