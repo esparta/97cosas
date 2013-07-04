@@ -3,7 +3,7 @@ El Principio de Responsabilidad Única
 
 Uno de los principios más fundamentales de un buen diseño es:
 
-> Reúna las cosas que cambian por la misma razón, y separa aquellas cosas que cambian por diferentes razones.
+> Reúna las cosas que cambian por la misma razón, y separe aquellas cosas que cambian por diferentes razones.
 
 Este principio es conocido también como el Principio de la Responsabilidad Única o SRP (por sus siglas en inglés). En definitiva, se dice que un subsistema, módulo, clase o incluso una función, no debe tener más de una razón para cambar. El ejemplo clásico es una clase que tiene métodos que tienen que ver con reglas de negocio, reportes y base de datos:
 
@@ -31,9 +31,9 @@ public class RepositorioEmpleado {
   public void guardar(Empleado e) ...
 }
 ```
-La simple división mostrada arriba resuelve éstos problemas. Cada una de estas clases se puede colocar en un componenete para sí mismas. O, mejor dicho, todos las clases de reporteo puede ir en el componenete de reporteo. Todas las clases relacionadas con base de datos puede ir en el componente de repositorios. Y todas las reglas de negocios pueden entrar en el componente de reglas de negocio.
+La simple división mostrada arriba resuelve éstos problemas. Cada una de estas clases se puede colocar en un componenete para sí mismas. O, mejor dicho, todos las clases de reporteo pueden ir en el componenete de reporteo. Todas las clases relacionadas con base de datos pueden estar en el componente de repositorios. Y todas las reglas de negocios pueden entrar en el componente de reglas de negocio.
 
-El lector astuto verá que aún existen dependencias en la solución anterior. Ese `Empleado` aún depende de las otras clases. Si se modifica `Empleado`, es probable que las otras clases se tenga que volver a compiladar e implementar. Por lo tanto `Empleado` no se puede modificar y entonces implementar independientemente. Sin embargo, las otras clases pueden ser modificas y e implementadas independientemente. Ninguna modificación de alguno clase puede forzar a cualquiera de los otras a ser recompilados o re-implementados. Incluso `Empleado` podría ser implementado independientemente a través de un uso cuidadoso del Principio de Inversión de Dependencias (DIP), pero eso es un tema para [otro libro](http://www.amazon.com/dp/0135974445/).
+El lector astuto verá que aún existen dependencias en la solución anterior. Ese `Empleado` aún depende de las otras clases. Si se modifica `Empleado`, es probable que las otras clases se tenga que volver a compiladar e implementar. Por lo tanto `Empleado` no se puede modificar y entonces implementar independientemente. Sin embargo, las otras clases pueden ser modificadas e implementadas independientemente. Ninguna modificación de las clases puede forzar a cualquiera de los otras a ser recompilados o re-implementados. Incluso `Empleado` podría ser implementado independientemente a través de un uso cuidadoso del Principio de Inversión de Dependencias (DIP), pero eso es un tema para [otro libro](http://www.amazon.com/dp/0135974445/).
 
 La aplicación cuidadosa del SRP, separando las cosas que cambian por diferentes razones es una de las claves para la creación de diseños que tienen una estructura de componentes de implementación independientemente.
 
