@@ -1,11 +1,8 @@
 ---
 layout: page
 title: Implementa rápido y con frecuencia
-<<<<<<< HEAD
-overview: true
-=======
->>>>>>> 763fe7837c904625ef007a624a87b5ea360c99d7
 permalink: /libro/implementa-rapido-y-con-frecuencia/
+overview: true
 ---
 
 Depurar el proceso de implementación e instalación suele posponerse hasta que se acerca el final del proyecto. En algunos proyectos la escritura de herramientas de instalación es delegado a un ingeniero de entrega quiene asume la tarea como un "mal necesario". Las revisiones y demostraciones son realizadas a partir de un ambiente hecho a mano para asegurarse que todo funciona. El resultado es que el equipo no obtiene la experienca en el proceso de implementación o sobre el ambiente de implementación mismo hasta que quizás es demasiado tarde para hacer los cambios.
