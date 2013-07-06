@@ -3,7 +3,7 @@ No te repitas
 
 De todos los principios de programación, No te Repitas (Don't Repeat Yourself, DRY) es quizás uno de los más fundamentales. El principio fue formulado por Andy Hunt y Dave Thomas en "The Pragmatic Programmer", y subyace a muchas otras bien conocidas buenas prácticas y diseños de patrones en software. El desarrollador que aprende a reconocer la duplicación, y entiende cómo eliminarla a través de una abstracción práctica y apropiada puede producir código mucho más limpio que quien infecta contínuamente la aplicación con la repetición innecesarias.
 
-##La duplicidad es un desperdicio
+## La duplicidad es un desperdicio
 
 Cada línea de código que va en una aplicación se debe mantener, y es una fuente potencial de futuros errores. La duplicación infla innecesariamente el código base, dando lugar a más oportunidades para los errores y agregando complejidad accidental al sistema. El atasco que la duplicación agrega al sistema también hace más dificil para los desarrolladores que trabajan con el sistema el completo entendimiento del sistema entero, o de tener la certeza de que los cambios realizados en un lugar no necesitan también ser hechos en otros lugares que duplican la lógica de lo que se está trabajando. DRY requiere que "cada pieza de conocimiento debe tener una representación única, inequívoca y autorizada en el sistema".
 
