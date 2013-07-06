@@ -20,3 +20,11 @@ una cuestión de principio
 Otros principios de software también están relacionados con DRY. El principio "Uno y Sólo Uno", el cuál aplica al comportamiento funcional del código puede ser pensado como un subconjunto de DRY. El principio "Abierto/Cerrado" el cual estipula que "las entidades de software deben estar abiertas para la extensión, pero cerradas para la modificación" sólo funciona en la práctica cuando se sigue el DRY. Del mismo modo, el bien conocido Principio de la Responsabilidad Única (SPR) requiere que una clase tenga "una única razón para cambiar" de basa en DRY.
 
 Cuando se siguen en estructura, lógica, procesos y funciones el principio provee una guía fundamental para los desarrolladores de software y ayuda a la creación de aplicaciones más simples, más fáciles de mantener  y de alta calidad. Si bien hay escenarios donde la repetición puede ser necesaria para cumplir con el índice de rendimiento u otros requerimientos (por ejemplo, desnormalización en base de datos), ésto debería ser usado sólo donde aplique directamente un problema real en vez de uno imaginario.
+
+Por Steve Smith
+
+Traducción: Espartaco Palma
+
+[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Repeat_Yourself)
+
+[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)
