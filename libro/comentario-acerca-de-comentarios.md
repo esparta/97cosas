@@ -15,7 +15,7 @@ En un trabajo, estuve en desacuerdo con una decisión de diseño hecha por mis s
 
 Por Cal Evans
 
-Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/A_Comment_on_Comments)
+[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/A_Comment_on_Comments)
 
 [Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)
 
