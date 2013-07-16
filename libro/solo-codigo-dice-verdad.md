@@ -1,0 +1,20 @@
+Sólo el código dice la verdad
+===
+
+La semántica final de un programa está dada por el código que se ejecuta. ¡Si esto es únicamente en formato binario, será una lectura difícil! El código fuente debe, sin embargo, estar disponible si se trata de tu programa, cualquier desarrollo de software comercial típico, un proyecto de código abierto, o código en un lenguaje interpretado de forma dinámica. Al mirar el código fuente, el signigicado del programa debería ser evidente. Para saber qué hace el programa, el código es, en última instancia, todo en lo que puedes estar seguro. Incluso documento de requisitos más preciso no dice toda la verdad: no contiene el relato detallado de lo que el programa está haciendo, sólo las intenciones de más alto nivel del analista de requerimientos. Un documento de diseño podría capturar un diseño planeado, pero carece del necesario nivel de detalle de la implementación. Estos documento pueden perder sincronía con la implementación actual... o que simplemente se han perdido. O nunca fueron escritos, en primer lugar. El código fuente pueder ser lo único que queda.
+
+Con esto en mente, pregúntate ¿qué tan claro es tu código al decirte a ti o a cualquier otro programador qué es lo que está haciend?
+
+Podrías decir:"Oh, mis comentarios te dirán todo lo que necesitas saber". Pero recuerda que los comentarios no son código en ejecución. Pueden ser tan malos como cualquier otra forma de documentación. Ha habido una tradición que dice que los comentarios son incondicionalmente algo bueno, así que incuestionablemente algunos programadores escriben más y más comentarios, incluso reiniciando y explicando trivialidades que son obvias en el código. Esa es la forma errónea de clarificar tu código. Si tu código tiene comentarios, considera refactorizalo para que no los tenga. Los comentarios extensos pueden saturar el espacio en la pantalla e incluso pueden ser ocultado automáticamente por tu IDE. Si necesitas explicar un cambio, hazlo en el mensaje de confirmación del sistema de control de versiones, no en el código.
+
+¿Qué se puede hacer para realmente hacer que tu código diga la verdad lo más claro posible? Lucha por buenos nombres. Estructura tu código con respecto a la funcionalidad cohesiva, que también facilita la nomenclatura. Desacopla el código para conseguir ortogonalidad. Escribe pruebas automatizadas explicando el comportamiento previsto y comprueba las interfaces. Refactoriza sin piedad cuando aprendas cómo codificar una solución mejor y más sencilla. Haz que tu código sea tan sencillo como sea posible para leer y entender.
+
+Trata a tu código como cualquier otra composición, como un poemas, un ensayo, un blog público, o un email importante. Craft lo que expresas cuidadosamente, de modo que haga lo que debe y comunique  tan directamente como sea posible lo que está haciendo, de modo que  comunique tus intenciones cuando no estés más por aquí. Recuerda que el código útil se usa mucho más tiempo del que se previsto. Los programadores de mantenimiento te lo agradecerán. Y, si eres un programador de mantenimiento y el código en el que estás trabajando no dice la verdad fácilmente, aplica las directrices anteriores de una manera proactiva. Establece algo de cordura en el código y manten tu propia cordura. 
+
+by Peter Sommerlad 
+
+Traducción: Espartaco Palma
+
+[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Only_the_Code_Tells_the_Truth)
+
+[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)
