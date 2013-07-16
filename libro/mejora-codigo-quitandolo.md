@@ -21,3 +21,11 @@ Así que ¿porqué terminó ahí ese código innecesario? ¿Porqué un programad
 * El programador inventó requisitos adicionales que ni fueron documentados, ni discutidos para justificar la función adicional. El requerimiento era en realidad falso. (Sugerencia: Los programadores no establecen los requerimientos del sistema; el cliente sí).
 
 ¿En qué trabajas ahora mismo? ¿Es todo necesario?
+
+Por Pete Goodliffe
+
+Traducción: Espartaco Palma
+
+[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Improve_Code_by_Removing_It)
+
+[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)
