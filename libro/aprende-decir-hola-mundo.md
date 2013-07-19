@@ -39,7 +39,7 @@ De regreso a mi escritorio, cerré mi IDE. Me había hecho tan familar al trabaj
 
 int main()
 {
-    printf("Hello, World\n");
+    printf("Hola, Mundo\n");
     return 0;
 }
 
