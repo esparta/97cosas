@@ -23,17 +23,18 @@ Había estado probando toda la mañana trantando de encontrar una manera de forz
 
 Hoppy admitió que estaba seguro. Para mi sorpresa, no buscó en K&R. En vez de ello, copió el bloque de código en un nuevo buffer del editor, lo reindentó, lo envolvió en una función. Un poco más tarde codificó una función `main` y lo cicló, pidiendo al usuario valores de entrada, pasándolos a la función e imprimiendo el resultado. Guardó el buffer como un nuevo archivo, `tryit.c`. Todo esto lo podría haber hecho yo mismo, creo que quizás no tan rápido. Sin embargo, su siguiente paso fué maravillosamente simple y, para ese tiempo, un poco extraño para mi manera de trabajar
 
-```
+{% highlight sh %}
 
 $ cc tryit.c && ./a.out
 
-```
+{% endhighlight %}
 
 ¡Mira! Su programa, concebido unos pocos minutos antes,ahora estaba en marcha y funcionando. Probamos unos cuantos valores y confirmó mis sospechas (¡por lo que había tenido razón sobre algo!) y entonces cotejó la sección correspondiente de K&R. Le agradecí a Hoppy y me fuí, una vez más, teniendo cuidado de no molestar su piramide de latas de soda.
 
 De regreso a mi escritorio, cerré mi IDE. Me había hecho tan familar al trabajo con un gran proyecto con un gran producto que había empezado a pensar sobre qué debía estar haciendo. Una computadora de propósito general puede hacer pequeñas tareas también. Abrí un editor de texto y empecé a escribir.
 
 {% highlight c %}
+
 #include <stdio.h>
 
 int main()
