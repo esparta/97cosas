@@ -11,7 +11,7 @@ Adicionalmente, siempre necesitarás aprender más sobre el desarrollo de softwa
 
 Enfócate en el proyecto, contribuye tanto como puedas encontrando soluciones inteligentes, mejora tus habilidades, reflexiona sobre lo que estás haciendo y adapta tu comportamiento. Evitar avergonzarte, y a nuestra profesión, al comportarte como un hamster en una jaula rodando en la rueda. Como programador profesional debes saber que tratar de estar concentrado y  ser 'productivo' 60 horas a la semana no es lo más sensato. Actúa como un profesional: prepárate, se eficaz, observa, reflexiona y cambia.
 
-By Olve Maudal 
+Por Olve Maudal 
 
 Traducción: Espartaco Palma
 
