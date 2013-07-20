@@ -5,7 +5,7 @@ Nos gustaría escribir código que fuese correcto, y tener evidencia en mano de 
 
 Por ejemplo, en el juego de Go hay una condición llamada atari, en la cual la piedra del jugador puede ser capturada por su oponente: Una puedra con dos o más espacios libres adyacentes a él (llamados liberties) no está en atari. Puede ser difícil de contar cuántas liberties tiene una piedra, pero determinar el atari es fácil si se sabe. Podría empezar escribiendo una función como esta:
 
-```
+```java
 boolean atari(int libertyCount)
     libertyCount < 2
 ```
@@ -15,7 +15,7 @@ Esta es la esencia de la afirmación de que la pruebas no pueden probar la ausen
 
 El dominio del problema nos ayuda. La natura de Go significa que el número de liberties de una piedra no es cualquier entero, pero exactamente uno de {1,2,3,4}. Así pues, podríamos escribir alternativamente:
 
-```
+```java
 LibertyCount = {1,2,3,4} 
 boolean atari(LibertyCount libertyCount)
     libertyCount == 1
@@ -24,3 +24,9 @@ boolean atari(LibertyCount libertyCount)
 Esto es mucho más manejable: La función calculada es ahora un conjunto con cuando mucho ocho miembros. De hecho, cuatro ejemplos seleccionados constituiría la evidencia de la certeza completa de que la función es correcta. Esta es la razón por la cual es una buena idea usar tipos estrechamente relacionados al dominio del problema para escribir programas, en vez de tipos nativos. Usar tipos inspirados en dominios a menudo puede hacer que nuestra funciones sean mucho más pequeñas. Una forma de encontrar que tipo sería es encontrar los ejemplos para comprobar en terminos del dominio del problema, antes de escribir la función.
 
 Por Keith Braithwaite 
+
+Traducción: Espartaco Palma
+
+[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Write_Small_Functions_Using_Examples)
+
+[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)
