@@ -9,7 +9,7 @@ Por ejemplo, en el juego de Go hay una condición llamada atari, en la cual la p
 boolean atari(int libertyCount)
     libertyCount < 2
 ```
-Esto es más grande de lo que parece. Una función matemática puede ser entendida como un conjunto, algún subconjunto del producto Carteriano de el conjunto que son su dominio (en este caso, un entero) y rango (en este caso, un booleano). Si esos conjuntos de valores fueran del mismo tamaño como en Java, entonces sería `2L*(Integer.MAX_VALUE+(-1L*Integer.MIN_VALUE)+1L)` o `8,589,934,592` miembros en el conjunto int × boolean. La mitad de estas son miembros de un conjunto que es nuestra función, así que para proveer una evidencia completa de que nuestra función es correcta necesitariamos revisar al rededor de 4.3 × 10<sup>9</sup> ejemplos.
+Esto es más grande de lo que parece. Una función matemática puede ser entendida como un conjunto, algún subconjunto del producto Carteriano de el conjunto que son su dominio (en este caso, un entero) y rango (en este caso, un booleano). Si esos conjuntos de valores fueran del mismo tamaño como en Java, entonces sería `2L*(Integer.MAX_VALUE+(-1L*Integer.MIN_VALUE)+1L)` o `8,589,934,592` miembros en el conjunto int × boolean. La mitad de estas son miembros de un conjunto que es nuestra función, así que para proveer una evidencia completa de que nuestra función es correcta necesitariamos revisar al rededor de $4.3 × 10^9$ ejemplos.
 
 Esta es la esencia de la afirmación de que la pruebas no pueden probar la ausencia de errores. Las pruebas pueden demostrar la presencia de características, sin embargo. Pero aún tenemos este tema del tamaño.
 
