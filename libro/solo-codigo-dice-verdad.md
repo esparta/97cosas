@@ -11,7 +11,7 @@ Podrías decir: "Oh, mis comentarios te dirán todo lo que necesitas saber". Per
 
 Trata a tu código como cualquier otra composición, como un poema, un ensayo, un blog público, o un email importante. Elabora lo que expresas con cuidado, de modo que haga lo que debe y comunique tan directamente como sea posible lo que está haciendo, de modo que  comunique tus intenciones cuando no estés. Recuerda que el código útil se usa mucho más tiempo de lo previsto. Los programadores de mantenimiento te lo agradecerán. Y, si eres un programador de mantenimiento y el código en el que estás trabajando no dice la verdad fácilmente, aplica las directrices anteriores de una manera proactiva. Establece algo de cordura en el código y manten tu propia cordura. 
 
-by Peter Sommerlad 
+Por Peter Sommerlad 
 
 Traducción: Espartaco Palma
 
