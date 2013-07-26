@@ -26,6 +26,8 @@ Sería bueno tener la capacidad que Neo tenía en The Matrix, y simplemente desc
 
 La tecnología cambia rápidamente. No te quedes atrás.
 
+Por Clint Shank
+
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Continuous_Learning)
