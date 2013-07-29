@@ -1,9 +1,9 @@
 Usa el algoritmo y estructura de datos correcto
 ===
 
-*Un gran banco con muchas sucursales se que queó de que las nuevas computadoras que había comprado para los cajeros eran muy lentas. Esto era en el tiempo antes de que todos usaran la banca electrónica y los cajeros automáticas no estaban tan extendidos como lo están ahora. La gente visitaba el banco mucho más frecuentemente, y las computadoras lentas estaban haciendo files de gente. En consecuencia, el banco amenazó con romper su contrato con el proveedor. 
+Un gran banco con muchas sucursales se quejó de que las nuevas computadoras que había comprado para los cajeros eran muy lentas. Esto era en el tiempo antes de que todos usaran la banca electrónica y los cajeros automáticas no estaban tan extendidos como lo están ahora. La gente visitaba el banco mucho más frecuentemente, y las computadoras lentas estaban haciendo files de gente. En consecuencia, el banco amenazó con romper su contrato con el proveedor. 
 
-El proveedor envió un especialista en análisis y tuning para determinar la causa de los retrasos. Pronto encontró un programa específico ejecutándose en la terminal consumiendo casi toda la capacidad del CPU. Usando una herramienta de perfiles, se enfocó en el programa y pudo ver la función culpable. El código se leía: *
+El proveedor envió un especialista en análisis y tuning para determinar la causa de los retrasos. Pronto encontró un programa específico ejecutándose en la terminal consumiendo casi toda la capacidad del CPU. Usando una herramienta de perfiles, se enfocó en el programa y pudo ver la función culpable. El código se leía: 
 
 
 ```C
@@ -12,7 +12,7 @@ for (i=0; i<strlen(s); ++i) {
 }
 ```
 
-* La cadena `s` tenía en promedio, miles de caracteres de longitud. El código (escrito por el banco) fué rápidamente cambiado, y los cajeros vivieron felices por siempre...*
+La cadena `s` tenía en promedio, miles de caracteres de longitud. El código (escrito por el banco) fué rápidamente cambiado, y los cajeros vivieron felices por siempre...
 
 ¿No debía el programador haberlo hecho algo mejor que un código que innecesariamente escalaba cuadráticamente?
 
