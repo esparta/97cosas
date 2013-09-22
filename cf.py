@@ -13,10 +13,9 @@ def main(argv):
      return 1
    justfilename, _ = os.path.splitext(filename)
 
-   with open(filename,"r+b") as f:
+   with open(filename,"r") as f, open(filename+".jk","w") as newfile:
       ## Get the title and remove the newline
       title = f.readline().rstrip(os.linesep)
-      print(title)
       if title in ("---", ""):
         sys.stderr.write("Warning! This file appears to be already formatted\n")
         return 1
@@ -33,9 +32,8 @@ permalink: /libro/{filename}/
 """.format(title=title,filename=justfilename)
       #print(head)
       content = f.read()
-      f.seek(0)
-      f.truncate()
-      f.write(head+content)
+      
+      newfile.write(head+content)
       print("Finished transforming {0}".format(filename))
 
 if __name__ == "__main__":
