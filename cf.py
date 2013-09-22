@@ -11,7 +11,8 @@ def main(argv):
      sys.stderr.write("ERROR: file {filename} not found!\n"\
                       .format(filename=filename))
      return 1
-   justfilename, _ = os.path.splitext(filename)
+   justfilename, _ = os.path.splitext(\
+                           os.path.basename(filename))
 
    with open(filename,"r") as f, open(filename+".jk","w") as newfile:
       ## Get the title and remove the newline
