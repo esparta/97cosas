@@ -2,7 +2,7 @@
 layout: page
 title: Las pruebas son el rigor ingenieril del desarrollo de software
 overview: true
-permalink: /libro/libro/pruebas-son-rigor-ingenieril/
+permalink: /libro/pruebas-son-rigor-ingenieril/
 ---
 
 Los desarroladores aman usar metáforas torturadoras cuando se trata de explicar qué es lo que hacen a los miembros de su familia, esposas y otros no técnicos. Con frecuencia recurrumos a la construcción de puentes y otras disciplinas de ingenierías "duras". Todas estas metáforas caen rápidamente, sin embargo, cuando comienzas a intentar presionar hacia a ellas demasiado duro. Resulta que el desarrollo de software no es como muchas de las otras displinas de la ingeniería "duras" en muchos aspectos importantes.
