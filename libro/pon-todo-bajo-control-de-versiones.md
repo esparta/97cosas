@@ -1,4 +1,3 @@
-
 Pon todo bajo Control de Versiones
 ===================
 Autor: Diomidis Spinellis
@@ -12,7 +11,7 @@ Un sistema de control de versión minimiza la fricción entre desarrolladores. C
 
 Al configurar el proyecto no seas tan tacaño: coloca todos los activos del proyecto bajo control de versiones. Además del código fuente, incluye la documentación, herramientas, scripts de creación, casos de prueba, obras de arte, e incluso bibliotecas. Con el proyecto completo y seguro en el repositorio (respaldado regularmente) se reduce al mínimo el daño de perder su disco o datos. Configurar el ambiente de desarrollo en una máquina nueva consiste simplemente en traerse el proyecto desde el repositorio. Esto simplifica la distribución, construcción y las pruebas de código en diferentes plataformas: En cada máquina un simple comando de actualización se asegurará que el software está en la versión actual.
 
-Una vez que ha visto la belleza de trabajar con un sistema de control de versiones, seguir un par de reglas hará que tú y tu equipo sea incluso más eficaz:
+Una vez que ha visto la belleza de trabajar con un sistema de control de versiones, seguir unas cuantas reglas hará que tú y tu equipo sea incluso más eficaz:
 
 * Envíar cada cambio lógico en una operación separada. Agrupar muchos cambios juntos hará difícil el desenredarlo en el futuro. Esto es especialmente importante al hacer una refactorización en todo el proyecto o cambios de estilo, los cuales pueden oscurecer fácilmente otras modificaciones.
 * Acompañar cada envío con un mensaje explicativo. Como mínimo describir brevemente lo que ha cambiado, pero si también deseas grabar la justificación del cambio, entonces este es el mejor lugar para almacenarlo.
