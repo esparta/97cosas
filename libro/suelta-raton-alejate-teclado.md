@@ -47,7 +47,7 @@ Cuando terminé, me sentía satisfecho con el resultado. La nueva versión era f
 
 Mientras me preparaba para trabajar al día siguiente, una idea surgió a mi cabeza: ¿Porqué no validad la cadena usando una expresión regular? Después de unos minutos escribiendo, tenía una implementación funcional de sólo una línea de código. Aquí está:
 
-{% highlight %}
+{% highlight java %}
 
 public static boolean validateTime(String time) {
     return time.matches("(0[1-9]|1[0-2]):[0-5][0-9]:[0-5][0-9] ([AP]M)");

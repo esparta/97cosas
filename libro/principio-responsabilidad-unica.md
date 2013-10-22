@@ -8,7 +8,7 @@ author: Uncle Bob
 
 Uno de los principios más fundamentales de un buen diseño es:
 
-> Reúna las cosas que cambian por la misma razón, y separe aquellas cosas que cambian por diferentes razones.
+>Reúna las cosas que cambian por la misma razón, y separe aquellas cosas que cambian por diferentes razones.
 
 Este principio es conocido también como el Principio de la Responsabilidad Única o SRP (por sus siglas en inglés). En definitiva, se dice que un subsistema, módulo, clase o incluso una función, no debe tener más de una razón para cambar. El ejemplo clásico es una clase que tiene métodos que tienen que ver con reglas de negocio, reportes y base de datos:
 
