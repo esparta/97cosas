@@ -17,7 +17,7 @@ Si planeas pagar la deuda en la próxima iteración, el costo será mínimo. Per
 Paga la deuda técnica tan pronto como puedas; sería imprudente no hacerlo.
 
 
-### Traducción: Natán Calzolari
+Traducción: Natán Calzolari
 
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Act_with_Prudence)
