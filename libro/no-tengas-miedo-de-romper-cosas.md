@@ -1,5 +1,7 @@
 No tengas miedo de romper cosas
-===
+===================
+Autor: Mike Lewis
+-------------------
 
 Todos los que tiene experiencia en el sector indudablemente han trabajado en un proyecto donde el código base era, en el mejor de los casos, precario. El sistema es factorizado pobremente, y cambiar alguna cosa siempre lleva a descomponer otra característica no relacionada. Cada vez que se añade un módulo, la meta del programador es cambiar lo menos que sea posible, y contener la respiración durante cada lanzamiento. Esto es el equivalente de jugar Jenga con vigas de acero en un rascacielos, y se dirige a un desastre.
 
@@ -11,7 +13,6 @@ Redefine las interfases internas, reestructura módulos, refactoriza código cop
 
 Sé el cirujano que no tiene miedo a cortar las partes enfermas para hacer espacio a la cura. La actitud es contagiosa e inspirará a otros a empezar en los proyecto de limpieza que han estado posponiendo. Mantén una lista de "higiene" de las tareas que el equipo siente que valen la pena para el bien general del proyecto. Convence a la administración de que a pesar de que estas tareas podría no producir resultados visibles, reducirán los gastos y agilizarán las futuras versiones. Nunca dejes de preocuparte por la "salud" general del código.
 
-Por Mike Lewis
 
 Traducción: Espartaco Palma
 

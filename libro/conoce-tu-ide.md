@@ -1,5 +1,7 @@
 Conoce tu IDE
-===
+===================
+Autor: Heinz Kabutz
+-------------------
 
 En la década de 1980s nuestros entornos de progración eran por lo general nada mejor que editores de texto glorificados... si teníamos suerte. El resaltado de sintaxis, que damos por sentado hoy en día era un lujo que ciertamente no estaba disponible para todos. Los Pretty Printers para formatear bien nuestro código eran usualmente herramientas externas que tenían que ser ejecutadas para corregir nuestro espaciamiento. Los depuradores eran tambien programas separados ejecutándose paso a paso a través de nuestro código, pero con un montón de teclazos crípticos.
 
@@ -23,7 +25,6 @@ find . -name "*.java" | sed 's/.*\///' | sort | uniq -c | grep -v "^ *1 " | sort
 
 Esperamos que un plomero venga a nuestra casa para poder usar su soplete. Pasemos un poco de tiempo estudiando cómo ser más efectivos con nuestro IDE.
 
-Por Heinz Kabutz 
 
 Traducción: Espartaco Palma
 

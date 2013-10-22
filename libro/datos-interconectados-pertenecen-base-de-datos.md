@@ -1,5 +1,7 @@
 Los grandes datos interconectados pertenecen a una base de datos
-===
+===================
+Autor: Diomidis Spinellis
+-------------------
 
 Si tu aplicación está manejando un conjunto de elementos de datos grandes, persistentes e intenconectados, no dudes en almacenarlos en una base de datos relacional. En el pasado los Sistemas de Administración de Bases de Datos Relacionales (RDBMS, por sus siglas en inglés) solían ser caras, escasas, complejas, y unas bestias indomables. Ya no es el caso. Hoy en día los RDBMS son fáciles de encontrar -- lo más probable es que el sistema que estás usando ya tenga uno o dos instalados. Algunos RDBMS muy capaces como MySQL y PostgreSQL están disponibles como software de código abierto, por lo que el costo de compra ya no es un tema. Aún mejor, los llamados sistemas de bases de datos embebidos se pueden vincular como librerías directamente en tu aplicación, requiriendo casi ninguna configuración o administración -- dos notables proyectos de código abierto son SQLite y HSQLDB. Estos sistemas son extremadamente eficientes.
 
@@ -13,7 +15,6 @@ También puedes crear enlaces eficientes entre tus entidades almacenadas en la b
 
 Finalmente, recuerda que el RDBMS sudará duro para optimizar los comandos SQL, permitiendote el concentrarte en la funcionalidad de tu aplicación en vez de la refinación de algoritmos. Los sistemas avanzados de bases de datos incluso tomarán ventaja de los procesadores multicore a tu espalda. Y, conforme la tecnología mejora, también el rendimiento de tu aplicación.
 
-Por Diomidis Spinellis
 
 Traducción: Espartaco Palma
 

@@ -1,5 +1,7 @@
 Aprende a hacer estimaciones
-===
+===================
+Autor: Giovanni Asproni
+-------------------
 
 Como programador debes ser capaz de proporcionar estimaciones a tus directivos, colegas, y usuarios de las tareas que necesitas realizar, así ellos tendrán una idea razonablemente precisa del tiempo, costo, tecnología y otros recursos necesarios para lograr sus objetivos.
 
@@ -24,7 +26,6 @@ Los estimados, fines y compromisos son independientes uno del otro, pero los bla
 
 Lo que realmente estaba pidiendo el administrador en la conversación anterior al programador era hacer un compromiso basado en un fin no declarado que el administrador tenía en mente, no dar un estimado. La próxima vez que te pidan proporcionar un estimado asegúrate que todos los involucrados sepan de lo que están hablando, y tus proyectos tendrán una mejor oportunidad de éxito. Ahora es el momento de aprender algunas técnicas...
 
-Por Giovanni Asproni 
 
 Traducción: Espartaco Palma
 

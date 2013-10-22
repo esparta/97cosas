@@ -1,5 +1,7 @@
 Haz mucha práctica deliberada
-===
+===================
+Autor: Jon Jagger
+-------------------
 
 La práctica deliberada no es simplemente realizar una tarea. Si te preguntas "¿Porqué estoy realizando ésta tarea?" y tu respuesta es "para completar la tarea", entonces no estás haciendo práctica deliberada.
 
@@ -24,7 +26,6 @@ No tiene mucho sentido la práctica deliberada en algo ya eres un experto. La pr
 
 La práctica deliberada es acerca del aprendizaje. Acerca del aprendizaje que te reta; aprendiendo que cambias tu comportamiento. Buena suerte.
 
-Por Jon Jagger
 
 Traducción: Espartaco Palma
 

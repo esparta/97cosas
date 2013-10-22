@@ -1,5 +1,7 @@
 El Principio de Responsabilidad Única
-===
+===================
+Autor: Uncle Bob
+-------------------
 
 Uno de los principios más fundamentales de un buen diseño es:
 
@@ -37,7 +39,6 @@ El lector astuto verá que aún existen dependencias en la solución anterior. E
 
 La aplicación cuidadosa del SRP, separando las cosas que cambian por diferentes razones es una de las claves para la creación de diseños que tienen una estructura de componentes de implementación independientemente.
 
-Por Uncle Bob
 
 Traducción: Espartaco Palma
 

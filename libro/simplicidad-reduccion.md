@@ -1,5 +1,7 @@
 La Simplicidad viene de la Reducción
-===
+===================
+Autor: Paul W. Homer
+-------------------
 
 "Hazlo de nuevo...", me dijo el jefe mientras su dedo presionaba con fuerza la tecla de borrado. Miré la pantalla de la computadora con una sensación de vación muy familiar, mientras mi código -- línea tras línea -- desparecía en el olvido.
 
@@ -17,7 +19,6 @@ El código debería ser simple. Debería ser un mínimo de variables, funciones,
 
 Por supuesto, si no lo logra entonces solo borra todo y escríbelo una vez más. Iniciar a diseñar desde lo recordado a menudo puede ayudar a cortar una gran cantidad de desorden innecesario.
 
-Por Paul W. Homer 
 
 Traducción: Espartaco Palma
 

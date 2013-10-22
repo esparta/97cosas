@@ -1,5 +1,7 @@
 Escribe pequeñas funciones usando ejemplos
-===
+===================
+Autor: Keith Braithwaite
+-------------------
 
 Nos gustaría escribir código que fuese correcto, y tener evidencia en mano de que es correcto. Puede ayudar con ambos temas el pensar en el "tamaño" de una función. No en el sentido de la cantidad de código que implementa una función -- a pesar de que es interesante -- sino más bien del tamaño como una función matemática que nuestro código manifiesta.
 
@@ -16,14 +18,13 @@ Esta es la esencia de la afirmación de que la pruebas no pueden probar la ausen
 El dominio del problema nos ayuda. La natura de Go significa que el número de liberties de una piedra no es cualquier entero, pero exactamente uno de {1,2,3,4}. Así pues, podríamos escribir alternativamente:
 
 ```java
-LibertyCount = {1,2,3,4} 
+LibertyCount = {1,2,3,4}
 boolean atari(LibertyCount libertyCount)
     libertyCount == 1
 ```
 
 Esto es mucho más manejable: La función calculada es ahora un conjunto con cuando mucho ocho miembros. De hecho, cuatro ejemplos seleccionados constituiría la evidencia de la certeza completa de que la función es correcta. Esta es la razón por la cual es una buena idea usar tipos estrechamente relacionados al dominio del problema para escribir programas, en vez de tipos nativos. Usar tipos inspirados en dominios a menudo puede hacer que nuestra funciones sean mucho más pequeñas. Una forma de encontrar que tipo sería es encontrar los ejemplos para comprobar en terminos del dominio del problema, antes de escribir la función.
 
-Por Keith Braithwaite 
 
 Traducción: Espartaco Palma
 

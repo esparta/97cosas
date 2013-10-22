@@ -23,7 +23,7 @@ def main(argv):
       ## skip the next line, should be ===
       _ = f.readline()
       ## Get the authoer (should be the third line)
-      author = f.readline().rstrip(os.linesep)[4:]
+      author = f.readline().rstrip(os.linesep)[7:]
       ## skip the next line, should be ===
       _ = f.readline()
       ## create the head

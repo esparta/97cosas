@@ -1,5 +1,7 @@
 Usa el algoritmo y estructura de datos correcto
-===
+===================
+Autor: JC van Winkel
+-------------------
 
 Un gran banco con muchas sucursales se quejó de que las nuevas computadoras que había comprado para los cajeros eran muy lentas. Esto era en el tiempo antes de que todos usaran la banca electrónica y los cajeros automáticas no estaban tan extendidos como lo están ahora. La gente visitaba el banco mucho más frecuentemente, y las computadoras lentas estaban haciendo filas de gente. En consecuencia, el banco amenazó con romper su contrato con el proveedor.
 
@@ -7,9 +9,12 @@ El proveedor envió un especialista en análisis y _tuning_ para determinar la c
 
 
 ```C
+
 for (i=0; i<strlen(s); ++i) {
   if (... s[i] ...) ...
 }
+
+
 ```
 
 La cadena `s` tenía en promedio, miles de caracteres de longitud. El código (escrito por el banco) fué rápidamente cambiado, y los cajeros vivieron felices por siempre...
@@ -19,9 +24,11 @@ La cadena `s` tenía en promedio, miles de caracteres de longitud. El código (e
 Cada llamada a `strlen` recorría cada uno de los miles de caracteres en la cadena para encontrar su caracter de terminación nula. La cadena, sin embargo, nunca cambiaba. El determinar su longitud por adelantado, el programador podía haber ahorrado cientos de llamadas a `strlen` (y millones de ejecuciones del bucle):
 
 ```C
+
 n=strlen(s);
 for (i=0; i<n; ++i) {
   if (... s[i] ...) ...
+
 }
 ```
 
@@ -37,7 +44,6 @@ Un buen programador debería también saber cuándo usar un algoritmo abominable
 
 Entonces, lee algunos buenos libros -- y asegúrate que los entiendas. Si realmente lees bien "El Arte de la programación" de Donald Knuth, podrías incluso ser afortunado: Encuentra una equivocación del autor y gana uno de los cheques de dólares hexadecimales ($2.56).
 
-Por JC van Winkel
 
 Traducción: Espartaco Palma
 

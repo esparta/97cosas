@@ -1,5 +1,7 @@
 Aprende a decir "Hola, Mundo"
-===
+===================
+Autor: Thomas Guest
+-------------------
 
 Paul Lee, nombre de usuario 'leep', comunmente conocido como Hoppy. tenía una reputación como el experto local en temas de programación. Necesitaba ayuda. Caminé hacia el escritorio de Hoppy y le pregunté, ¿podrías echar un vistazo al código por mí?
 
@@ -37,7 +39,6 @@ int main()
 }
 ```
 
-Por Thomas Guest 
 
 Traducción: Espartaco Palma
 

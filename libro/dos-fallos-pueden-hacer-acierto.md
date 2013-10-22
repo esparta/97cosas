@@ -1,5 +1,7 @@
 Dos fallos pueden hacer un acierto (y es difícil de arreglar)
-===
+===================
+Autor: Allan Kelly
+-------------------
 
 El código nunca miente, pero puede contradecirse. Algunas contradiciones llevan a esos momentos de "¿Cómo es posible que esto funcione?".
 
@@ -21,7 +23,6 @@ Fallos sencillos pueden ser fáciles de ver y fáciles de arreglar. Son los prob
 
 No hay un consejo simple que se pueda dar en cómo localizar fallos surgidos de defectos simpatéticos. Es necesario darse cuenta de la posiblidad, una cabeza clara, y una voluntad de considerar todas las posibilidades.
 
-Por Allan Kelly
 
 Traducción: Espartaco Palma
 

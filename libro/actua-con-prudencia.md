@@ -1,6 +1,6 @@
 Actúa con prudencia
 ===================
-Por Seb Rose
+Autor: Seb Rose
 -------------------
 
 >“En todo lo que emprendas, actúa con prudencia y considera las consecuencias”

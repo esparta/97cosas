@@ -1,5 +1,7 @@
 Antes de Refactorizar
-===
+===================
+Por Rajith Attapattu
+-------------------
 
 En algún punto todo programador necesitará refactorizar código existente. Pero antes de hacerlo por favor piensa en lo siguiente, ya que tu y otras personas podrían ahorrar una gran cantidad de tiempo (y dolor):
 
@@ -12,7 +14,6 @@ En algún punto todo programador necesitará refactorizar código existente. Per
 * Recuerda que los humanos cometen errores. Reestructurar no siempre garantiza que el nuevo código será mejor -- o tan bueno como -- el intento anterior. He visto y sido parte de muchos intentos de reestructuración fallidos. No fue bonito, pero fue humano.
 
 
-Por Rajith Attapattu 
 
 Traducción: Espartaco Palma
 

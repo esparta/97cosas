@@ -1,5 +1,7 @@
 Codificando con la razón
-===
+===================
+Autor: Cal Evans
+-------------------
 
 Trata de razonar sobre la correctitud de software de mano resulta en una prueba formal de que es más que el código y es más contener errores que el código. Las herramientas automatizadas son preferibles, pero no siempre posibles. Lo siguiente describe una ruta intermedia: razonamiento semi-formal sobre la corrección.
 
@@ -23,7 +25,6 @@ Muchas de las prácticas de codificación que son bien conocidas (aunque quizás
 
 Conforme se razone sobre la correctitud, argumentar sobre tu código te ofrece entendimiento sobre él. Comunica sus descubrimientos para el beneficio de todos.
 
-Por Yechiel Kimchi 
 
 Traducción: Espartaco Palma
 

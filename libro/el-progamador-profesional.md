@@ -1,5 +1,7 @@
 El Programador Profesional
-===
+===================
+Autor: Uncle Bob
+-------------------
 
 ## ¿Qué es un programador profesional?
 
@@ -13,8 +15,6 @@ El rasgo más importante de un programador profesional es la responsabilidad per
 
 Los profesionales son responsables. Asumen la responsabilidad por sus propias carreras. Asumen la responsabilidad de asegurarse de que su código funciona correctamente. Asumen la responsabilidad de la calidad de su mano de obra. No abandonan sus principios cuando los plazos se ciernen. De hecho, cuando la presión aumenta, los profesionales aferran a las disciplinas que saben son correctas.
 
-
-Por Uncle Bob
 
 Traducción: Espartaco Palma
 

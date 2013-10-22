@@ -1,5 +1,7 @@
 ¡No toques ese código!
-===
+===================
+Autor: Cal Evans
+-------------------
 
 Nos ha pasado a todos en algún momento. Tu código fue llevado al servidor de staging para las pruebas del sistema y el director de pruebas te lo regresa diciendo que se tienen un problema. Tu primera reacción es "Rápido, déjame arreglarlo -- se lo qué está mal".
 
@@ -20,7 +22,6 @@ El director de staging debería empaquetar y desplegar el código al servidor de
 
 Bajo ninguna circunstancia -- nunca, en lo absoluto -- debe un desarrollador tener acceso al servidor de producción. Si hay algún problema, el personal de soporte debería solucionarlo o requerir que lo arreglen. Después de envíarlo al SCC, ellos pasarán un parche desde ahí. Algunos de los mayores desastres de programación de los que he sido parte han tenido lugar porque alguien *ejeeemmm*yo*eejeeemm* violó esta última regla. Si está descompuesto, producción no es el lugar para arreglarlo.
 
-Por Cal Evans 
 
 Traducción: Espartaco Palma
 
