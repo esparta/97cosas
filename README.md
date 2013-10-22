@@ -6,7 +6,7 @@ libremente.
 
 Índice
 
-* [Actúa con prudencia](/blob/master/libro/actua-con-prudencia.md)
+* [Actúa con prudencia](/libro/actua-con-prudencia.md)
 
 [1]: http://programmer.97things.oreilly.com/wiki/index.php/97_Things_Every_Programmer_Should_Know
 [2]: http://creativecommons.org/licenses/by/3.0/us/deed.es
