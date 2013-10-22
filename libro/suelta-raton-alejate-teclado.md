@@ -26,7 +26,7 @@ if (Integer.parseInt(time.substring(0, 2)) > 12) {
     return false;
 }
 
-{% highlight %}
+{% endhighlight %}
 
 El mismo código aparecía dos veces más, con cambios apropiados para el caracter y el límite superior, para poner a prueba los minutos y segundos. El método terminaba con estas líneas para comprobar AM y PM.
 
@@ -37,7 +37,7 @@ if (!time.substring(9, 11).equals("AM") &
     return false;
 }
 
-{% highlight %}
+{% endhighlight %}
 
 Si ninguna de esta serie de comparaciones fallaba, regresando `false`, el método regresaba `true`.
 
@@ -53,7 +53,7 @@ public static boolean validateTime(String time) {
     return time.matches("(0[1-9]|1[0-2]):[0-5][0-9]:[0-5][0-9] ([AP]M)");
 }
 
-{% highlight %}
+{% endhighlight %}
 
 El punto de esta historia no es que eventualmente reemplacé cerca de 30 líneas de código con sólo una. El punto es que hasta que me alejé de la computadora, pensaba que mi primer intento era la mejor solución al problema.
 

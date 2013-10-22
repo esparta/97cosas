@@ -28,7 +28,7 @@ Hoppy admitió que estaba seguro. Para mi sorpresa, no buscó en K&R. En vez de 
 
 $ cc tryit.c && ./a.out
 
-{% highlight %}
+{% endhighlight %}
 
 ¡Mira! Su programa, concebido unos pocos minutos antes,ahora estaba en marcha y funcionando. Probamos unos cuantos valores y confirmó mis sospechas (¡por lo que había tenido razón sobre algo!) y entonces cotejó la sección correspondiente de K&R. Le agradecí a Hoppy y me fuí, una vez más, teniendo cuidado de no molestar su piramide de latas de soda.
 
@@ -44,7 +44,7 @@ int main()
     return 0;
 }
 
-{% highlight %}
+{% endhighlight %}
 
 
 Traducción: Espartaco Palma

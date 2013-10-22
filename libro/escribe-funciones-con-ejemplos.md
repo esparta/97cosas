@@ -15,7 +15,7 @@ Por ejemplo, en el juego de Go hay una condición llamada atari, en la cual la p
 boolean atari(int libertyCount)
     libertyCount < 2
 
-{% highlight %}
+{% endhighlight %}
 
 Esto es más grande de lo que parece. Una función matemática puede ser entendida como un conjunto, algún subconjunto del producto Carteriano de el conjunto que son su dominio (en este caso, un entero) y rango (en este caso, un booleano). Si esos conjuntos de valores fueran del mismo tamaño como en Java, entonces sería `2L*(Integer.MAX_VALUE+(-1L*Integer.MIN_VALUE)+1L)` o `8,589,934,592` miembros en el conjunto int × boolean. La mitad de estas son miembros de un conjunto que es nuestra función, así que para proveer una evidencia completa de que nuestra función es correcta necesitariamos revisar al rededor de 4.3 × 10<sup>9</sup> ejemplos.
 
@@ -29,7 +29,7 @@ LibertyCount = {1,2,3,4}
 boolean atari(LibertyCount libertyCount)
     libertyCount == 1
 
-{% highlight %}
+{% endhighlight %}
 
 Esto es mucho más manejable: La función calculada es ahora un conjunto con cuando mucho ocho miembros. De hecho, cuatro ejemplos seleccionados constituiría la evidencia de la certeza completa de que la función es correcta. Esta es la razón por la cual es una buena idea usar tipos estrechamente relacionados al dominio del problema para escribir programas, en vez de tipos nativos. Usar tipos inspirados en dominios a menudo puede hacer que nuestra funciones sean mucho más pequeñas. Una forma de encontrar que tipo sería es encontrar los ejemplos para comprobar en terminos del dominio del problema, antes de escribir la función.
 

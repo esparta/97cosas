@@ -18,7 +18,7 @@ for (i=0; i<strlen(s); ++i) {
 }
 
 
-{% highlight %}
+{% endhighlight %}
 
 La cadena `s` tenía en promedio, miles de caracteres de longitud. El código (escrito por el banco) fué rápidamente cambiado, y los cajeros vivieron felices por siempre...
 
@@ -34,7 +34,7 @@ for (i=0; i<n; ++i) {
 
 }
 
-{% highlight %}
+{% endhighlight %}
 
 Todos conocen el viejo dicho "primero haz que funcione, luego haz que funcione rápido" para evitar los trampas de la micro-optimización. Pero el ejemplo de arriba casi nos hace creer que el programador siguió el Maquiavélico adagio "primero haz que funcione lentamente".
 

@@ -24,7 +24,7 @@ Por último, como programadores tenemos herramientas streaming Unix que pueden a
 
 find . -name "*.java" | sed 's/.*\///' | sort | uniq -c | grep -v "^ *1 " | sort -r
 
-{% highlight %}
+{% endhighlight %}
 
 Esperamos que un plomero venga a nuestra casa para poder usar su soplete. Pasemos un poco de tiempo estudiando cómo ser más efectivos con nuestro IDE.
 

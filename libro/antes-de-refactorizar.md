@@ -3,7 +3,7 @@ layout: page
 title: Antes de Refactorizar
 overview: true
 permalink: /libro/antes-de-refactorizar/
-author: ith Attapattu
+author: Rajith Attapattu
 ---
 
 En algún punto todo programador necesitará refactorizar código existente. Pero antes de hacerlo por favor piensa en lo siguiente, ya que tu y otras personas podrían ahorrar una gran cantidad de tiempo (y dolor):
