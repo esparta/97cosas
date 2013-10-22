@@ -3,8 +3,8 @@ layout: page
 title: Un comentario acerca de los comentarios
 overview: true
 permalink: /libro/comentario-acerca-de-comentarios/
+author: Yechiel Kimchi
 ---
-
 
 En mi primera clase de programación en la universidad, el profesor nos entregó dos hojas de codificación BASIC. En el pizarrón, se leía la asignatura: "Escribir un programa para ingresar y promediar 10 puntuaciones de bolos". A continuación, el profesor salió de la habitación. ¿Qué tan difícil puede ser? No recuerdo mi solución final, pero estoy seguro que tenía un bucle FOR/NEXT en él y no podía haber sido de más de 15 líneas de longitud en total. Las hojas de codificación -- para los niños leyendo esto, sí, solíamos escribir el código a mano antes de ingresarlo a la computadora -- permitían alrededor de 70 líneas de código cada una. Estaba confundido sobre el por qué el maestro nos había dado dos hojas. Debido a que mi manuscrito había sido atroz, usé la segunda en transcribir mi código muy cuidadosamente, esperando obtener un par de puntos extras por el estilo.
 
@@ -18,7 +18,7 @@ Por otro lado, puedes irte demasiado lejos con tus comentarios. Asegúrate que t
 
 En un trabajo, estuve en desacuerdo con una decisión de diseño hecha por mis superiores. Al sentirme sarcástico, como suelen estar los programadores jóvenes, copie el texto del correo donde se me instruía a usar su diseño en el bloque del comentario principal del archivo. Sucedió que los administradores de esta tienda en particular revisaron el código cuando lo envié. Fue mi primera introducción al término "despido por límite de profesión".
 
-Por Cal Evans
+Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/A_Comment_on_Comments)
 

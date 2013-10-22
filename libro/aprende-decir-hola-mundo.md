@@ -3,6 +3,7 @@ layout: page
 title: Aprende a decir "Hola, Mundo"
 overview: true
 permalink: /libro/aprende-decir-hola-mundo/
+author: Thomas Guest
 ---
 
 Paul Lee, nombre de usuario 'leep', comunmente conocido como Hoppy. tenía una reputación como el experto local en temas de programación. Necesitaba ayuda. Caminé hacia el escritorio de Hoppy y le pregunté, ¿podrías echar un vistazo al código por mí?
@@ -27,7 +28,7 @@ Hoppy admitió que estaba seguro. Para mi sorpresa, no buscó en K&R. En vez de 
 
 $ cc tryit.c && ./a.out
 
-{% endhighlight %}
+{% highlight %}
 
 ¡Mira! Su programa, concebido unos pocos minutos antes,ahora estaba en marcha y funcionando. Probamos unos cuantos valores y confirmó mis sospechas (¡por lo que había tenido razón sobre algo!) y entonces cotejó la sección correspondiente de K&R. Le agradecí a Hoppy y me fuí, una vez más, teniendo cuidado de no molestar su piramide de latas de soda.
 
@@ -39,13 +40,12 @@ De regreso a mi escritorio, cerré mi IDE. Me había hecho tan familar al trabaj
 
 int main()
 {
-    printf("Hola, Mundo\n");
+    printf("Hello, World\n");
     return 0;
 }
 
-{% endhighlight %}
+{% highlight %}
 
-Por Thomas Guest 
 
 Traducción: Espartaco Palma
 

@@ -3,6 +3,7 @@ layout: page
 title: Reinventa la rueda frecuentemente
 overview: true
 permalink: /libro/reinventa-rueda-frecuentemente/
+author: Jason P Sage
 ---
 
 > "Sólo tienes que utilizar algo existente -- es una tontería reinventar la rueda..."
@@ -17,7 +18,6 @@ Reinventar la rueda y hacerlo mal es más valioso que equivocarse la primera vez
 
 Los hechos aprendidos y la inteligencia del libro son cruciales, pero convertirse en un gran programador es mucho más sobre adquirir experiencia que  la recolección de hechos. Reinventar la rueda es tan importante para la educación y habilidades de un desarrollador como el levantamiento de pesas al fisicoculturista.
 
-Por Jason P Sage 
 
 Traducción: Espartaco Palma
 

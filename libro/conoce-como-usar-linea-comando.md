@@ -3,6 +3,7 @@ layout: page
 title: Conoce cómo usar las herramientas de línea de comandos
 overview: true
 permalink: /libro/conoce-como-usar-linea-comando/
+author: Carroll Robinson
 ---
 
 Hoy en día, muchas herramientas de desarrollo de software se empaquetan como Entornos Integrados de Desarrollo (IDE, Integrated Development Environments). Microsoft Visual Studio y el proyecto de código abierto Eclipse son dos ejemplos populares, aunque hay muchos otros. Hay mucho por lo cual nos gustan los IDE. No sólo porque son fáciles de usar, sino que también alivian al programador de pensar en un montón de pequeños detalles que involucran el proceso de construcción.
@@ -15,7 +16,6 @@ Además de mejorar tu entendimiento del proceso de construcción, hay algunas ta
 
 Pero espera. ¿Acaso el IDE no existe para hacer el desarrollo más fácil, y para mejorar la productividad del programador? Bueno, sí. La propuesta presentada aquí no es que debes dejar de usar un IDE. La propuesta es que deberías "mirar debajo de la cortina" y entender lo que el IDE está haciendo por tí. La mejor manera de hacerlo es aprender a usar las herramienta de línea de comandos. Luego, cuando vuelvas a usar tu IDE, tendrás un mucho mejor entendimiento de qué es lo que está haciendo por tí y cómo puedes controlar el proceso de construcción. Por otra parte, una vez que domines el uso de las herramientas de línea de comandos y experimentes el poder y flexibilidad que ofrecen, quizás podrías encontrar que prefieres la línea de comando sobre el IDE.
 
-Por Carroll Robinson 
 
 Traducción: Espartaco Palma
 

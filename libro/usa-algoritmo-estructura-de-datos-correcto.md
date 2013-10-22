@@ -3,6 +3,7 @@ layout: page
 title: Usa el algoritmo y estructura de datos correcto
 overview: true
 permalink: /libro/usa-algoritmo-estructura-de-datos-correcto/
+author: JC van Winkel
 ---
 
 Un gran banco con muchas sucursales se quejó de que las nuevas computadoras que había comprado para los cajeros eran muy lentas. Esto era en el tiempo antes de que todos usaran la banca electrónica y los cajeros automáticas no estaban tan extendidos como lo están ahora. La gente visitaba el banco mucho más frecuentemente, y las computadoras lentas estaban haciendo filas de gente. En consecuencia, el banco amenazó con romper su contrato con el proveedor.
@@ -16,7 +17,8 @@ for (i=0; i<strlen(s); ++i) {
   if (... s[i] ...) ...
 }
 
-{% endhighlight %}
+
+{% highlight %}
 
 La cadena `s` tenía en promedio, miles de caracteres de longitud. El código (escrito por el banco) fué rápidamente cambiado, y los cajeros vivieron felices por siempre...
 
@@ -29,9 +31,10 @@ Cada llamada a `strlen` recorría cada uno de los miles de caracteres en la cade
 n=strlen(s);
 for (i=0; i<n; ++i) {
   if (... s[i] ...) ...
+
 }
 
-{% endhighlight %}
+{% highlight %}
 
 Todos conocen el viejo dicho "primero haz que funcione, luego haz que funcione rápido" para evitar los trampas de la micro-optimización. Pero el ejemplo de arriba casi nos hace creer que el programador siguió el Maquiavélico adagio "primero haz que funcione lentamente".
 
@@ -45,7 +48,6 @@ Un buen programador debería también saber cuándo usar un algoritmo abominable
 
 Entonces, lee algunos buenos libros -- y asegúrate que los entiendas. Si realmente lees bien "El Arte de la programación" de Donald Knuth, podrías incluso ser afortunado: Encuentra una equivocación del autor y gana uno de los cheques de dólares hexadecimales ($2.56).
 
-Por JC van Winkel
 
 Traducción: Espartaco Palma
 

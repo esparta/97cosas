@@ -3,6 +3,7 @@ layout: page
 title: Mejora el código quitándolo
 overview: true
 permalink: /libro/mejora-codigo-quitandolo/
+author: Pete Goodliffe
 ---
 
 Menos es más. Es una máxima un poco trillada, pero algunas veces es realmente cierto.
@@ -26,7 +27,6 @@ Así que ¿porqué terminó ahí ese código innecesario? ¿Porqué un programad
 
 ¿En qué trabajas ahora mismo? ¿Es todo necesario?
 
-Por Pete Goodliffe
 
 Traducción: Espartaco Palma
 

@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Suelta el ratón y aléjate del teclado
-permalink: /libro/suelta-raton-alejate-teclado/
 overview: true
+permalink: /libro/suelta-raton-alejate-teclado/
+author: Cay Horstmann
 ---
 
 Te has enfocado por horas en algún raro problema y no hay solución a la vista. Así que te levantas para estirar las piernas, o para llegar a la máquina expendedora, y en el camino de vuelta la respuesta repentinamente se vuelve evidente.
@@ -25,7 +26,7 @@ if (Integer.parseInt(time.substring(0, 2)) > 12) {
     return false;
 }
 
-{% endhighlight %}
+{% highlight %}
 
 El mismo código aparecía dos veces más, con cambios apropiados para el caracter y el límite superior, para poner a prueba los minutos y segundos. El método terminaba con estas líneas para comprobar AM y PM.
 
@@ -36,7 +37,7 @@ if (!time.substring(9, 11).equals("AM") &
     return false;
 }
 
-{% endhighlight %}
+{% highlight %}
 
 Si ninguna de esta serie de comparaciones fallaba, regresando `false`, el método regresaba `true`.
 
@@ -46,19 +47,18 @@ Cuando terminé, me sentía satisfecho con el resultado. La nueva versión era f
 
 Mientras me preparaba para trabajar al día siguiente, una idea surgió a mi cabeza: ¿Porqué no validad la cadena usando una expresión regular? Después de unos minutos escribiendo, tenía una implementación funcional de sólo una línea de código. Aquí está:
 
-{% highlight java %}
+{% highlight %}
 
 public static boolean validateTime(String time) {
     return time.matches("(0[1-9]|1[0-2]):[0-5][0-9]:[0-5][0-9] ([AP]M)");
 }
 
-{% endhighlight %}
+{% highlight %}
 
 El punto de esta historia no es que eventualmente reemplacé cerca de 30 líneas de código con sólo una. El punto es que hasta que me alejé de la computadora, pensaba que mi primer intento era la mejor solución al problema.
 
 Así que la próxima vez que estés ante un problema desagradable, hazte un favor. Una vez que realmente entiendas el problema ve a hacer algo que involucre el lado creativo de tu cerebro -- esboza el problema, escucha algo de música, o sólo da un paseo al aire libre. A veces la mejor cosa que puedes hacer para resolver un problema es soltar el ratón y alejarte del teclado.
 
-Por Cay Horstmann
 
 Traducción: Espartaco Palma
 

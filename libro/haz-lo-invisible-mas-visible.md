@@ -3,6 +3,7 @@ layout: page
 title: Haz lo invisible más visible
 overview: true
 permalink: /libro/haz-lo-invisible-mas-visible/
+author: Jon Jagger
 ---
 
 Muchos aspectos de la invisibilidad son correctamente dichos como principios a usar. Nuestra terminología es rica en metáforas de invisibilidad -- mecanismos de transparencia y ocultamiento de información, para mencionar sólo dos. El software y el proceso de desarrollo pueden ser, para parafrasear a Douglas Adams, casi invisibles:
@@ -21,7 +22,6 @@ La invisibilidad puede ser peligrosa. Piensas más claramente cuando tienes algo
 
 Es mejor desarrollar software con una gran cantidad de evidencia visible habitual. La visibilidad otorga confianza de que el progreso es genuino y no una ilusión, deliberado y no involuntario, repetible y no accidental.
 
-Por Jon Jagger
 
 Traducción: Espartaco Palma
 

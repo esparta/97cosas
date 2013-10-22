@@ -3,6 +3,7 @@ layout: page
 title: Las pruebas son el rigor ingenieril del desarrollo de software
 overview: true
 permalink: /libro/pruebas-son-rigor-ingenieril/
+author: Neal Ford
 ---
 
 Los desarroladores aman usar metáforas torturadoras cuando se trata de explicar qué es lo que hacen a los miembros de su familia, esposas y otros no técnicos. Con frecuencia recurrumos a la construcción de puentes y otras disciplinas de ingenierías "duras". Todas estas metáforas caen rápidamente, sin embargo, cuando comienzas a intentar presionar hacia a ellas demasiado duro. Resulta que el desarrollo de software no es como muchas de las otras displinas de la ingeniería "duras" en muchos aspectos importantes.
@@ -13,7 +14,6 @@ Probar cosas "duras" es difícil porque tienes que construirlo para probarlo, lo
 
 Las pruebas toman su tiempo, al igual que el análisis estructual lleva su tiempo. Ambas actividades garantizan la calidad del producto final. Es hora de que los desarrolladores tomen el mando de la responsabilidad de lo que producen. Las probar por sí mismas no son suficiente, pero son necesarias. Probar es el rigor ingenieril del desarrollo de software.
 
-Por Neal Ford 
 
 Traducción: Espartaco Palma
 

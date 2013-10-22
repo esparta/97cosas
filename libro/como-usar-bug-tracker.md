@@ -3,6 +3,7 @@ layout: page
 title: ¿Cómo usar un Gestor de Errores?
 overview: true
 permalink: /libro/como-usar-bug-tracker/
+author: Matt Doar
 ---
 
 Como sea que lo llames, bug, defecto, o incluso "efecto del lado de diseño", no hay manera de alejarse de ellos. Conocer cómo enviar un buen reporte de error y lo que se debe buscar son habilidades para mantener a un proyecto llevándose bien:
@@ -25,7 +26,6 @@ Asegúrate que todos sepan cómo encontrar el error en el que se supone está tr
 
 Finalmente, recuerda que un error no es una unidad estándar de trabajo más que una línea de código es una medida precisa del esfuerzo.
 
-Por Matt Doar
 
 Traducción: Espartaco Palma
 

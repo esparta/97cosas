@@ -3,7 +3,9 @@ layout: page
 title: Retrocede y Automatiza, Automatiza, Automatiza
 overview: true
 permalink: /libro/retrocede-automatiza/
+author: Cay Horstmann
 ---
+
 
 Trabajé con programadores que, cuando se les pidió un conteo del número de líneas de código de un módulo, copiaban los archivos en un procesador de texto y usaban la característica de "número de líneas". Y lo hiceron de nuevo la siguiente semana. Y la semana siguiente. Fue malo.
 
@@ -31,7 +33,6 @@ Si una parte de tu proceso requiere documentos Word, hojas de cálculo, o imáge
 
 No tienes que aprender todo sobre bash o Ant para empezar. Aprende sobre la marcha. Cuando tengas una tarea que crees que pueda y deba ser automatizada, aprende sólo lo necesario acerca de la herramienta para hacerlo. Hazlo al inicio del proyecto cuando el tiempo es más fácil de encontrar. Una vez que has tenido éxito, tú (y tu jefe) verán que tiene sentido el invertir en automatización.
 
-Por Cay Horstmann 
 
 Traducción: Espartaco Palma
 

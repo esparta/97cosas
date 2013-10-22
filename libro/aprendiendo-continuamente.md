@@ -3,8 +3,8 @@ layout: page
 title: Aprendiendo continuamente
 overview: true
 permalink: /libro/aprendiendo-continuamente/
+author: Clint Shank
 ---
-
 
 Vivimos en tiempos interesanes. Conforme el desarrollo se distribuye en todo el mundo, se aprende que hay muchas personas capaces de hacer tu trabajo. Necesitas seguir aprendiendo para seguir siendo comercializable. De lo contrario, te convertirás en dinosuario, atrapado en el mismo trabajo hasta que, un día, no serás necesario o tu trabajo será subcontratado a algún recurso más barato.
 
@@ -31,7 +31,6 @@ Sería bueno tener la capacidad que Neo tenía en The Matrix, y simplemente desc
 
 La tecnología cambia rápidamente. No te quedes atrás.
 
-Por Clint Shank
 
 Traducción: Espartaco Palma
 

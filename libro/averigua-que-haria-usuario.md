@@ -1,9 +1,10 @@
 ---
 layout: page
-title: 03. Averigua qué haría el usuario (tu no eres un usuario)
+title: Averigua qué haría el usuario (tu no eres un usuario)
+overview: true
 permalink: /libro/averigua-que-haria-usuario/
+author: Giles Colborne
 ---
-
 
 Todos tendemos a asumir que los demás piensan como nosotros, pero no es así. Los psicólogos lo llaman efecto del falso consenso. Cuando la gente piensa o actúa de un modo diferente a nosotros, es muy probable que (subconscientemente) los consideremos defectuosos en cierto modo.
 
@@ -19,7 +20,6 @@ Los usuarios tienden a salir del paso de alguna manera. Encontrarán algo que fu
 
 También te encontrarás con que hay una marcada diferencia entre lo que los usuarios dicen que quieren y lo que realmente quieren. Lo cual es preocupante, ya que para averiguar los requerimientos lo normal es preguntárselos a ellos. Es por esto que el mejor modo de relevar los requerimientos es observando a los usuarios. Pasar una hora con ellos es mucho más informativo que pasar un día suponiendo lo que quieren.
 
-Por Giles Colborne
 
 Traducción: Natán Calzolari
 

@@ -3,6 +3,7 @@ layout: page
 title: Lee el código
 overview: true
 permalink: /libro/lee-el-codigo/
+author: Karianne Berg
 ---
 
 Nosotros los programadores somos criaturas raras. Amamos escribir código. Pero cuando toca leerlo usualmente nos asustamos. Después de todo, escribir código es más divertido, y leerlo es difícil -- algunas veces casi imposible. Leer el código de otras personas es particularmente difícil. No necesariamente porque el código de las demás personas es malo, sino porque probablemente piensan y solucionan problemas en una manera diferente a ti. ¿Alguna vez consideraste que leer el código de alguien más podría mejorar el tuyo?
@@ -15,7 +16,7 @@ Leer tu código antiguo de algún proyecto que no estás trabajando actualmente 
 
 Así que la próxima vez que sientas la necesidad de mejorar tus habilidades de programación, no leas otro libro. Lee el código.
 
-Por Karianne Berg
+
 
 Traducción: Espartaco Palma
 

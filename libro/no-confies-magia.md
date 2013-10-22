@@ -3,6 +3,7 @@ layout: page
 title: No confíes en el "Aquí sucede la magia"
 overview: true
 permalink: /libro/no-confies-magia/
+author: AlanGriffiths
 ---
 
 Si nos fijamos en cualquier actividad, proceso o disciplina desde lo lejano parece simple. Los gerentes sin experiencia en el desarrollo piensan que lo que hacen los programadores es sencillo, y los programadores sin experiencia en administración piensan lo mismo sobre lo que hacen los gerentes.
@@ -21,9 +22,8 @@ Otro departamento estaba funcionando sin problemas -- proyectos enviados a tiemp
 
 No tienes que entender toda la magia que sucede en tu proyecto, pero no está de más entender algo de ella -- o apreciar a aquellos que entienden las partes que tú no.
 
-Más importe, asegurate de que cuando la magia se detenga, pueda ser iniciada de nuevo.
+Más importante, asegurate de que cuando la magia se detenga, pueda ser iniciada de nuevo.
 
-Por AlanGriffiths 
 
 Traducción: Espartaco Palma
 

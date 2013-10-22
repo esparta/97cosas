@@ -1,12 +1,14 @@
 ---
 layout: page
 title: El Principio de Responsabilidad Única
-permalink: /libro/principio-responsabilidad-unica/
 overview: true
+permalink: /libro/principio-responsabilidad-unica/
+author: Uncle Bob
 ---
+
 Uno de los principios más fundamentales de un buen diseño es:
 
->Reúna las cosas que cambian por la misma razón, y separe aquellas cosas que cambian por diferentes razones.
+> Reúna las cosas que cambian por la misma razón, y separe aquellas cosas que cambian por diferentes razones.
 
 Este principio es conocido también como el Principio de la Responsabilidad Única o SRP (por sus siglas en inglés). En definitiva, se dice que un subsistema, módulo, clase o incluso una función, no debe tener más de una razón para cambar. El ejemplo clásico es una clase que tiene métodos que tienen que ver con reglas de negocio, reportes y base de datos:
 
@@ -18,7 +20,7 @@ public class Empleado {
   public void guardar() ...
 }
 
-{% endhighlight %}
+{% highlight %}
 
 Algunos programadores podrían pensar que poner estas tres funciones en la misma clase es perfectamente apropiado. Después de todo, se supone que las clases son colecciones de funciones que operan sobre las variables comunes. Sin embargo, el problema es que las tres funciones cambian por razones totalmente distintas. La función `calculaPago` cambiará cada vez que las reglas de negocio para calcular el pago cambien. La función `reportaHoras` cambiará cada vez que alguien quiera otro formato para el informe. La función `guardar` cambiará cada vez que los DBAs cambien el esquema de base de datos. Estas tres razones de cambio se combinan para hacer a `Empleado` muy volátil. Cambiará por alguna de estas razones. Más importante aún, las clase que depende de `Empleado` será afectadas por estos cambios.
 
@@ -38,7 +40,7 @@ public class RepositorioEmpleado {
   public void guardar(Empleado e) ...
 }
 
-{% endhighlight %}
+{% highlight %}
 
 La simple división mostrada arriba resuelve éstos problemas. Cada una de estas clases se puede colocar en un componenete para sí mismas. O, mejor dicho, todos las clases de reporteo pueden ir en el componenete de reporteo. Todas las clases relacionadas con base de datos pueden estar en el componente de repositorios. Y todas las reglas de negocios pueden entrar en el componente de reglas de negocio.
 
@@ -46,7 +48,6 @@ El lector astuto verá que aún existen dependencias en la solución anterior. E
 
 La aplicación cuidadosa del SRP, separando las cosas que cambian por diferentes razones es una de las claves para la creación de diseños que tienen una estructura de componentes de implementación independientemente.
 
-Por Uncle Bob
 
 Traducción: Espartaco Palma
 

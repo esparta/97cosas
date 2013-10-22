@@ -3,7 +3,9 @@ layout: page
 title: Encapsula Comportamiento, no sólo Estado
 overview: true
 permalink: /libro/encapsula-comportamiento/
+author: Einar Landre
 ---
+
 La teoría de sistemas, el contenimiento es uno de los más útiles constructos cuando se está tratanto con sistemas de estructuras muy grandes y complejas. En la industria de software el valor del contenimiento o encapsulación es bien entendido.
 
 Los módulos y paquete resuelven las necesidades a gran escala de la encapsulación, mientras que las clases, subrutinas, y funcionaes resuelven los aspectos más granulares en la materia. A través de los años he descubierto que las clases parecen ser uno de los constructos de encapsulación más difíciles que los desarroladores entiendan. Es común encontrar una clase con sólo un método principal con 3000 líneas de código, o una clase con sólo métodos set y get para sus para sus atributos primitivos. Estos ejemplos demuestran que el desarrollador involucrado no ha entendido por completo el pensamiento orientado a objetos, fallando en el tomar ventaja del poder de los objetos tanto como constructos de modelaje. Para los desarrolladores familiarizados con los términos POJO (Plan Old Java Object) y POCO (Plain Old C# Object o Plan Old CLR Object), esto fué el intento para regresar a lo más básico de OO como el paradigma modelo -- los objetos son planos y sencillos, pero no tontos.
@@ -16,8 +18,6 @@ Los desarrolladores menos experimentados en orientación a objetos podrían deci
 
 Así que al final, no rompas la encapsulación, y usa el poder de tu lenguaje de programación para mantenerla.
 
-
-Por Einar Landre 
 
 Traducción: Espartaco Palma
 
