@@ -1,6 +1,6 @@
 Un comentario acerca de los comentarios
 ===================
-Autor: Yechiel Kimchi
+Autor: Cal Evans
 -------------------
 
 En mi primera clase de programación en la universidad, el profesor nos entregó dos hojas de codificación BASIC. En el pizarrón, se leía la asignatura: "Escribir un programa para ingresar y promediar 10 puntuaciones de bolos". A continuación, el profesor salió de la habitación. ¿Qué tan difícil puede ser? No recuerdo mi solución final, pero estoy seguro que tenía un bucle FOR/NEXT en él y no podía haber sido de más de 15 líneas de longitud en total. Las hojas de codificación -- para los niños leyendo esto, sí, solíamos escribir el código a mano antes de ingresarlo a la computadora -- permitían alrededor de 70 líneas de código cada una. Estaba confundido sobre el por qué el maestro nos había dado dos hojas. Debido a que mi manuscrito había sido atroz, usé la segunda en transcribir mi código muy cuidadosamente, esperando obtener un par de puntos extras por el estilo.

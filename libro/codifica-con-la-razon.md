@@ -1,6 +1,6 @@
 Codificando con la razón
 ===================
-Autor: Cal Evans
+Autor: Yechiel Kimchi
 -------------------
 
 Trata de razonar sobre la correctitud de software de mano resulta en una prueba formal de que es más que el código y es más contener errores que el código. Las herramientas automatizadas son preferibles, pero no siempre posibles. Lo siguiente describe una ruta intermedia: razonamiento semi-formal sobre la corrección.
