@@ -11,13 +11,13 @@ Muchos aspectos de la invisibilidad son correctamente dichos como principios a u
 La invisibilidad puede ser peligrosa. Piensas más claramente cuando tienes algo concreto a qué amarrar tu pensamiento. Administras mejor las cosas cuando puedes verlas y verlas cambiar constantemente:
 
 * Escribir pruebas unitarias provee evidencia sobre qué tan fácil es el código unitario con respecto a la prueba unitaria. Ayuda a revelar la presencia (o ausencia) de cualidades de desarrollo que te gustaría que el código exhiba; cualidades como bajo acoplamiento y alta cohesión.
-* Ejecutar pruebas unitarias provee evidencia sobre el comportamiento del código. Ayuda a revelar la presencia (o ausencia) de cualidades en tiempo de ejecución que te gustaría que la aplicación exhiba; cualidades como la robustéz y la correctitud.
+* Ejecutar pruebas unitarias provee evidencia sobre el comportamiento del código. Ayuda a revelar la presencia (o ausencia) de cualidades en tiempo de ejecución que te gustaría que la aplicación exhiba; cualidades como la fortaleza y la correctitud.
 * El usar tableros de boletines y tarjetas hace el progreso más visible y concreto. Las tareas pueden ser vistas como "No iniciadas", "En progreso", o "Terminadas" sin la referencia a una herramienta de administración de proyectos y sin tener que tener que perseguir a los programadores para que entreguen reportes de estatus ficticios.
 * Realizar desarrollo incremental aumenta la visibilidad del progreso del desarrollo (o la falta de él) al incrementar la frecuencia de la evidencia del desarrollo. El completar la liberación del software revela realidad; los estimados no.
 
 Es mejor desarrollar software con una gran cantidad de evidencia visible habitual. La visibilidad otorga confianza de que el progreso es genuino y no una ilusión, deliberado y no involuntario, repetible y no accidental.
 
-Por Jon Jagger 
+Por Jon Jagger
 
 Traducción: Espartaco Palma
 
