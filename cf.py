@@ -22,6 +22,10 @@ def main(argv):
         return 1
       ## skip the next line, should be ===
       _ = f.readline()
+      ## Get the authoer (should be the third line)
+      author = f.readline().rstrip(os.linesep)[4:]
+      ## skip the next line, should be ===
+      _ = f.readline()
       ## create the head
       head = \
 """---
@@ -29,11 +33,12 @@ layout: page
 title: {title}
 overview: true
 permalink: /libro/{filename}/
+author: {author}
 ---
-""".format(title=title,filename=justfilename)
+""".format(title=title,filename=justfilename,author=author)
       #print(head)
       content = f.read()
-      
+
       newfile.write(head+content)
       print("Finished transforming {0}".format(filename))
 

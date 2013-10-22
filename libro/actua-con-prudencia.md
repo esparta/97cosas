@@ -1,5 +1,7 @@
 Actúa con prudencia
 ===================
+Por Seb Rose
+-------------------
 
 >“En todo lo que emprendas, actúa con prudencia y considera las consecuencias”
 >_Anónimo_
@@ -14,9 +16,9 @@ Si planeas pagar la deuda en la próxima iteración, el costo será mínimo. Per
 
 Paga la deuda técnica tan pronto como puedas; sería imprudente no hacerlo.
 
-Por Seb Rose
 
 Traducción: Natán Calzolari
+-------------------
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Act_with_Prudence)
 
