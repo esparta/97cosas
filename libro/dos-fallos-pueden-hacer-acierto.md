@@ -1,4 +1,4 @@
-Dos fallas pueden hacer un acierto (y es difícil de arreglar)
+Dos fallos pueden hacer un acierto (y es difícil de arreglar)
 ===
 
 El código nunca miente, pero puede contradecirse. Algunas contradiciones llevan a esos momentos de "¿Cómo es posible que esto funcione?".
