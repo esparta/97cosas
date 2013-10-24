@@ -12,15 +12,14 @@ Uno de los principios más fundamentales de un buen diseño es:
 
 Este principio es conocido también como el Principio de la Responsabilidad Única o SRP (por sus siglas en inglés). En definitiva, se dice que un subsistema, módulo, clase o incluso una función, no debe tener más de una razón para cambar. El ejemplo clásico es una clase que tiene métodos que tienen que ver con reglas de negocio, reportes y base de datos:
 
-{% highlight java %}
 
-public class Empleado {
-  public Money calculaPago() ...
-  public String reportaHoras() ...
-  public void guardar() ...
-}
 
-{% endhighlight %}
+    public class Empleado {
+      public Money calculaPago() ...
+      public String reportaHoras() ...
+      public void guardar() ...
+    }
+
 
 Algunos programadores podrían pensar que poner estas tres funciones en la misma clase es perfectamente apropiado. Después de todo, se supone que las clases son colecciones de funciones que operan sobre las variables comunes. Sin embargo, el problema es que las tres funciones cambian por razones totalmente distintas. La función `calculaPago` cambiará cada vez que las reglas de negocio para calcular el pago cambien. La función `reportaHoras` cambiará cada vez que alguien quiera otro formato para el informe. La función `guardar` cambiará cada vez que los DBAs cambien el esquema de base de datos. Estas tres razones de cambio se combinan para hacer a `Empleado` muy volátil. Cambiará por alguna de estas razones. Más importante aún, las clase que depende de `Empleado` será afectadas por estos cambios.
 
