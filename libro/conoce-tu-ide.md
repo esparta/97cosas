@@ -20,11 +20,9 @@ Mis primeros pasos al aprender un IDE es memorizar los atajos de teclado. Ya a q
 
 Por último, como programadores tenemos herramientas streaming Unix que pueden ayudarnos a manipular el código. Por ejemplo, si durante una revisión de código, me doy cuenta que el programador ha nombrado muchas de sus clases igual, puedo encontrar muchas de ellas fácilmente usando las herramientas buscar, sed, sort, uniq, y grep, así:
 
-{% highlight sh %}
 
-find . -name "*.java" | sed 's/.*\///' | sort | uniq -c | grep -v "^ *1 " | sort -r
+    find . -name "*.java" | sed 's/.*\///' | sort | uniq -c | grep -v "^ *1 " | sort -r
 
-{% endhighlight %}
 
 Esperamos que un plomero venga a nuestra casa para poder usar su soplete. Pasemos un poco de tiempo estudiando cómo ser más efectivos con nuestro IDE.
 

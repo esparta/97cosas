@@ -25,21 +25,18 @@ Algunos programadores podrían pensar que poner estas tres funciones en la misma
 
 El buen diseño de sistemas signfica que separamos el sistema en componentes que puede ser implementados de forma independientemente. La implementación independiente significa que si cambiamos un componente no tenemos que volver a implementar alguno de los otros. Sin embargo, si `Empleado` es muy utilizado por muchas otras clases en otros componentes, entonces es probable que cada cambio a `Empleado` cause que los otros componentes tengan que volverse a implementar; negando así el mayor beneficio del diseño de componentes (o SOA si se prefiere un nombre más de moda).
 
-{% highlight java %}
+    public class Empleado {
+      public Money calculaPago() ...
+    }
 
-public class Empleado {
-  public Money calculaPago() ...
-}
+    public class ReporteadorEmpleado {
+      public String reportHora(Empleado e) ...
+    }
 
-public class ReporteadorEmpleado {
-  public String reportHora(Empleado e) ...
-}
+    public class RepositorioEmpleado {
+      public void guardar(Empleado e) ...
+    }
 
-public class RepositorioEmpleado {
-  public void guardar(Empleado e) ...
-}
-
-{% endhighlight %}
 
 La simple división mostrada arriba resuelve éstos problemas. Cada una de estas clases se puede colocar en un componenete para sí mismas. O, mejor dicho, todos las clases de reporteo pueden ir en el componenete de reporteo. Todas las clases relacionadas con base de datos pueden estar en el componente de repositorios. Y todas las reglas de negocios pueden entrar en el componente de reglas de negocio.
 

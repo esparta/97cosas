@@ -14,30 +14,25 @@ Aquí está un ejemplo de la vida real: Estaba limpiando algún código heredado
 
 El método utilizaba el siguiente código para convertir dos caracteres (representando la hora) en un número, y verificando que estuviera en el rango adecuado:
 
-{% highlight java %}
+    try {
+        Integer.parseInt(time.substring(0, 2));
+    } catch (Exception x) {
+        return false;
+    }
 
-try {
-    Integer.parseInt(time.substring(0, 2));
-} catch (Exception x) {
-    return false;
-}
+    if (Integer.parseInt(time.substring(0, 2)) > 12) {
+        return false;
+    }
 
-if (Integer.parseInt(time.substring(0, 2)) > 12) {
-    return false;
-}
-
-{% endhighlight %}
 
 El mismo código aparecía dos veces más, con cambios apropiados para el caracter y el límite superior, para poner a prueba los minutos y segundos. El método terminaba con estas líneas para comprobar AM y PM.
 
-{% highlight java %}
 
-if (!time.substring(9, 11).equals("AM") &
-    !time.substring(9, 11).equals("PM")) {
-    return false;
-}
+    if (!time.substring(9, 11).equals("AM") &
+        !time.substring(9, 11).equals("PM")) {
+        return false;
+    }
 
-{% endhighlight %}
 
 Si ninguna de esta serie de comparaciones fallaba, regresando `false`, el método regresaba `true`.
 
@@ -47,13 +42,11 @@ Cuando terminé, me sentía satisfecho con el resultado. La nueva versión era f
 
 Mientras me preparaba para trabajar al día siguiente, una idea surgió a mi cabeza: ¿Porqué no validad la cadena usando una expresión regular? Después de unos minutos escribiendo, tenía una implementación funcional de sólo una línea de código. Aquí está:
 
-{% highlight java %}
 
-public static boolean validateTime(String time) {
-    return time.matches("(0[1-9]|1[0-2]):[0-5][0-9]:[0-5][0-9] ([AP]M)");
-}
+    public static boolean validateTime(String time) {
+        return time.matches("(0[1-9]|1[0-2]):[0-5][0-9]:[0-5][0-9] ([AP]M)");
+    }
 
-{% endhighlight %}
 
 El punto de esta historia no es que eventualmente reemplacé cerca de 30 líneas de código con sólo una. El punto es que hasta que me alejé de la computadora, pensaba que mi primer intento era la mejor solución al problema.
 
