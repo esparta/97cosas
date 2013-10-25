@@ -24,4 +24,4 @@ Domina el paradigma de la programaci贸n funcional y podr谩s 鈥攃riteriosamente鈥
 
 Traducci贸n: Nat谩n Calzolari
 
-[Leer contribuci贸n original](http://programmer.97things.oreilly.com/wiki/index.php/Apply_Functional_Programming_Principles)
+[Leer contribuci贸n original](http://programmer.97things.oreilly.com/wiki/index.php/Automate_Your_Coding_Standard)
