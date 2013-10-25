@@ -32,4 +32,6 @@ En resumen, para que el código sea bello debe ser simple. Cada pieza individual
 
 La belleza nace y se encuentra en la simplicidad.
 
+Traducción: Natán Calzolari
+
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Beauty_Is_in_Simplicity)
