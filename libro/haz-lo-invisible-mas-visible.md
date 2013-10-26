@@ -26,5 +26,3 @@ Es mejor desarrollar software con una gran cantidad de evidencia visible habitua
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Make_the_Invisible_More_Visible)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

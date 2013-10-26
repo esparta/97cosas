@@ -30,5 +30,3 @@ Esperamos que un plomero venga a nuestra casa para poder usar su soplete. Pasemo
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Know_Your_IDE)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

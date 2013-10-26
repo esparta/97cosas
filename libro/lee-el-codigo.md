@@ -21,5 +21,3 @@ Así que la próxima vez que sientas la necesidad de mejorar tus habilidades de 
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Read_Code)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

@@ -32,5 +32,3 @@ Conforme se razone sobre la correctitud, argumentar sobre tu código te ofrece e
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Coding_with_Reason)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

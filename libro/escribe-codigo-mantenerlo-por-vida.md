@@ -21,5 +21,3 @@ Si lo reflexionas, el código que escribiste hace muchos años todavía influye 
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Write_Code_as_If_You_Had_to_Support_It_for_the_Rest_of_Your_Life)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

@@ -26,5 +26,3 @@ La vida bajo un control de versión es demasiado buena como para arruinarlo con 
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Put_Everything_Under_Version_Control)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

@@ -28,5 +28,3 @@ Más importante, asegurate de que cuando la magia se detenga, pueda ser iniciada
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Rely_on_%22Magic_Happens_Here%22)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

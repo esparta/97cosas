@@ -37,5 +37,3 @@ No tienes que aprender todo sobre bash o Ant para empezar. Aprende sobre la marc
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Step_Back_and_Automate%2C_Automate%2C_Automate)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

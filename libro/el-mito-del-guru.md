@@ -24,5 +24,3 @@ Por último, uno de los mayores obstáculos en el software es la gente inteligen
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/The_Guru_Myth)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

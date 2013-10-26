@@ -28,5 +28,3 @@ Mi estrategia persona para mitigiar estos problemas es comenzar poco a poco, usa
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Choose_Your_Tools_with_Care)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

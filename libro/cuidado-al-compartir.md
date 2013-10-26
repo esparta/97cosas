@@ -26,5 +26,3 @@ Cuidado al compartir. Revisa tu contexto. Sólo entonces, procede.
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Beware_the_Share)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

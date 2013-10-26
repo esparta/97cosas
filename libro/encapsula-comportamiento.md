@@ -22,5 +22,3 @@ Así que al final, no rompas la encapsulación, y usa el poder de tu lenguaje de
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Encapsulate_Behavior%2C_not_Just_State)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

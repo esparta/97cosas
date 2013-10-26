@@ -20,5 +20,3 @@ Sé el cirujano que no tiene miedo a cortar las partes enfermas para hacer espac
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Be_Afraid_to_Break_Things)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

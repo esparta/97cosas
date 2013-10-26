@@ -26,5 +26,3 @@ Domina el paradigma de la programación funcional y podrás —criteriosamente�
 Traducción: Natán Calzolari
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Apply_Functional_Programming_Principles)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

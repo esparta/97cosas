@@ -20,5 +20,3 @@ Trata a tu código como cualquier otra composición, como un poema, un ensayo, u
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Only_the_Code_Tells_the_Truth)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

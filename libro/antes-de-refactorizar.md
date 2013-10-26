@@ -21,5 +21,3 @@ En algún punto todo programador necesitará refactorizar código existente. Per
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Before_You_Refactor)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

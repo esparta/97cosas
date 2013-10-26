@@ -31,5 +31,3 @@ Así que ¿porqué terminó ahí ese código innecesario? ¿Porqué un programad
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Improve_Code_by_Removing_It)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

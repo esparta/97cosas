@@ -24,5 +24,3 @@ El dispositivo de retroalimentación extrema actúa como la caja de voz de tu pr
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Let_Your_Project_Speak_for_Itself)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

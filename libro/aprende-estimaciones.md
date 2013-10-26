@@ -33,5 +33,3 @@ Lo que realmente estaba pidiendo el administrador en la conversación anterior a
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Learn_to_Estimate)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

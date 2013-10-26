@@ -20,5 +20,3 @@ Pero espera. ¿Acaso el IDE no existe para hacer el desarrollo más fácil, y pa
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Know_How_to_Use_Command-line_Tools)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

@@ -30,5 +30,3 @@ No hay un consejo simple que se pueda dar en cómo localizar fallos surgidos de 
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Two_Wrongs_Can_Make_a_Right_%28and_Are_Difficult_to_Fix%29)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

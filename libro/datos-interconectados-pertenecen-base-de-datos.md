@@ -22,5 +22,3 @@ Finalmente, recuerda que el RDBMS sudará duro para optimizar los comandos SQL, 
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Large_Interconnected_Data_Belongs_to_a_Database)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

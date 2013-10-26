@@ -29,5 +29,3 @@ Bajo ninguna circunstancia -- nunca, en lo absoluto -- debe un desarrollador ten
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Touch_that_Code!)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

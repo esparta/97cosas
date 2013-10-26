@@ -32,5 +32,3 @@ Esto es mucho más manejable: La función calculada es ahora un conjunto con cua
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Write_Small_Functions_Using_Examples)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

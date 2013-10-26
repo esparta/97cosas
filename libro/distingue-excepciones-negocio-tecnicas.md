@@ -24,5 +24,3 @@ Mezclar excepciones técnicas y excepciones de negocios en la misma jerarquía d
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Distinguish_Business_Exceptions_from_Technical)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

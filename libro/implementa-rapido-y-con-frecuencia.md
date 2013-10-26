@@ -24,5 +24,3 @@ El proceso de instalación/implementación es esencial para la productividad de 
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Deploy_Early_and_Often)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

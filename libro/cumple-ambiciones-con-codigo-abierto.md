@@ -20,5 +20,3 @@ Iniciar con el código abierto es bastante fácil. Hay plena documentación en l
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Fulfill_Your_Ambitions_with_Open_Source)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

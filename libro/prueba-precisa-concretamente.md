@@ -16,7 +16,7 @@ Cuando se le pregunta a los programadores "¿Qué es lo que probarías?", la res
 
 La siguiente secuencia satisface una postcondición de estar ordenado de manera no-descendiente y teniendo la misma longitud que la secuencia original:
 
->3 3 3 3 3 3 
+>3 3 3 3 3 3
 
 A pesar de que satisface las especificaciones, ¡esto es también algo a lo que ciertamente no nos referíamos! Este ejemplo está basado en un error tomado de un código de producción real (afortunadamente capturado antes de que fuera liberado), donde un simple desliz de un teclazo o un lapso momentáneo del razonamiento nos lleva a un elaborado mecanismo de llenar el resultado entero con el primer elemento de algún arreglo.
 
@@ -28,11 +28,11 @@ Aún el estipular la postcondición en la manera descrita no es suficiente para 
 
 Usando ejemplos concretos eliminamos esta complejidad accidental y oportunamente por accidente. Por ejemplo, dada la siguiente secuencia:
 
->3 1 4 1 5 9 
+>3 1 4 1 5 9
 
 El resultado del ordenamiento es el siguiente:
 
->1 1 3 4 5 9 
+>1 1 3 4 5 9
 
 Ninguna otra respuesta lo será. No aceptes sustitutos.
 
@@ -45,5 +45,3 @@ Traducción: Espartaco Palma
 
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Test_Precisely_and_Concretely)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

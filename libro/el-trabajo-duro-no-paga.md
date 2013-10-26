@@ -20,5 +20,3 @@ Enfócate en el proyecto, contribuye tanto como puedas encontrando soluciones in
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Hard_Work_Does_not_Pay_Off)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

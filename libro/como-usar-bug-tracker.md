@@ -30,5 +30,3 @@ Finalmente, recuerda que un error no es una unidad estándar de trabajo más que
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/How_to_Use_a_Bug_Tracker)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

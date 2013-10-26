@@ -18,5 +18,3 @@ Las pruebas toman su tiempo, al igual que el análisis estructual lleva su tiemp
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Testing_Is_the_Engineering_Rigor_of_Software_Development)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

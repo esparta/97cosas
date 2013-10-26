@@ -30,5 +30,3 @@ Cuando se sigue en estructura, lógica, procesos y funciones el principio provee
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Repeat_Yourself)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

@@ -20,5 +20,3 @@ Algunos podrían argumentar que "Finnegans Wake" es imposible de leer, mientras 
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Just_Learn_the_Language%2C_Understand_its_Culture)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

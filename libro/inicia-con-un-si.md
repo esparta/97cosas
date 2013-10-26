@@ -3,10 +3,10 @@ layout: page
 title: Inicia con un Sí
 overview: true
 permalink: /libro/inicia-con-un-si/
-author: Alex Miller 
+author: Alex Miller
 ---
 
-Recientemente fue a la tienda buscando arriba y abajo "edaname" (el cuál sólo sabía vagamente que era algún tipo de vegetal). No estaba seguro que si era algo que podría encontrar en la sección de vegetales, la sección de congelados o en enlatados. Me rendí y busqué un empleado para que me ayudara. ¡Ella tampoco sabía! 
+Recientemente fue a la tienda buscando arriba y abajo "edaname" (el cuál sólo sabía vagamente que era algún tipo de vegetal). No estaba seguro que si era algo que podría encontrar en la sección de vegetales, la sección de congelados o en enlatados. Me rendí y busqué un empleado para que me ayudara. ¡Ella tampoco sabía!
 
 El empleado pudo haber respondido de muchas maneras distintas. Pudo haberme hecho sentir ignorante por no saber dónde buscar, o darme vagas posibilidades, o simplemente decirme que no lo tenían. Pero en vez de ello, uso el pedido como una oportunidad de encontrar una solución y ayudar al cliente. Llamó a otro empleado y en minutos me habían guiado al artículo deseado, ubicado en la sección de congelados.
 
@@ -32,5 +32,4 @@ Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Write_Tests_for_People)
 
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)
 

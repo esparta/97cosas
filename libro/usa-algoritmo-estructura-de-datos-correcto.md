@@ -46,5 +46,3 @@ Entonces, lee algunos buenos libros -- y asegúrate que los entiendas. Si realme
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Use_the_Right_Algorithm_and_Data_Structure)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)

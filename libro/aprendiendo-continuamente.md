@@ -35,5 +35,3 @@ La tecnología cambia rápidamente. No te quedes atrás.
 Traducción: Espartaco Palma
 
 [Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Continuous_Learning)
-
-[Licencia Creative Commons Attribution 3](http://creativecommons.org/licenses/by/3.0/us/deed.es)
