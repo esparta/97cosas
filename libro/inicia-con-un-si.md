@@ -2,7 +2,6 @@
 layout: page
 title: Inicia con un Sí
 overview: true
-permalink: /inicia-con-un-si/
 author: Alex Miller
 ---
 

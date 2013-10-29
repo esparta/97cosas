@@ -2,7 +2,6 @@
 layout: page
 title: Codificando con la razón
 overview: true
-permalink: /codifica-con-la-razon/
 author: Yechiel Kimchi
 ---
 

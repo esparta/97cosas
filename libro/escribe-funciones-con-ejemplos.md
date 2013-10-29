@@ -2,7 +2,6 @@
 layout: page
 title: Escribe pequeñas funciones usando ejemplos
 overview: true
-permalink: /escribe-funciones-con-ejemplos/
 author: Keith Braithwaite
 ---
 

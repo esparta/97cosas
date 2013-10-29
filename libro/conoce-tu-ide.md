@@ -2,7 +2,6 @@
 layout: page
 title: Conoce tu IDE
 overview: true
-permalink: /conoce-tu-ide/
 author: Heinz Kabutz
 ---
 

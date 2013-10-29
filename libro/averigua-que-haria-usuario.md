@@ -2,7 +2,6 @@
 layout: page
 title: Averigua qué haría el usuario (tu no eres un usuario)
 overview: true
-permalink: /averigua-que-haria-usuario/
 author: Giles Colborne
 ---
 

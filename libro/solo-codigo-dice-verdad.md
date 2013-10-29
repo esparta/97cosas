@@ -2,7 +2,6 @@
 layout: page
 title: Sólo el código dice la verdad
 overview: true
-permalink: /solo-codigo-dice-verdad/
 author: Peter Sommerlad
 ---
 

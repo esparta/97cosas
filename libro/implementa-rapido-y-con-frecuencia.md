@@ -2,7 +2,6 @@
 layout: page
 title: Implementa rápido y con frecuencia
 overview: true
-permalink: /implementa-rapido-y-con-frecuencia/
 author: Steve Berczuk
 ---
 

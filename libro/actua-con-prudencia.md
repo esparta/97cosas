@@ -2,7 +2,6 @@
 layout: page
 title: Actúa con prudencia
 overview: true
-permalink: /actua-con-prudencia/
 author: Seb Rose
 ---
 

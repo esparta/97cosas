@@ -2,7 +2,6 @@
 layout: page
 title: Los grandes datos interconectados pertenecen a una base de datos
 overview: true
-permalink: /datos-interconectados-pertenecen-base-de-datos/
 author: Diomidis Spinellis
 ---
 

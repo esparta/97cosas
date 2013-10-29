@@ -2,7 +2,6 @@
 layout: page
 title: ¡No toques ese código!
 overview: true
-permalink: /no-toques-ese-codigo/
 author: Cal Evans
 ---
 

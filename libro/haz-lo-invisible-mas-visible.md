@@ -2,7 +2,6 @@
 layout: page
 title: Haz lo invisible más visible
 overview: true
-permalink: /haz-lo-invisible-mas-visible/
 author: Jon Jagger
 ---
 

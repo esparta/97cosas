@@ -2,7 +2,6 @@
 layout: page
 title: Haz mucha práctica deliberada
 overview: true
-permalink: /haz-mucha-practica-deliberada/
 author: Jon Jagger
 ---
 

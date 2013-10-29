@@ -2,7 +2,6 @@
 layout: page
 title: Prueba precisa y concretamente
 overview: true
-permalink: /prueba-precisa-concretamente/
 author: Kevlin Henney
 ---
 

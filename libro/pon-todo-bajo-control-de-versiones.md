@@ -2,7 +2,6 @@
 layout: page
 title: Pon todo bajo Control de Versiones
 overview: true
-permalink: /pon-todo-bajo-control-de-versiones/
 author: Diomidis Spinellis
 ---
 

@@ -2,7 +2,6 @@
 layout: page
 title: Encapsula Comportamiento, no sólo Estado
 overview: true
-permalink: /encapsula-comportamiento/
 author: Einar Landre
 ---
 

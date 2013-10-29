@@ -2,7 +2,6 @@
 layout: page
 title: Deja que tu proyecto hable por sí mismo
 overview: true
-permalink: /deja-proyecto-hable-por-si-mismo/
 author: Daniel Lindner
 ---
 

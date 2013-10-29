@@ -2,7 +2,6 @@
 layout: page
 title: Dos fallos pueden hacer un acierto (y es difícil de arreglar)
 overview: true
-permalink: /dos-fallos-pueden-hacer-acierto/
 author: Allan Kelly
 ---
 

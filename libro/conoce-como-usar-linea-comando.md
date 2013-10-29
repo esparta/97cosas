@@ -2,7 +2,6 @@
 layout: page
 title: Conoce cómo usar las herramientas de línea de comandos
 overview: true
-permalink: /conoce-como-usar-linea-comando/
 author: Carroll Robinson
 ---
 

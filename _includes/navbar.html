@@ -7,21 +7,21 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="brand" href="{{ site.url }}">97 Cosas</a>
+          <a class="brand" href="{{ site.baseurl }}/">97 Cosas</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
               {% if page.url == "/libro/" %}
                 <li class="active">{% else %}<li>
               {% endif %}
-                <a href="/libro/">Libro</a></li>
+                <a href="{{ site.baseurl }}/libro/">Libro</a></li>
               {% if page.url == "/autores/" %}
                 <li class="active">{% else %}<li>
               {% endif %}
-              <a href="/autores/">Autores</a></li>
+              <a href="{{ site.baseurl }}/autores/">Autores</a></li>
               {% if page.url == "/traductores/" %}
                 <li class="active">{% else %}<li>
               {% endif %}
-              <a href="/traductores/">Traductores</a></li>
+              <a href="{{ site.baseurl }}/traductores/">Traductores</a></li>
              <li><a href="http://programmer.97things.oreilly.com/wiki/index.php/97_Things_Every_Programmer_Should_Know">En inglés</a></li>
             </ul>
           </div><!--/.nav-collapse -->

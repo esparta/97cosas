@@ -2,7 +2,6 @@
 layout: page
 title: Un comentario acerca de los comentarios
 overview: true
-permalink: /comentario-acerca-de-comentarios/
 author: Cal Evans
 ---
 

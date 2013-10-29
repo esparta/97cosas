@@ -2,7 +2,6 @@
 layout: page
 title: No tengas miedo de romper cosas
 overview: true
-permalink: /no-tengas-miedo-de-romper-cosas/
 author: Mike Lewis
 ---
 

@@ -2,7 +2,6 @@
 layout: page
 title: El trabajo duro no paga
 overview: true
-permalink: /el-trabajo-duro-no-paga/
 author: Olve Maudal
 ---
 

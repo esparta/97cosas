@@ -2,7 +2,6 @@
 layout: page
 title: ¿Cómo usar un Gestor de Errores?
 overview: true
-permalink: /como-usar-bug-tracker/
 author: Matt Doar
 ---
 

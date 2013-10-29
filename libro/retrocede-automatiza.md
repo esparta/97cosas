@@ -2,7 +2,6 @@
 layout: page
 title: Retrocede y Automatiza, Automatiza, Automatiza
 overview: true
-permalink: /retrocede-automatiza/
 author: Cay Horstmann
 ---
 

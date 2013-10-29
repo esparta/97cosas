@@ -2,7 +2,6 @@
 layout: page
 title: No te repitas
 overview: true
-permalink: /no-te-repitas/
 author: Steve Smith
 ---
 

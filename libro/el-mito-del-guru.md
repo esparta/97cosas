@@ -2,7 +2,6 @@
 layout: page
 title: El mito del Gurú
 overview: true
-permalink: /el-mito-del-guru/
 author: Ryan Brush
 ---
 

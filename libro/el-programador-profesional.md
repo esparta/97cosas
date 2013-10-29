@@ -2,7 +2,6 @@
 layout: page
 title: El Programador Profesional
 overview: true
-permalink: /el-programador-profesional/
 author: Uncle Bob
 ---
 

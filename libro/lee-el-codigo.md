@@ -2,7 +2,6 @@
 layout: page
 title: Lee el código
 overview: true
-permalink: /lee-el-codigo/
 author: Karianne Berg
 ---
 

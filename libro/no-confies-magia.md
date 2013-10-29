@@ -2,7 +2,6 @@
 layout: page
 title: No confíes en el "Aquí sucede la magia"
 overview: true
-permalink: /no-confies-magia/
 author: AlanGriffiths
 ---
 

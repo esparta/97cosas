@@ -2,7 +2,6 @@
 layout: page
 title: Suelta el ratón y aléjate del teclado
 overview: true
-permalink: /suelta-raton-alejate-teclado/
 author: Cay Horstmann
 ---
 

@@ -2,7 +2,6 @@
 layout: page
 title: El paso de mensajes lleva a una mejor escalabilidad en sistemas paralelos
 overview: true
-permalink: /paso-mensajes-mejor-escalabilidad/
 author: Russel Winder
 ---
 

@@ -2,7 +2,6 @@
 layout: page
 title: Mejora el código quitándolo
 overview: true
-permalink: /mejora-codigo-quitandolo/
 author: Pete Goodliffe
 ---
 

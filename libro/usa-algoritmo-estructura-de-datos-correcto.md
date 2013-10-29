@@ -2,7 +2,6 @@
 layout: page
 title: Usa el algoritmo y estructura de datos correcto
 overview: true
-permalink: /usa-algoritmo-estructura-de-datos-correcto/
 author: JC van Winkel
 ---
 
