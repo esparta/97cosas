@@ -2,7 +2,7 @@
 layout: page
 title: La belleza está en la simplicidad
 overview: true
-permalink: /libro/la-belleza-simplicidad/
+permalink: /la-belleza-simplicidad/
 author: Jørn Ølmheim
 ---
 

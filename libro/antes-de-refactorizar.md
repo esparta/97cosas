@@ -2,7 +2,7 @@
 layout: page
 title: Antes de Refactorizar
 overview: true
-permalink: /libro/antes-de-refactorizar/
+permalink: /antes-de-refactorizar/
 author: Rajith Attapattu
 ---
 

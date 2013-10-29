@@ -2,7 +2,7 @@
 layout: page
 title: Ten cuidado al compartir
 overview: true
-permalink: /libro/cuidado-al-compartir/
+permalink: /cuidado-al-compartir/
 author: Udi Dahan
 ---
 

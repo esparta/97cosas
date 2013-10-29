@@ -2,7 +2,7 @@
 layout: page
 title: No sólo aprendas el lenguaje, entiende su cultura
 overview: true
-permalink: /libro/no-aprendas-lenguaje-entiende-su-cultura/
+permalink: /no-aprendas-lenguaje-entiende-su-cultura/
 author: Anders Norås
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Aprende a hacer estimaciones
 overview: true
-permalink: /libro/aprende-estimaciones/
+permalink: /aprende-estimaciones/
 author: Giovanni Asproni
 ---
 

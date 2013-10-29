@@ -2,7 +2,7 @@
 layout: page
 title: Haz lo invisible más visible
 overview: true
-permalink: /libro/haz-lo-invisible-mas-visible/
+permalink: /haz-lo-invisible-mas-visible/
 author: Jon Jagger
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Reinventa la rueda frecuentemente
 overview: true
-permalink: /libro/reinventa-rueda-frecuentemente/
+permalink: /reinventa-rueda-frecuentemente/
 author: Jason P Sage
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Aplica los principios de la programación funcional
 overview: true
-permalink: /libro/aplica-programacion-funcional/
+permalink: /aplica-programacion-funcional/
 author: Edward Garson
 ---
 

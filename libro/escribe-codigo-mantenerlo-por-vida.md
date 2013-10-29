@@ -2,7 +2,7 @@
 layout: page
 title: Escribe código como si tuvieras que mantenerlo por el resto de tu vida
 overview: true
-permalink: /libro/escribe-codigo-mantenerlo-por-vida/
+permalink: /escribe-codigo-mantenerlo-por-vida/
 author: Yuriy Zubarev
 ---
 

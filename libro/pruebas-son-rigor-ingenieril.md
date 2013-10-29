@@ -2,7 +2,7 @@
 layout: page
 title: Las pruebas son el rigor ingenieril del desarrollo de software
 overview: true
-permalink: /libro/pruebas-son-rigor-ingenieril/
+permalink: /pruebas-son-rigor-ingenieril/
 author: Neal Ford
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: El Principio de Responsabilidad Única
 overview: true
-permalink: /libro/principio-responsabilidad-unica/
+permalink: /principio-responsabilidad-unica/
 author: Uncle Bob
 ---
 

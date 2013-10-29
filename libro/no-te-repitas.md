@@ -2,7 +2,7 @@
 layout: page
 title: No te repitas
 overview: true
-permalink: /libro/no-te-repitas/
+permalink: /no-te-repitas/
 author: Steve Smith
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Aprende a decir "Hola, Mundo"
 overview: true
-permalink: /libro/aprende-decir-hola-mundo/
+permalink: /aprende-decir-hola-mundo/
 author: Thomas Guest
 ---
 

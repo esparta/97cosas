@@ -2,7 +2,7 @@
 layout: page
 title: Distingue excepciones de Negocio de las excepciones Técnicas
 overview: true
-permalink: /libro/distingue-excepciones-negocio-tecnicas/
+permalink: /distingue-excepciones-negocio-tecnicas/
 author: Dan Bergh Johnsson
 ---
 

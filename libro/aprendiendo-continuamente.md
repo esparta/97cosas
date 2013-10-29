@@ -2,7 +2,7 @@
 layout: page
 title: Aprendiendo continuamente
 overview: true
-permalink: /libro/aprendiendo-continuamente/
+permalink: /aprendiendo-continuamente/
 author: Clint Shank
 ---
 

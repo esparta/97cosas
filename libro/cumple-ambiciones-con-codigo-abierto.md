@@ -2,7 +2,7 @@
 layout: page
 title: Cumple tus ambiciones con Código Abierto
 overview: true
-permalink: /libro/cumple-ambiciones-con-codigo-abierto/
+permalink: /cumple-ambiciones-con-codigo-abierto/
 author: Richard Monson-Haefel
 ---
 

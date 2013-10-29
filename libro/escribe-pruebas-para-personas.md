@@ -2,7 +2,7 @@
 layout: page
 title: Escribe las pruebas para las personas
 overview: true
-permalink: /libro/escribe-pruebas-para-personas/
+permalink: /escribe-pruebas-para-personas/
 author: Gerard Meszaros
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Un comentario acerca de los comentarios
 overview: true
-permalink: /libro/comentario-acerca-de-comentarios/
+permalink: /comentario-acerca-de-comentarios/
 author: Cal Evans
 ---
 

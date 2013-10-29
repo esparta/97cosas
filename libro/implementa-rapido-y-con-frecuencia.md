@@ -2,7 +2,7 @@
 layout: page
 title: Implementa rápido y con frecuencia
 overview: true
-permalink: /libro/implementa-rapido-y-con-frecuencia/
+permalink: /implementa-rapido-y-con-frecuencia/
 author: Steve Berczuk
 ---
 

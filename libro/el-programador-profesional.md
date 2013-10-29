@@ -2,7 +2,7 @@
 layout: page
 title: El Programador Profesional
 overview: true
-permalink: /libro/el-programador-profesional/
+permalink: /el-programador-profesional/
 author: Uncle Bob
 ---
 

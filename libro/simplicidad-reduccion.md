@@ -2,7 +2,7 @@
 layout: page
 title: La Simplicidad viene de la Reducción
 overview: true
-permalink: /libro/simplicidad-reduccion/
+permalink: /simplicidad-reduccion/
 author: Paul W. Homer
 ---
 

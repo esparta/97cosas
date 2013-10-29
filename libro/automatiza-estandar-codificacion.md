@@ -2,7 +2,7 @@
 layout: page
 title: Automatiza el estándar de codificación
 overview: true
-permalink: /libro/automatiza-estandar-codificacion/
+permalink: /automatiza-estandar-codificacion/
 author: Filip van Laenen
 ---
 

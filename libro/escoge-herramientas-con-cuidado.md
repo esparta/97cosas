@@ -2,7 +2,7 @@
 layout: page
 title: Escoge tus herramientas con cuidado
 overview: true
-permalink: /libro/escoge-herramientas-con-cuidado/
+permalink: /escoge-herramientas-con-cuidado/
 author: Giovanni Asproni
 ---
 
