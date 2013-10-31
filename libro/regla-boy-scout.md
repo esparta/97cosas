@@ -5,7 +5,7 @@ overview: true
 author: Uncle Bob
 ---
 
-Los Boy Scout tienen una regla "Siempre deja el lugar de acampaniento más limpio que cómo lo encontraste". Si encuentras un desastre en el piso, lo limpias sin importar quien pudo haber hecho el desastre. Mejoras intencionalmente el ambiente para el siguiente grupo de campistas. En realidad la forma original de la regla, escrita por Robert Stephenson Smyth Baden-Powell, el padre del Scoutismo era "Intenta y deja el mundo un poco mejor que como lo encontraste".
+Los Boy Scout tienen una regla\: "Siempre deja el lugar de acampaniento más limpio que como lo encontraste". Si encuentras un desastre en el piso, lo limpias sin importar quien pudo haber hecho el desastre. Mejoras intencionalmente el ambiente para el siguiente grupo de campistas. En realidad la forma original de la regla, escrita por Robert Stephenson Smyth Baden-Powell, el padre del Scoutismo era "Intenta y deja el mundo un poco mejor que como lo encontraste".
 
 
 Que tal si seguimos una regla similar con nuestro código: "Siempre deja un módulo más limpio de cuando lo revisaste" No importando quién fue el autor original, que tal si siempre hacemos algún esfuerzo, no importando lo pequeño, para mejorar el módulo. ¿Cuál sería el resultado?
@@ -21,4 +21,4 @@ Pero es algo más que eso. El cuidado de nuestro propio código es una cosa. Ten
 
 Traducción: Espartaco Palma
 
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Before_You_Refactor)
+[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/The_Boy_Scout_Rule)
