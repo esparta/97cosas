@@ -3,6 +3,8 @@ layout: page
 title: Antes de Refactorizar
 overview: true
 author: Rajith Attapattu
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Before_You_Refactor
 ---
 
 En algún punto todo programador necesitará refactorizar código existente. Pero antes de hacerlo por favor piensa en lo siguiente, ya que tu y otras personas podrían ahorrar una gran cantidad de tiempo (y dolor):
@@ -15,8 +17,3 @@ En algún punto todo programador necesitará refactorizar código existente. Per
 * La nueva tecnología es razón insuficiente para refactorizar. Una de las peores razones para refactorizar se debe a que el código actual está muy por detrás de todas las buenas tecnologías que tenemos hoy en día, y creemos que un nuevo lenguaje o framework puede hacer las cosas mucho más elegantemente. A menos que un análisis de costo-beneficio muestre que el nuevo lenguaje o framework resultará en mejoras significantes en la funcionalidad, mantenimiento o productividad, es mejor dejar las cosas como están.
 * Recuerda que los humanos cometen errores. Reestructurar no siempre garantiza que el nuevo código será mejor -- o tan bueno como -- el intento anterior. He visto y sido parte de muchos intentos de reestructuración fallidos. No fue bonito, pero fue humano.
 
-
-
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Before_You_Refactor)

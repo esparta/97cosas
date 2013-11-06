@@ -3,6 +3,8 @@ layout: page
 title: Inicia con un Sí
 overview: true
 author: Alex Miller
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Start_from_Yes
 ---
 
 Recientemente fue a la tienda buscando arriba y abajo "edaname" (el cuál sólo sabía vagamente que era algún tipo de vegetal). No estaba seguro que si era algo que podría encontrar en la sección de vegetales, la sección de congelados o en enlatados. Me rendí y busqué un empleado para que me ayudara. ¡Ella tampoco sabía!
@@ -26,9 +28,5 @@ Si puedes expresar una irresistible explicación de por qué esa característica
 Iniciar con un sí significa trabajar con tus colegas, no contra ellos.
 
 
-Traducción: Espartaco Palma
-
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Write_Tests_for_People)
 
 

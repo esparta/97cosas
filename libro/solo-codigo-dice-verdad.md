@@ -3,6 +3,8 @@ layout: page
 title: Sólo el código dice la verdad
 overview: true
 author: Peter Sommerlad
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Only_the_Code_Tells_the_Truth
 ---
 
 La semántica final de un programa está dada por el código que se ejecuta. ¡Si esto es únicamente en formato binario, será una lectura difícil! El código fuente debe, sin embargo, estar disponible si se trata de tu programa, cualquier desarrollo de software comercial típico, un proyecto de código abierto, o código en un lenguaje interpretado de forma dinámica. Al mirar el código fuente, el signigicado del programa debería ser evidente. Para saber qué hace el programa, el código es, en última instancia, todo en lo que puedes estar seguro. Hasta el documento de requisitos más preciso no dice toda la verdad: no contiene el relato detallado de lo que el programa está haciendo, sólo las intenciones de más alto nivel del analista de requerimientos. Un documento de diseño podría capturar un diseño planeado, pero carece del necesario nivel de detalle de la implementación. Estos documento pueden perder sincronía con la implementación actual... o que simplemente se han perdido. O nunca fueron escritos, en primer lugar. El código fuente pueder ser lo único que queda.
@@ -15,7 +17,3 @@ Podrías decir: "Oh, mis comentarios te dirán todo lo que necesitas saber". Per
 
 Trata a tu código como cualquier otra composición, como un poema, un ensayo, un blog público, o un email importante. Elabora lo que expresas con cuidado, de modo que haga lo que debe y comunique tan directamente como sea posible lo que está haciendo, de modo que  comunique tus intenciones cuando no estés. Recuerda que el código útil se usa mucho más tiempo de lo previsto. Los programadores de mantenimiento te lo agradecerán. Y, si eres un programador de mantenimiento y el código en el que estás trabajando no dice la verdad fácilmente, aplica las directrices anteriores de una manera proactiva. Establece algo de cordura en el código y manten tu propia cordura.
 
-
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Only_the_Code_Tells_the_Truth)

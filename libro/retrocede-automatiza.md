@@ -3,6 +3,8 @@ layout: page
 title: Retrocede y Automatiza, Automatiza, Automatiza
 overview: true
 author: Cay Horstmann
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Step_Back_and_Automate%2C_Automate%2C_Automate
 ---
 
 
@@ -32,7 +34,3 @@ Si una parte de tu proceso requiere documentos Word, hojas de cálculo, o imáge
 
 No tienes que aprender todo sobre bash o Ant para empezar. Aprende sobre la marcha. Cuando tengas una tarea que crees que pueda y deba ser automatizada, aprende sólo lo necesario acerca de la herramienta para hacerlo. Hazlo al inicio del proyecto cuando el tiempo es más fácil de encontrar. Una vez que has tenido éxito, tú (y tu jefe) verán que tiene sentido el invertir en automatización.
 
-
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Step_Back_and_Automate%2C_Automate%2C_Automate)

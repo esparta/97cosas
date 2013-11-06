@@ -3,6 +3,8 @@ layout: page
 title: Dos fallos pueden hacer un acierto (y es difícil de arreglar)
 overview: true
 author: Allan Kelly
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Two_Wrongs_Can_Make_a_Right_%28and_Are_Difficult_to_Fix%29
 ---
 
 El código nunca miente, pero puede contradecirse. Algunas contradiciones llevan a esos momentos de "¿Cómo es posible que esto funcione?".
@@ -25,7 +27,3 @@ Fallos sencillos pueden ser fáciles de ver y fáciles de arreglar. Son los prob
 
 No hay un consejo simple que se pueda dar en cómo localizar fallos surgidos de defectos simpatéticos. Es necesario darse cuenta de la posiblidad, una cabeza clara, y una voluntad de considerar todas las posibilidades.
 
-
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Two_Wrongs_Can_Make_a_Right_%28and_Are_Difficult_to_Fix%29)

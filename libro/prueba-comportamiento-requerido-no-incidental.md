@@ -3,6 +3,8 @@ layout: page
 title: Prueba el comportamiento requerido, no el comportamiento incidental
 overview: true
 author: Kevlin Henney
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Test_for_Required_Behavior%2C_not_Incidental_Behavior
 ---
 
 Una trampa común en las pruebas es asumir que lo que hace exactamente una implementación es precisamente lo que quieres probar. De primera instancia suena más como una virtud que una trampa. Sin embargo, expresado de otra manera, el tema se vuelve más obvio: Una trampa común en las pruebas es escribir las pruebas para las especificaciones de una implementación, donde estas especificaciones son incidentales y no tienen nada que ver con la funcionalidad deseada.
@@ -17,6 +19,3 @@ Las pruebas sobre-especificadas son frecuentemente un problema con enfoques de "
 
 Para ser eficaces, las pruebas necesitan establecer obligaciones contractuales en lugar de parlotear la implementación. Necesitan tomar una visión de "caja negra" en las pruebas unitarias a probar, esbozando los contratos de las interfaz de manera ejecutable. Y así, alinear el comportamiento probado con el comportamiento requerido.
 
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Test_for_Required_Behavior%2C_not_Incidental_Behavior)

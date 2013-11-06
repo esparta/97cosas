@@ -3,6 +3,8 @@ layout: page
 title: Comenta sólo lo que el código no dice
 overview: true
 author: Kevlin Henney
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Comment_Only_What_the_Code_Cannot_Say
 ---
 
 La diferencia entre teoría y práctica es más grande en la práctica que en la teoría -- una observación que ciertamente aplica a los comentarios. En teoría, la idea general de comentar código suena como algo útil: Ofrece al lector detalles, una explicación de que está pasando. ¿Qué podría ser más útil que ser útil? En la práctica, sin embargo, los comentarios frecuentemente se convierten en una plaga. Así como otras formas de escribir, existen habilidades para escribir buenos comentarios. Mucho de esa habilidad es el saber cuándo no escribirlos.
@@ -15,7 +17,3 @@ Una prevalencia de comentarios ruidosos e inconsistentes en el código base anim
 
 ¿Qué lo califica como valioso? Los comentarios deberían decir algo que el código no hace y no puede decir. Un comentario explicando que lo que una pieza de código ya debería decir es una invitación para cambiar la estructura del código o las convenciones de codifiación para que el código hable por sí mismo. En vez de compensar la pobreza en el nombre de los métodos o de las clases, renómbralos. En vez de comentar secciones en funciones largas, extrae las funciones pequeñas cuyos nombres capturen las intenciones de las anteriores partes. Intenta expresar tanto como sea posible a través del código. Cualquier déficit entre lo que puedes expresar en código y lo que deseas expresar en su totalidad se convierte en un candidato plausible para un comentario útil. Comenta lo que el código no puede decir, no simplemente lo que el código no dice.
 
-Traducción: Espartaco Palma
-
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Comment_Only_What_the_Code_Cannot_Say)

@@ -3,6 +3,8 @@ layout: page
 title: Encapsula Comportamiento, no sólo Estado
 overview: true
 author: Einar Landre
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Encapsulate_Behavior%2C_not_Just_State
 ---
 
 La teoría de sistemas, el contenimiento es uno de los más útiles constructos cuando se está tratanto con sistemas de estructuras muy grandes y complejas. En la industria de software el valor del contenimiento o encapsulación es bien entendido.
@@ -17,7 +19,3 @@ Los desarrolladores menos experimentados en orientación a objetos podrían deci
 
 Así que al final, no rompas la encapsulación, y usa el poder de tu lenguaje de programación para mantenerla.
 
-
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Encapsulate_Behavior%2C_not_Just_State)

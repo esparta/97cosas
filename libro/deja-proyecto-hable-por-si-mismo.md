@@ -3,6 +3,8 @@ layout: page
 title: Deja que tu proyecto hable por sí mismo
 overview: true
 author: Daniel Lindner
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Let_Your_Project_Speak_for_Itself
 ---
 
 Tu proyecto probablemente tenga un sistema de control de versiones en el lugar. Quizás está conectado a un servidor de Integración Contínua que verifica la correcttitud por medio de pruebas automatizadas. Eso es genial.
@@ -19,7 +21,3 @@ Deja que tu creatividad te guíe al escoger el dispositivo apropiado. Si tu cult
 
 El dispositivo de retroalimentación extrema actúa como la caja de voz de tu proyecto. El proyecto ahora se encuentra físicamente con los desarrolladores, quejándose o alabando de acuerdo a las reglas que el equipo haya escogido. Puedes llevar esta personificación más allá aplicando software de síntesis de voz y un par de altavoces. Ahora tu proyecto realmente habla por sí mismo.
 
-
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Let_Your_Project_Speak_for_Itself)

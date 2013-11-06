@@ -3,6 +3,8 @@ layout: page
 title: La Regla Boy Scout
 overview: true
 author: Uncle Bob
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/The_Boy_Scout_Rule
 ---
 
 Los Boy Scout tienen una regla\: "Siempre deja el lugar de acampaniento más limpio que como lo encontraste". Si encuentras un desastre en el piso, lo limpias sin importar quien pudo haber hecho el desastre. Mejoras intencionalmente el ambiente para el siguiente grupo de campistas. En realidad la forma original de la regla, escrita por Robert Stephenson Smyth Baden-Powell, el padre del Scoutismo era "Intenta y deja el mundo un poco mejor que como lo encontraste".
@@ -19,6 +21,3 @@ Francamente, esto sólo me suena como decencia común -- como lavarte las manos 
 Pero es algo más que eso. El cuidado de nuestro propio código es una cosa. Tener cuidado del código del equipo es otra muy distinta. Los equipos se ayudan entre sí, y después se limpian entre ellos. Siguen la regla Boy Scout, porque es bueno para todos, no sólo para ellos.
 
 
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/The_Boy_Scout_Rule)

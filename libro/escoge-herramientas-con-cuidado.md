@@ -3,6 +3,8 @@ layout: page
 title: Escoge tus herramientas con cuidado
 overview: true
 author: Giovanni Asproni
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Choose_Your_Tools_with_Care
 ---
 
 Las aplicaciones modernas rara vez son construidas desde cero. Se ensamblan usando herramientas existentes -- componentes, bibliotecas y frameworks -- por una serie de buenas razones:
@@ -23,7 +25,3 @@ Sin embargo, el escoger la mezcla completa de herramientas para tu aplicación p
 
 Mi estrategia persona para mitigiar estos problemas es comenzar poco a poco, usando sólo las herramientas que son absolutamente necesarias. Usualmente el enfoque inicial está en quitar la necesidad de participar en la programación (y los problemas) de infraestructura de bajo nivel, por ejemplo, usando algún middleware en vez de usar sockets para aplicaciones distribuidas. Y entonces agregar más si es necesario. También tiendo a aislar las herramientas externas de mis objetos de dominio del negocio con respecto a interfaces y capas de presentación, así puedo cambiar la herramienta si lo tengo que hacer con sólo una pequeña dosis de dolor. Un lado positivo de este enfoque es que generalmente termino con una aplicación más pequeña que usa pocas herramientas externas de lo que originalmente se pronosticó.
 
-
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Choose_Your_Tools_with_Care)

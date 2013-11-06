@@ -3,6 +3,8 @@ layout: page
 title: El trabajo duro no paga
 overview: true
 author: Olve Maudal
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Hard_Work_Does_not_Pay_Off
 ---
 
 Como programador, trabajar duro muchas veces no da sus frutos. Puedes engañarte a tí mismo y a unos pocos colegas al creer que estás contribuyendo mucho al proyecto al pasar largas horas en la oficina. Pero la verdad es que trabajando menos puedes lograr más -- a veces mucho más. Si estás tratando de estar centrado y ser 'productivo' por más de treinta horas a la semana entonces probablemente estás trabajando demasiado duro. Debes considerar el reducir la carga de trabajo para ser más eficaz y hacer más cosas.
@@ -15,7 +17,3 @@ Adicionalmente, siempre necesitarás aprender más sobre el desarrollo de softwa
 
 Enfócate en el proyecto, contribuye tanto como puedas encontrando soluciones inteligentes, mejora tus habilidades, reflexiona sobre lo que estás haciendo y adapta tu comportamiento. Evitar avergonzarte, y a nuestra profesión, al comportarte como un hamster en una jaula rodando en la rueda. Como programador profesional debes saber que tratar de estar concentrado y  ser 'productivo' 60 horas a la semana no es lo más sensato. Actúa como un profesional: prepárate, se eficaz, observa, reflexiona y cambia.
 
-
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Hard_Work_Does_not_Pay_Off)

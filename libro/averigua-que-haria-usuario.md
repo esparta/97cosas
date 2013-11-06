@@ -3,6 +3,8 @@ layout: page
 title: Averigua qué haría el usuario (tu no eres un usuario)
 overview: true
 author: Giles Colborne
+translator: Natán Calzolari
+original: http://programmer.97things.oreilly.com/wiki/index.php/Ask_%22What_Would_the_User_Do%3F%22_%28You_Are_not_the_User%29
 ---
 
 Todos tendemos a asumir que los demás piensan como nosotros, pero no es así. Los psicólogos lo llaman efecto del falso consenso. Cuando la gente piensa o actúa de un modo diferente a nosotros, es muy probable que (subconscientemente) los consideremos defectuosos en cierto modo.
@@ -19,7 +21,3 @@ Los usuarios tienden a salir del paso de alguna manera. Encontrarán algo que fu
 
 También te encontrarás con que hay una marcada diferencia entre lo que los usuarios dicen que quieren y lo que realmente quieren. Lo cual es preocupante, ya que para averiguar los requerimientos lo normal es preguntárselos a ellos. Es por esto que el mejor modo de relevar los requerimientos es observando a los usuarios. Pasar una hora con ellos es mucho más informativo que pasar un día suponiendo lo que quieren.
 
-
-Traducción: Natán Calzolari
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Ask_%22What_Would_the_User_Do%3F%22_%28You_Are_not_the_User%29)

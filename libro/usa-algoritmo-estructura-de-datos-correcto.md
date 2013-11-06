@@ -3,6 +3,8 @@ layout: page
 title: Usa el algoritmo y estructura de datos correcto
 overview: true
 author: JC van Winkel
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Use_the_Right_Algorithm_and_Data_Structure
 ---
 
 Un gran banco con muchas sucursales se quejó de que las nuevas computadoras que había comprado para los cajeros eran muy lentas. Esto era en el tiempo antes de que todos usaran la banca electrónica y los cajeros automáticas no estaban tan extendidos como lo están ahora. La gente visitaba el banco mucho más frecuentemente, y las computadoras lentas estaban haciendo filas de gente. En consecuencia, el banco amenazó con romper su contrato con el proveedor.
@@ -41,7 +43,3 @@ Un buen programador debería también saber cuándo usar un algoritmo abominable
 
 Entonces, lee algunos buenos libros -- y asegúrate que los entiendas. Si realmente lees bien "El Arte de la programación" de Donald Knuth, podrías incluso ser afortunado: Encuentra una equivocación del autor y gana uno de los cheques de dólares hexadecimales ($2.56).
 
-
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Use_the_Right_Algorithm_and_Data_Structure)

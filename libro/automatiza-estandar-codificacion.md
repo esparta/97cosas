@@ -3,6 +3,8 @@ layout: page
 title: Automatiza el estándar de codificación
 overview: true
 author: Filip van Laenen
+translator: Natán Calzolari
+original: http://programmer.97things.oreilly.com/wiki/index.php/Automate_Your_Coding_Standard
 ---
 
 Recientemente, la comunidad programadora ha demostrado un renovado interés por la programación funcional. Parte del motivo es que las propiedades emergentes de este paradigma la hacen una buena opción para abordar la transición de la industria hacia el desarrollo sobre arquitecturas multi-core. Sin embargo, aunque ésta es sin dudas una aplicación importante, no es la razón por la que este texto te exhorta a que aprendas sobre programación funcional.
@@ -21,6 +23,3 @@ Por supuesto, este enfoque no es la mejor opción para todas las situaciones. Po
 
 Domina el paradigma de la programación funcional y podrás —criteriosamente— aplicar en otros contextos las lecciones que aprendas. Tus sistemas orientados a objetos (para empezar) se llevarán mejor con las bondades de la transparencia referencial, y, contrario a lo que muchos te dirán, estarán mucho más cerca de su contraparte funcional. De hecho, algunos incluso afirman que en el fondo los paradigmas de programación funcional y orientada a objetos no son más que un mero reflejo el uno del otro, una especie de yin y yang computacional.
 
-Traducción: Natán Calzolari
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Automate_Your_Coding_Standard)

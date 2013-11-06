@@ -3,6 +3,8 @@ layout: page
 title: Prueba precisa y concretamente
 overview: true
 author: Kevlin Henney
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Test_Precisely_and_Concretely
 ---
 
 Es imporante probar el comportamiento deseado y esencial de una unidad de código, en vez de probar por el comportamiento incidental de su implementación en particular. Pero esto no debería ser tomado o mal tomado como una excusa para las pruebas vagas. Las pruebas necesitan ser exactas y precisas.
@@ -39,8 +41,3 @@ Los ejemplos concretos ayudan a ilustrar el comportamiento general de una manera
 
 Al especificar el comportamiento las pruebas deberían ser simplemente exactas: También deben ser precisas.
 
-
-Traducción: Espartaco Palma
-
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Test_Precisely_and_Concretely)

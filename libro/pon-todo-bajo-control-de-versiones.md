@@ -3,6 +3,8 @@ layout: page
 title: Pon todo bajo Control de Versiones
 overview: true
 author: Diomidis Spinellis
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Put_Everything_Under_Version_Control
 ---
 
 Pon todo lo que tienen tus proyectos bajo Control de Versiones. Los recursos que necesitas están ahí: herramientas libres como Subversion, Git, Mercial, y CVS; abundante espacio en disco; servidores baratos y poderosos; una red ubícua; e incluso servicios de hospedaje de proyectos. Después de instalar el software de control de versiones todo lo necesitas para poner tu trabajo en su repositorio es ejecutar el comando apropiado en un directorio limpio que contenga tu código. Y sólo hay dos nuevas operaciones básicas por aprender: enviar el cambio en tus códigos al repositorio y actualizar tu directorio de trabajo a la versión del repositorio.
@@ -22,6 +24,3 @@ Una vez que ha visto la belleza de trabajar con un sistema de control de version
 La vida bajo un control de versión es demasiado buena como para arruinarlo con errores fácilmente evitables.
 
 
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Put_Everything_Under_Version_Control)

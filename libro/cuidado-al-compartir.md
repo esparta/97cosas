@@ -3,6 +3,8 @@ layout: page
 title: Ten cuidado al compartir
 overview: true
 author: Udi Dahan
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Beware_the_Share
 ---
 
 Era mi primer proyecto en la compañía. Había terminado mi carrera y estaba ansioso por probarme a mí mismo, me quedaba tarde cada día al revisar el código existente. Conforme trabajaba en mi primera característica tomaba cuidados adicionales para poner en marcha cada cosa que había aprendido -- comentarios, bitácoras, sacando código compartido a librerías de ser posible, el trabajo. La revisión de código de la que había sentido tan listo vino como una sorpresa desagradable -- ¡el reuso estaba mal visto! ¿Cómo podía ser eso posible? En toda la universidad el reuso era tomado como el epítome de la ingeniería de calidad de software. Todos los artículos que había leído, los libros de textos, lo que me habían enseñado los profesionales de software con experiencia. ¿Estaba todo mal?
@@ -22,6 +24,3 @@ Estos errores son insidiosos por eso, en escencia, suenan como una buena idea. C
 Cuidado al compartir. Revisa tu contexto. Sólo entonces, procede.
 
 
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Beware_the_Share)

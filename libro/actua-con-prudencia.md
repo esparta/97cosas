@@ -3,6 +3,8 @@ layout: page
 title: Actúa con prudencia
 overview: true
 author: Seb Rose
+translator: Natán Calzolari
+original: http://programmer.97things.oreilly.com/wiki/index.php/Act_with_Prudence
 ---
 
 >“En todo lo que emprendas, actúa con prudencia y considera las consecuencias”
@@ -17,9 +19,3 @@ Hay ocasiones en las que debes incurrir en la deuda técnica para cumplir con un
 Si planeas pagar la deuda en la próxima iteración, el costo será mínimo. Pero si la abandonas, se incrementarán los intereses, y esto también deberá registrarse para que el costo permanezca a la vista. Hacer esto resaltará el impacto que tiene la deuda técnica del proyecto sobre el valor de la empresa y permitirá una priorización de pago adecuada. Cómo calcular y realizar el seguimiento de los intereses dependerá de cada proyecto en particular, pero hacerlo deberás.
 
 Paga la deuda técnica tan pronto como puedas; sería imprudente no hacerlo.
-
-
-Traducción: Natán Calzolari
-
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Act_with_Prudence)

@@ -3,6 +3,8 @@ layout: page
 title: Escribe código como si tuvieras que mantenerlo por el resto de tu vida
 overview: true
 author: Yuriy Zubarev
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Write_Code_as_If_You_Had_to_Support_It_for_the_Rest_of_Your_Life
 ---
 
 Puedes preguntarle a 97 personas lo que todo programador debería saber y hacer, y podrás escuchar 97 respuestas distintas. Esto podría ser abrumador e intimidante al mismo tiempo. Todo consejo es bueno, todos los principios son sólidos, y todas las historias son convincentes, pero ¿por dónde empezar? Más importante aún, una vez que has comenzado, ¿Cómo te mantienes al día con todas las mejores prácticas que has aprendido y hacer de ellas una parte integral de tus prácticas de programación?
@@ -15,8 +17,3 @@ Eso es todo. Si aceptas esta idea, sucederán muchas cosas maravillosas. Si vas 
 
 Si lo reflexionas, el código que escribiste hace muchos años todavía influye en tu carrera, te guste o no. Dejas un rastro de tu conocimiento, actitud, tenacidad, profesionalismo, nivel de compromiso y grado de disfrute con cada método, clase y módulo que diseñas y escribes. La gente se formará opiniones de ti basado en el código que ven. Si esas opiniones son constantemente negativas, entonces obtendrás menos de tu carrera de lo que esperabas. Preocúpate por tu carrera, de tus clientes, y de todos los usuarios con cada línea de código -- escribe código como si tuvieras que mantenerlo por el resto de tu vida.
 
-
-
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Write_Code_as_If_You_Had_to_Support_It_for_the_Rest_of_Your_Life)

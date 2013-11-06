@@ -3,6 +3,8 @@ layout: page
 title: Conoce bien más de dos lenguajes de programación
 overview: true
 author: Russel Winder
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Know_Well_More_than_Two_Programming_Languages
 ---
 
 La psicología de la gente programadora han sabido desde hace mucho tiempo que la experiencia de programación está relacionada directamente con el número de diferentes paradigmas de programación que con que el programador se sienta cómodo. No se refiere a sólo saber, o saber un poco, sino a poder programar genuinamente con ellos.
@@ -21,6 +23,3 @@ La consecuencia de todo esto es que le incumbe a cada programador el ser diestro
 
 A pesar de que es un inicio, un curso de capacitación de una semana no es suficiente para aprender un nuevo lenguaje: Esto generalmente toma unos cuantos meses de uso, aunque a tiempo parcial, para ganar un conocimiento adecuando de un lenguaje. Son sus modismos de uso, no sólo la sintaxis y el modelo computacional los factores importantes.
 
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Know_Well_More_than_Two_Programming_Languages)

@@ -3,6 +3,8 @@ layout: page
 title: Pensando en estados
 overview: true
 author: Niclas Nilsson
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Thinking_in_States
 ---
 
 La gente en el mundo real tiene una rara relación con los estados. Esta mañana me paré en la tienda local preparándome para otro día de convertir cafeína en código. Debido a que forma favorita de hacer es tomando un latte, y no pudiendo encontrar leche, pregunté a la empleada:
@@ -39,6 +41,3 @@ Pero, ¿cómo empezar a pensar en estados? Extrayendo expresiones significativas
 
 Si tu estado no es correcto, hay un bug y estás en riesgo de tirar a la basura datos si no abortas. Si encuentras que las revisiones de estado son ruidosas, aprende a cómo usar una herramienta de generación de código, weaving o aspectos para ocultarlos. Independientemente del enfoque que elijas, pensar en estados hará que tu código sea más simple y más robusto.
 
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Thinking_in_States)

@@ -3,6 +3,8 @@ layout: page
 title: Evita errores
 overview: true
 author: Giles Colborne
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Prevent_Errors
 ---
 
 Los mensajes de error son la interacción más crítica entre el usuario y el resto del sistema. Suceden cuando la comunicación entre el usuario y el sistema está cerca del punto de quiebre.
@@ -29,6 +31,3 @@ El registro y analisis de las acciones de "deshacer" puede también ser un punto
 
 Cualquiera que sea el enfoque que tomes, la mayoría de los errores son sistemáticos -- el resultado de malos entendidos entre el usuario y el software. Entender cómo los usuarios piensan, interpretan información, toman decisiones, e introducen datos de entrada te ayudará a depurar las interacciones entre el software y tus usuarios.
 
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Prevent_Errors)

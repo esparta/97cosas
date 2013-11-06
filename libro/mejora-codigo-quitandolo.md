@@ -3,6 +3,8 @@ layout: page
 title: Mejora el código quitándolo
 overview: true
 author: Pete Goodliffe
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Improve_Code_by_Removing_It
 ---
 
 Menos es más. Es una máxima un poco trillada, pero algunas veces es realmente cierto.
@@ -26,7 +28,3 @@ Así que ¿porqué terminó ahí ese código innecesario? ¿Porqué un programad
 
 ¿En qué trabajas ahora mismo? ¿Es todo necesario?
 
-
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Improve_Code_by_Removing_It)

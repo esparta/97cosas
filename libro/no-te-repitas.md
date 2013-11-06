@@ -3,6 +3,8 @@ layout: page
 title: No te repitas
 overview: true
 author: Steve Smith
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Repeat_Yourself
 ---
 
 De todos los principios de programación, No te Repitas (Don't Repeat Yourself, DRY) es quizás uno de los más fundamentales. El principio fue formulado por Andy Hunt y Dave Thomas en "The Pragmatic Programmer", y subyace a muchas otras bien conocidas buenas prácticas y diseños de patrones en software. El desarrollador que aprende a reconocer la duplicación, y entiende cómo eliminarla a través de una abstracción práctica y apropiada puede producir código mucho más limpio que quien infecta contínuamente la aplicación con la repetición innecesarias.
@@ -26,6 +28,3 @@ Otros principios de software también están relacionados con DRY. El principio 
 Cuando se sigue en estructura, lógica, procesos y funciones el principio provee una guía fundamental para los desarrolladores de software y ayuda a la creación de aplicaciones más simples, más fáciles de mantener  y de alta calidad. Si bien hay escenarios donde la repetición puede ser necesaria para cumplir con el índice de rendimiento u otros requerimientos (por ejemplo, desnormalización en base de datos), ésto debería ser usado sólo donde aplique directamente un problema real en vez de uno imaginario.
 
 
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Repeat_Yourself)

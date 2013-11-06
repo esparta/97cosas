@@ -3,6 +3,8 @@ layout: page
 title: Escribe las pruebas para las personas
 overview: true
 author: Gerard Meszaros
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Write_Tests_for_People
 ---
 
 Estás escribien pruebas automatizadas para algún o todo tu código de producción. ¡Felicidades! ¿Estás escribiendo tus pruebas antes de que escribas el código? ¡¡Mucho mejor!! El sólo hacerlo te convierte en uno de los primeros adoptantes de más avanzadas prácticas de la ingeniería de software. Pero, ¿estás escribiendo buenas pruebas? ¿cómo saberlo? Una mera es preguntar "¿Para quién estoy escribiendo estas pruebas?". Si la respuesta es "Para mí, para ahorrarme el esfuerzo de corregir errores" o "Para el compilador, con eso puede ser ejecutado", entonces las apuestas están en que no estás escribiendo las mejores pruebas posibles. Así que, ¿para quién deberías estár escribien las pruebas? Para las personas tratando de entender tu código.
@@ -16,7 +18,3 @@ Los diferentes escenarios de uso tendrán una versión un poco diferente de cada
 
 También es buena idea el poner a prueba tus pruebas. Puedes verificar que detectan el error que creer que detectan al incluir dicho error en el código de producción (por supuesto, en una copia privada que desecharás). Asegurate que reporte los errores de manera significativa. También debes verificar que tus pruebas hablan claramente a una persona tratanto de entender tu código. La única manera de hacerlo es tener alguien que no está familiarizado con tu código para que lea tus pruebas y te diga que ha aprendido. Escucha cuidadosamente lo que te diga. Si no entiendió algo claramente no es porque no sea muy brillante. Es más probable que tu fueras muy claro. (¡Continúa e inverte los roles, lee sus pruebas!)
 
-Traducción: Espartaco Palma
-
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Write_Tests_for_People)

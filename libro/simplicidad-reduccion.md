@@ -3,6 +3,8 @@ layout: page
 title: La Simplicidad viene de la Reducción
 overview: true
 author: Paul W. Homer
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Simplicity_Comes_from_Reduction
 ---
 
 "Hazlo de nuevo...", me dijo el jefe mientras su dedo presionaba con fuerza la tecla de borrado. Miré la pantalla de la computadora con una sensación de vación muy familiar, mientras mi código -- línea tras línea -- desparecía en el olvido.
@@ -21,9 +23,5 @@ El código debería ser simple. Debería ser un mínimo de variables, funciones,
 
 Por supuesto, si no lo logra entonces solo borra todo y escríbelo una vez más. Iniciar a diseñar desde lo recordado a menudo puede ayudar a cortar una gran cantidad de desorden innecesario.
 
-
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Simplicity_Comes_from_Reduction)
 
 

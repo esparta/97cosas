@@ -3,6 +3,8 @@ layout: page
 title: Haz mucha práctica deliberada
 overview: true
 author: Jon Jagger
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Do_Lots_of_Deliberate_Practice
 ---
 
 La práctica deliberada no es simplemente realizar una tarea. Si te preguntas "¿Porqué estoy realizando ésta tarea?" y tu respuesta es "para completar la tarea", entonces no estás haciendo práctica deliberada.
@@ -28,7 +30,3 @@ No tiene mucho sentido la práctica deliberada en algo ya eres un experto. La pr
 
 La práctica deliberada es acerca del aprendizaje. Acerca del aprendizaje que te reta; aprendiendo que cambias tu comportamiento. Buena suerte.
 
-
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Do_Lots_of_Deliberate_Practice)

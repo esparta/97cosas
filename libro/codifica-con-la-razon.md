@@ -3,6 +3,8 @@ layout: page
 title: Codificando con la razón
 overview: true
 author: Yechiel Kimchi
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Coding_with_Reason
 ---
 
 Trata de razonar sobre la correctitud de software de mano resulta en una prueba formal de que es más que el código y es más contener errores que el código. Las herramientas automatizadas son preferibles, pero no siempre posibles. Lo siguiente describe una ruta intermedia: razonamiento semi-formal sobre la corrección.
@@ -27,7 +29,3 @@ Muchas de las prácticas de codificación que son bien conocidas (aunque quizás
 
 Conforme se razone sobre la correctitud, argumentar sobre tu código te ofrece entendimiento sobre él. Comunica sus descubrimientos para el beneficio de todos.
 
-
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Coding_with_Reason)

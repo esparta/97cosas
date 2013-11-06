@@ -3,6 +3,8 @@ layout: page
 title: El mito del Gurú
 overview: true
 author: Ryan Brush
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/The_Guru_Myth
 ---
 
 Cualquiera que haya trabajado en el software el tiempo suficiente ha escuchado preguntas como éstas:
@@ -20,6 +22,3 @@ Por supuesto, sigue habiendo una gran variabilidad en la aptitud natural. Muchos
 Por último, uno de los mayores obstáculos en el software es la gente inteligente que propaga el mito del gurú a propósito. Esto podría hacerse por ego, o como una estrategia para incrementar el valor percibido por un cliente o por su empleador. Irónicamente, esta actitud puede hacer que las personas inteligentes sean menos valiosas debido a que no contribuyen al crecimiento de sus compañeros. No necesitamos gurús. Necesitamos expertos que estén dispuestos a desarrollar otros expertos en su campo. Hay espacio para todos nosotros.
 
 
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/The_Guru_Myth)

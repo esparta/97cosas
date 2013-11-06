@@ -3,6 +3,8 @@ layout: page
 title: Lee las humanidades
 overview: true
 author: Keith Braithwaite
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Read_the_Humanities
 ---
 
 En todo y hasta en el proyecto más pequeño de desarrollo, las personas trabajan con personas. En todos y hasta en el campo más abstracto de investigación, las personas escriben software para las personas a las que ayudan en alguna de sus metas. La gente escribe software con gente para la gente. Es un negocio de personas. Desafortunadamente, lo que se enseña a programadores a menudo los equipa muy mal para hacer frente a las personas con que trabajan. Afortunadamente hay un completo campo de estudio que puede ayudar.
@@ -15,7 +17,3 @@ Lakoff y Johnson nos presentan un catalogo de "Metáforas por la que vivimos", s
 
 [Eleanor Rosch](https://en.wikipedia.org/wiki/Eleanor_Rosch) anuló el modelo aristotélico de las categorías en las que organizamos nuestra compresión del mundo. Cuando los programadores preguntan a los usuarios sobre su deseos para con un sistema, ellos tienden a preguntar las definiciones a través de predicados. Esto es muy conveniente para nosotros. Los términos en predicado pueden ser convertidas fácilmente en atributos de una clase o columnas en una table. Este tipo de categorías son difíciles de entender, disjuntas y ordenas. Desafortunadamente, tal y como Rosh mostró en "Natural Categories" y trabajos posteriores, esto no es cómo la gente entiende el mundo generalmente. Ellos lo entienden en formas basadas en ejemplos. Algunos ejemplos, como los tan llamados prototipos, son mejores que otros y por lo tanto las categorías resultantes son difusas, se superponen y pueden tener una rica estructura interna. Mientras sigamos insistiendo en respuestas Aristotélicas seremos incapaces de preguntar a los usuarios las preguntas correctas sobre su mundo, y estaremos luchando por llegar al común entendimiento que necesitamos.
 
-
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Read_the_Humanities)

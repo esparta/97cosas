@@ -3,6 +3,8 @@ layout: page
 title: El paso de mensajes lleva a una mejor escalabilidad en sistemas paralelos
 overview: true
 author: Russel Winder
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Message_Passing_Leads_to_Better_Scalability_in_Parallel_Systems
 ---
 
 A los programadores se les enseña desde el primer momento de sus estudios en computación que la concurrencia -- y especialmente el paralelismo, un subconjunto especial de la concurrencia -- es difícil, que sólo los mejores pueden tener la esperanzas de hacerlo bien, y que incluso se equivocan. Siempre hay una gran atención a threads, semáforos, monitores, y lo difícil que es obtener el acceso simultáneo a variables para ser seguro en threads.
@@ -22,6 +24,3 @@ Dicho todo esto, lenguajes como C, C++, Java, Python, y Groovy son el principal 
 Después de todo, el no programar con memoria compartida y usar en vez de eso paso de mensajes es probabliemente la forma más exitosa de implementar sistemas que aprovechan el paralelismo que es ahora endémico en el hardware de computación. Quizás extrañamente, pero a pesar de que los procesos son anteriores a los threads como unidad de concurrencia, el futuro parece estar en usar threads para implementar procesos.
 
 
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Message_Passing_Leads_to_Better_Scalability_in_Parallel_Systems)

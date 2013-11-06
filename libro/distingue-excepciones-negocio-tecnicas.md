@@ -3,6 +3,8 @@ layout: page
 title: Distingue excepciones de Negocio de las excepciones Técnicas
 overview: true
 author: Dan Bergh Johnsson
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Distinguish_Business_Exceptions_from_Technical
 ---
 
 Hay básicamente dos razones por las que las cosas van mal en tiempo de ejecución: problemas técnicos que impiden el uso de la aplicación y la lógica del negocio que evita hacer mal uso de la aplicación. La mayoría de los lenguajes modernos, como LISP, Java, Smalltalk y C# usan excepciones para señalar ambas situaciones. Sin embargo, las dos situaciones son tan diferentes que deberían ser tomadas por separado. Es una fuente potencial de confusión el representar ambas usando la misma jerarquía de excepciones, sin mencionar la misma clase de excepciones.
@@ -19,7 +21,3 @@ En contraste a esas situaciones, tenemos la situación donde no puedes completar
 
 Mezclar excepciones técnicas y excepciones de negocios en la misma jerarquía desdibuja la distinción y confunde a quien hace la llamada sobre qué metodo del contrato es, qué condiciones se requiere asegurar antes de ejecutarlas, y qué situaciones se supone debe manejar. Separar los casos ofrece claridad e incrementa la oportunidad de que las excepciones técnicas serán manejadas por algún framework de aplicaciones, mientras que las excepciones de dominio del negocio en realidad son consideradas y manejadas por el código del cliente.
 
-
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Distinguish_Business_Exceptions_from_Technical)

@@ -3,6 +3,8 @@ layout: page
 title: No confíes en el "Aquí sucede la magia"
 overview: true
 author: AlanGriffiths
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Rely_on_%22Magic_Happens_Here%22
 ---
 
 Si nos fijamos en cualquier actividad, proceso o disciplina desde lo lejano parece simple. Los gerentes sin experiencia en el desarrollo piensan que lo que hacen los programadores es sencillo, y los programadores sin experiencia en administración piensan lo mismo sobre lo que hacen los gerentes.
@@ -23,7 +25,3 @@ No tienes que entender toda la magia que sucede en tu proyecto, pero no está de
 
 Más importante, asegurate de que cuando la magia se detenga, pueda ser iniciada de nuevo.
 
-
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Rely_on_%22Magic_Happens_Here%22)

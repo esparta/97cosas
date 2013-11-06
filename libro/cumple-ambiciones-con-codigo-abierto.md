@@ -3,6 +3,8 @@ layout: page
 title: Cumple tus ambiciones con Código Abierto
 overview: true
 author: Richard Monson-Haefel
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Fulfill_Your_Ambitions_with_Open_Source
 ---
 
 Hay una alta probabilidad de que no estés desarrollando software en tu trabajo para cumplir tus más ambiciosos sueños de desarrollo de software. Quizás estás desarrollando software para una gran compañía de seguros cuando te gustaría estar trabajando en Google, Apple, Microsoft, o tu propia start-up desarrollando la próxima "gran cosa". Nunca vas a llegar donde quieres estar desarrollando software para sistemas que no te importan.
@@ -16,6 +18,3 @@ El código abierto provee enormes oportunidades para el programador motivado. En
 Iniciar con el código abierto es bastante fácil. Hay plena documentación en las herramientas que necesitas (por ejemplo, administración de código fuente, editores, lenguajes de programación, sistemas de construcción, etc.). Primero  encuentra el proyecto en el que deseas trabajar y aprende acerca de las herramientas que el proyecto utiliza. La documentación en proyectos por sí misma será una luz en muchos casos, pero esto quizás importe menos debido a que la mejor manera de aprender es investigar el código por tí mismo. Si deseas estar involucrado, puedes ofrecer tu ayuda con la documentación. O puedes comenzar como voluntario para escribir las pruebas de código. A pesar de que esto podría no sonar exitante, la verdad es que aprendes mucho más rápido escribiendo pruebas de código para el software de otra persona como casi cualquier otra actividad en software. Escribr pruebas de código, realmente buenas pruebas de código. Encuentra errores, sugiere correciones, haz amigos, trabaja en software que te gusta, y cumple tus ambiciones en el desarrollo de software.
 
 
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Fulfill_Your_Ambitions_with_Open_Source)

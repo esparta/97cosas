@@ -3,6 +3,8 @@ layout: page
 title: Implementa rápido y con frecuencia
 overview: true
 author: Steve Berczuk
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Deploy_Early_and_Often
 ---
 
 Depurar el proceso de implementación e instalación suele posponerse hasta que se acerca el final del proyecto. En algunos proyectos la escritura de herramientas de instalación es delegado a un ingeniero de entrega quiene asume la tarea como un "mal necesario". Las revisiones y demostraciones son realizadas a partir de un ambiente hecho a mano para asegurarse que todo funciona. El resultado es que el equipo no obtiene la experienca en el proceso de implementación o sobre el ambiente de implementación mismo hasta que quizás es demasiado tarde para hacer los cambios.
@@ -18,8 +20,3 @@ A pesar de que "ser capaz de implementar" desde el principio no parece tener muc
 
 El proceso de instalación/implementación es esencial para la productividad de los clientes o de su equipo de servicio profesionales, por lo que deberías hacer pruebas y refactorizar éste proceso sobre la marcha. Probamos y refactorizamos el código fuente de todo el proyecto. La implementación no se merece menos.
 
-
-
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Deploy_Early_and_Often)

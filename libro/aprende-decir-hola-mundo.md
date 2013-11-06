@@ -3,6 +3,8 @@ layout: page
 title: Aprende a decir "Hola, Mundo"
 overview: true
 author: Thomas Guest
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Learn_to_Say_%22Hello%2C_World%22
 ---
 
 Paul Lee, nombre de usuario 'leep', comunmente conocido como Hoppy. tenía una reputación como el experto local en temas de programación. Necesitaba ayuda. Caminé hacia el escritorio de Hoppy y le pregunté, ¿podrías echar un vistazo al código por mí?
@@ -40,8 +42,3 @@ De regreso a mi escritorio, cerré mi IDE. Me había hecho tan familar al trabaj
         return 0;
     }
 
-
-
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Learn_to_Say_%22Hello%2C_World%22)

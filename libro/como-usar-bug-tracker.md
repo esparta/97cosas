@@ -3,6 +3,8 @@ layout: page
 title: ¿Cómo usar un Gestor de Errores?
 overview: true
 author: Matt Doar
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/How_to_Use_a_Bug_Tracker
 ---
 
 Como sea que lo llames, bug, defecto, o incluso "efecto del lado de diseño", no hay manera de alejarse de ellos. Conocer cómo enviar un buen reporte de error y lo que se debe buscar son habilidades para mantener a un proyecto llevándose bien:
@@ -26,6 +28,3 @@ Asegúrate que todos sepan cómo encontrar el error en el que se supone está tr
 Finalmente, recuerda que un error no es una unidad estándar de trabajo más que una línea de código es una medida precisa del esfuerzo.
 
 
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/How_to_Use_a_Bug_Tracker)

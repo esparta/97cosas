@@ -3,6 +3,8 @@ layout: page
 title: La longevidad de las soluciones provisionales
 overview: true
 author: Klaus Marquardt
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/The_Longevity_of_Interim_Solutions
 ---
 
 ¿Porqué creamos soluciones provisionales?
@@ -36,6 +38,3 @@ Vamos a examinar éstas opciones más de cerca.
 
 Crearás muchas soluciones, algunas de ellas serán provisionales, muchas de ellas serán útiles. La mejor manera de superar las soluciones provisionales es hacerlas superflues, proveer una más elegante y útil solución. Podrías recibir la serenidad de aceptar las cosas que no puedes cambiar, coraje para cambiar las cosas que puedes, y sabiduría para saber la diferencia.
 
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/The_Longevity_of_Interim_Solutions)

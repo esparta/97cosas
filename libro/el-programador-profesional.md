@@ -3,6 +3,8 @@ layout: page
 title: El Programador Profesional
 overview: true
 author: Uncle Bob
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/The_Professional_Programmer
 ---
 
 ## ¿Qué es un programador profesional?
@@ -17,8 +19,4 @@ El rasgo más importante de un programador profesional es la responsabilidad per
 
 Los profesionales son responsables. Asumen la responsabilidad por sus propias carreras. Asumen la responsabilidad de asegurarse de que su código funciona correctamente. Asumen la responsabilidad de la calidad de su mano de obra. No abandonan sus principios cuando los plazos se ciernen. De hecho, cuando la presión aumenta, los profesionales aferran a las disciplinas que saben son correctas.
 
-
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/The_Professional_Programmer)
 

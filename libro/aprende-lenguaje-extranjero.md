@@ -3,6 +3,8 @@ layout: page
 title: Aprende un lenguaje extranjero
 overview: true
 author: Klaus Marquardt
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Learn_Foreign_Languages
 ---
 
 Los programadores necesitamos comunicarnos. Mucho.
@@ -21,9 +23,4 @@ Y, por supuesto, la vida es más que proyectos de software. Como lo nota Charlem
 
 > De lo que no se puede hablar, hay que callar.
 > Ludwig Wittgenstein
-
-
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/Learn_Foreign_Languages)
 

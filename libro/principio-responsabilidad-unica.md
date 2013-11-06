@@ -3,6 +3,8 @@ layout: page
 title: El Principio de Responsabilidad Única
 overview: true
 author: Uncle Bob
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/The_Single_Responsibility_Principle
 ---
 
 Uno de los principios más fundamentales de un buen diseño es:
@@ -43,7 +45,3 @@ El lector astuto verá que aún existen dependencias en la solución anterior. E
 
 La aplicación cuidadosa del SRP, separando las cosas que cambian por diferentes razones es una de las claves para la creación de diseños que tienen una estructura de componentes de implementación independientemente.
 
-
-Traducción: Espartaco Palma
-
-[Leer contribución original](http://programmer.97things.oreilly.com/wiki/index.php/The_Single_Responsibility_Principle)
