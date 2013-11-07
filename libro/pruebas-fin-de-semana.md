@@ -1,0 +1,20 @@
+---
+layout: page
+title: Haz pruebas mientras duermes (y los fines de semana)
+overview: true
+author: Rajith Attapattu
+translator: Espartaco Palma
+original: http://programmer.97things.oreilly.com/wiki/index.php/Test_While_You_Sleep_%28and_over_Weekends%29
+---
+
+Tranquilo. No me refiero a centros de desarrollo a larga distancia, horas extra en fin de semana, o trabajar de noche. En vez de ello, quiero llamar tu atención sobre la cantidad de poder de cómputo que tenemos a disposición. Específicamente, cuánto no estamos aprovechando para hacer nuestras vidas como programadores un poco más fáciles. ¿Constantemente estás teniendo dificultades para tener suficiente poder de cómputo durante la jornada de trabajo? Si es así, ¿qué están haciendo tus servidores de prueba fuera de las horas de trabajo normal? A menudo, los servidores de prueba están sin carga durante la noche y los fines de semana. Puedes usar eso a tu favor.
+
+- ¿Te has sentido culpable de confirmar un cambio sin ejecutar todas las pruebas? Una de las razones principales de que los programadores no ejecutan los conjuntos de pruebas antes de hacer commit al código se debe a la cantidad de tiempo que puede tomar. Cuando las fechas límite se avecinan y la presión viene a acechar, los humanos naturalmente empezamos tomar atajos. Una forma de abordar esto es romper los largos conjuntos de pruebas en dos o más perfiles. Uno pequeño, un perfil de pruebas obligatorio que sea rápido de ejecutar, te ayudará a asegurarte de que las pruebas se ejecuten antes de cada commit. El total de lo perfiles (incluyendo el perfil obligatorio -- sólo para estar seguros) pueden ser automatizados para ejecutarse durante la noche, listo para reportar los resultados en la mañana.
+- ¿Has tenido suficiente oportunidad de poner a prueba la estabilidad de tu producto? Las pruebas de más larga duración son vitales para identificar fugas de memoria y otros problemas de estabilidad. Rara vez se ejecutan durante el día ya que consumen tiempo y recurso. Puedes automatizar una carga de prueba durante la noche, y un poco más largos durante el fin de semana. Del viernes 6.00 PM hasta las 6.00 AM del siguiente Lunes hay 60 horas de tiempo potencial para las pruebas.
+- ¿Estás obteniendo tiempo de calidad en tu entorno de pruebas de rendimiento? He visto altercados entre equipos para tener tiempo en los entornos de prueba de rendimiento. En la mayoría de los casos ningún equipo obtiene tiempo de calidad durante el día, mientras que el ambiente está virtualmente inactivo durante las horas posteriores. Los servidores y la red no está ocupados durante la noche o los fines de semana. Es el momento ideal para ejecutar algunas pruebas de rendimiento de calidad.
+- ¿Hay demasiadas permutaciones de pruebas manuales? En muchos casos tu producto está destinado a ser ejecutado en una variedad de plataformas. Por ejemplo, en 32 y 64 bits, en Linux, Solaris y Windows, o simplemente en diferentes versiones del mismo sistema operativo. Para empeorar las cosas, muchas aplicaciones modernas son expuestas a una plétora de mecanismos de transporte y protocolos (HTTP, AMQP, SOAP, CORBA, etc). Probar manualmente todas estas permutaciones consume mucho tiempo y muy comunmente se realizan cerca de una fecha de liberación debido a la presión de recursos. Por desgracia, puede ser demasiado tarde en el ciclo para capturar desagradables errores.
+
+Las pruebas automatizas que se ejecutan durante la noche o fin de semana asegurarán que todas estas permutaciones son puestas a prueba con mayor frecuencia. Con un poco de pensamiento y algo de conocimiento de secuencias de comandos (scripting) puedes programar unos cuantos trabajos cron para poner en marcha algunas pruebas durante la noche y los fines de semana. Hay también muchas herramientas de prueba por ahí que podrían ser útiles. Algunas organizaciones incluso tienen granjas de servidores que turnan servidores a través de diferentes departamentos y equipos para asegurar que los recursos son utilizados eficientemente. Si esto está disponible en tu empresa, puedes enviar las pruebas para que sean ejecutadas en la noche o durante los fines de semana.
+
+
+
