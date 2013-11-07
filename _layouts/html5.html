@@ -1,14 +1,18 @@
 <!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 {% include head.html %}
-  <body prefix="dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/">
+    <body prefix="dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/">
     {% include navbar.html %}
-    <div class="container"> <!-- Responsive grid layout -->
-
-      {{ content }}
-
+    <div class="container">  <!-- Responsive grid layout -->
+        <div class="container-fluid">  <!-- Responsive grid layout -->
+          <div class="row-fluid">
+            <div class="span12">
+                {{ content }}
+            </div>
+          </div>
+        </div>
     </div>
-{% include footer.html %}
-{% include javascript.html %}
-  </body>
+    {% include footer.html %}
+    {% include javascript.html %}
+    </body>
 </html>

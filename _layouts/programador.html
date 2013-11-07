@@ -1,0 +1,16 @@
+---
+layout: libro
+---
+
+<div class="page-header">
+    <h1> 97 cosas que todo programador debería saber</h1>
+</div>
+{% if page.author %}
+
+<h2>{{ page.title }} <br>
+    <small>Autor: {{ page.author}}</small></h2>
+
+{% endif %}
+{{ content }}
+
+

@@ -2,13 +2,12 @@
 layout: html5
 ---
 
-<div class="container-fluid">
-  <div class="row-fluid">
-    <div class="span12">
-        <div class="page-header">
-            <h1> 97 cosas que todo programador debería saber</h1>
-        </div>
-        {{ content }}
-    </div>
-  </div>
-</div>
+{{ content }}
+
+{% if page.translator %}
+<p>
+Traducción: {{ page.translator }} </p>
+<p>
+<a href="{{ page.original }}">Leer contribución original</a>
+</p>
+{% endif %}
