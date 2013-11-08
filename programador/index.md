@@ -70,7 +70,8 @@ overview: true
 62. [Reinventa la rueda frecuentemente](reinventa-rueda-frecuentemente.html), por Jason P Sage
 63. [Resiste la tentación del patrón Singleton](resiste-tentacion-singleton.html), por Sam Saariste
 64. [Retrocede y Automatiza, Automatiza, Automatiza](retrocede-automatiza.html), por Cay Horstmann
-65. [La Simplicidad viene de la Reducción](simplicidad-reduccion.html), por Paul W. Homer
-66. [Sólo el código dice la verdad](solo-codigo-dice-verdad.html), por Peter Sommerlad
-67. [Suelta el ratón y aléjate del teclado](suelta-raton-alejate-teclado.html), por Cay Horstmann
-68. [Usa el algoritmo y estructura de datos correcto](usa-algoritmo-estructura-de-datos-correcto.html), por JC van Winkel
+65. [Revisiones de código](revisiones-codigo.html), por Mattias Karlsson
+66. [La Simplicidad viene de la Reducción](simplicidad-reduccion.html), por Paul W. Homer
+67. [Sólo el código dice la verdad](solo-codigo-dice-verdad.html), por Peter Sommerlad
+68. [Suelta el ratón y aléjate del teclado](suelta-raton-alejate-teclado.html), por Cay Horstmann
+69. [Usa el algoritmo y estructura de datos correcto](usa-algoritmo-estructura-de-datos-correcto.html), por JC van Winkel
