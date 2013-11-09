@@ -76,4 +76,5 @@ overview: true
 68. [La Simplicidad viene de la Reducción](simplicidad-reduccion.html), por Paul W. Homer
 69. [Sólo el código dice la verdad](solo-codigo-dice-verdad.html), por Peter Sommerlad
 70. [Suelta el ratón y aléjate del teclado](suelta-raton-alejate-teclado.html), por Cay Horstmann
-71. [Usa el algoritmo y estructura de datos correcto](usa-algoritmo-estructura-de-datos-correcto.html), por JC van Winkel
+71. [Toma ventaja de las herramientas de análisis de código](toma-ventaja-analisis-codigo.html), por Sarah Mount
+72. [Usa el algoritmo y estructura de datos correcto](usa-algoritmo-estructura-de-datos-correcto.html), por JC van Winkel
