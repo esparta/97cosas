@@ -76,13 +76,14 @@ overview: true
 68. [Las pruebas son el rigor ingenieril del desarrollo de software](pruebas-son-rigor-ingenieril.html), por Neal Ford
 69. [Los registros detallados perturbarán tu sueño](registros-detallados-quitaran-sueno.html), por Espartaco Palma
 70. [La Regla Boy Scout](regla-boy-scout.html), por Uncle Bob
-71. [Reinventa la rueda frecuentemente](reinventa-rueda-frecuentemente.html), por Jason P Sage
-72. [Resiste la tentación del patrón Singleton](resiste-tentacion-singleton.html), por Sam Saariste
-73. [Retrocede y Automatiza, Automatiza, Automatiza](retrocede-automatiza.html), por Cay Horstmann
-74. [Primero revisa tu código antes de buscar culpar a otros](revisa-tu-codigo.html), por Espartaco Palma
-75. [Revisiones de código](revisiones-codigo.html), por Mattias Karlsson
-76. [La Simplicidad viene de la Reducción](simplicidad-reduccion.html), por Paul W. Homer
-77. [Sólo el código dice la verdad](solo-codigo-dice-verdad.html), por Peter Sommerlad
-78. [Suelta el ratón y aléjate del teclado](suelta-raton-alejate-teclado.html), por Cay Horstmann
-79. [Toma ventaja de las herramientas de análisis de código](toma-ventaja-analisis-codigo.html), por Sarah Mount
-80. [Usa el algoritmo y estructura de datos correcto](usa-algoritmo-estructura-de-datos-correcto.html), por JC van Winkel
+71. [La regla de oro del diseño de API](regla-oro-api.html), por Michael Feathers
+72. [Reinventa la rueda frecuentemente](reinventa-rueda-frecuentemente.html), por Jason P Sage
+73. [Resiste la tentación del patrón Singleton](resiste-tentacion-singleton.html), por Sam Saariste
+74. [Retrocede y Automatiza, Automatiza, Automatiza](retrocede-automatiza.html), por Cay Horstmann
+75. [Primero revisa tu código antes de buscar culpar a otros](revisa-tu-codigo.html), por Espartaco Palma
+76. [Revisiones de código](revisiones-codigo.html), por Mattias Karlsson
+77. [La Simplicidad viene de la Reducción](simplicidad-reduccion.html), por Paul W. Homer
+78. [Sólo el código dice la verdad](solo-codigo-dice-verdad.html), por Peter Sommerlad
+79. [Suelta el ratón y aléjate del teclado](suelta-raton-alejate-teclado.html), por Cay Horstmann
+80. [Toma ventaja de las herramientas de análisis de código](toma-ventaja-analisis-codigo.html), por Sarah Mount
+81. [Usa el algoritmo y estructura de datos correcto](usa-algoritmo-estructura-de-datos-correcto.html), por JC van Winkel
