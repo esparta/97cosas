@@ -5,7 +5,7 @@ Este es el proyecto de traducción al español de la serie de libros "97 cosas..
 
 Actualmente se tienen tres libros disponibles:
 
-- [97 Things Every Programmer Should Know][1]: Avance del 69%, disponible como [97 cosas que todo programador debería saber](/libro).
+- [97 Things Every Programmer Should Know][1]: 85% de avance, disponible como [97 cosas que todo programador debería saber](/libro).
 - [97 Things Every Software Project Manager Should Know][3]: En proyecto.
 - [97 Things Every Software Architect Should Know][4]: En proyecto.
 
