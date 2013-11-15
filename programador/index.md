@@ -59,34 +59,35 @@ overview: true
 51. [La longevidad de las soluciones provisionales](longevidad-soluciones-provisionales.html), por Klaus Marquardt
 52. [Mantén limpia la construcción](manten-limpia-construccion.html), por Johannes Brodwall
 53. [Mejora el código quitándolo](mejora-codigo-quitandolo.html), por Pete Goodliffe
-54. [No sólo aprendas el lenguaje, entiende su cultura](no-aprendas-lenguaje-entiende-su-cultura.html), por Anders Norås
-55. [No claves tu programa en la posición vertical](no-claves-programa.html), por Espartaco Palma
-56. [No confíes en el "Aquí sucede la magia"](no-confies-magia.html), por AlanGriffiths
-57. [¡No ignores ese error!](no-ignores-error.html), por Pete Goodliffe
-58. [No seas lindo con tus datos de prueba](no-seas-lindo-pruebas.html), por Rod Begbie
-59. [No te repitas](no-te-repitas.html), por Steve Smith
-60. [No tengas miedo de romper cosas](no-tengas-miedo-de-romper-cosas.html), por Mike Lewis
-61. [¡No toques ese código!](no-toques-ese-codigo.html), por Cal Evans
-62. [Oportunidades perdidas del Poliformismo](oportunidades-perdidas-polimorfismo.html), por Kirk Pepperdine
-63. [El paso de mensajes lleva a una mejor escalabilidad en sistemas paralelos](paso-mensajes-mejor-escalabilidad.html), por Russel Winder
-64. [Pensando en estados](pensando-en-estados.html), por Niclas Nilsson
-65. [Pon todo bajo Control de Versiones](pon-todo-bajo-control-de-versiones.html), por Diomidis Spinellis
-66. [Da preferencia a tipos de Dominio Específico que los tipos primitivos](preferencia-tipos-dominio-especifico.html), por Einar Landre
-67. [El Principio de Responsabilidad Única](principio-responsabilidad-unica.html), por Uncle Bob
-68. [Prueba el comportamiento requerido, no el comportamiento incidental](prueba-comportamiento-requerido-no-incidental.html), por Kevlin Henney
-69. [Prueba precisa y concretamente](prueba-precisa-concretamente.html), por Kevlin Henney
-70. [Haz pruebas mientras duermes (y los fines de semana)](pruebas-fin-de-semana.html), por Rajith Attapattu
-71. [Las pruebas son el rigor ingenieril del desarrollo de software](pruebas-son-rigor-ingenieril.html), por Neal Ford
-72. [Los registros detallados perturbarán tu sueño](registros-detallados-quitaran-sueno.html), por Espartaco Palma
-73. [La Regla Boy Scout](regla-boy-scout.html), por Uncle Bob
-74. [La regla de oro del diseño de API](regla-oro-api.html), por Michael Feathers
-75. [Reinventa la rueda frecuentemente](reinventa-rueda-frecuentemente.html), por Jason P Sage
-76. [Resiste la tentación del patrón Singleton](resiste-tentacion-singleton.html), por Sam Saariste
-77. [Retrocede y Automatiza, Automatiza, Automatiza](retrocede-automatiza.html), por Cay Horstmann
-78. [Primero revisa tu código antes de buscar culpar a otros](revisa-tu-codigo.html), por Espartaco Palma
-79. [Revisiones de código](revisiones-codigo.html), por Mattias Karlsson
-80. [La Simplicidad viene de la Reducción](simplicidad-reduccion.html), por Paul W. Homer
-81. [Sólo el código dice la verdad](solo-codigo-dice-verdad.html), por Peter Sommerlad
-82. [Suelta el ratón y aléjate del teclado](suelta-raton-alejate-teclado.html), por Cay Horstmann
-83. [Toma ventaja de las herramientas de análisis de código](toma-ventaja-analisis-codigo.html), por Sarah Mount
-84. [Usa el algoritmo y estructura de datos correcto](usa-algoritmo-estructura-de-datos-correcto.html), por JC van Winkel
+54. [Mensaje al futuro](mensaje-al-futuro.html), por Linda Rising
+55. [No sólo aprendas el lenguaje, entiende su cultura](no-aprendas-lenguaje-entiende-su-cultura.html), por Anders Norås
+56. [No claves tu programa en la posición vertical](no-claves-programa.html), por Espartaco Palma
+57. [No confíes en el "Aquí sucede la magia"](no-confies-magia.html), por AlanGriffiths
+58. [¡No ignores ese error!](no-ignores-error.html), por Pete Goodliffe
+59. [No seas lindo con tus datos de prueba](no-seas-lindo-pruebas.html), por Rod Begbie
+60. [No te repitas](no-te-repitas.html), por Steve Smith
+61. [No tengas miedo de romper cosas](no-tengas-miedo-de-romper-cosas.html), por Mike Lewis
+62. [¡No toques ese código!](no-toques-ese-codigo.html), por Cal Evans
+63. [Oportunidades perdidas del Poliformismo](oportunidades-perdidas-polimorfismo.html), por Kirk Pepperdine
+64. [El paso de mensajes lleva a una mejor escalabilidad en sistemas paralelos](paso-mensajes-mejor-escalabilidad.html), por Russel Winder
+65. [Pensando en estados](pensando-en-estados.html), por Niclas Nilsson
+66. [Pon todo bajo Control de Versiones](pon-todo-bajo-control-de-versiones.html), por Diomidis Spinellis
+67. [Da preferencia a tipos de Dominio Específico que los tipos primitivos](preferencia-tipos-dominio-especifico.html), por Einar Landre
+68. [El Principio de Responsabilidad Única](principio-responsabilidad-unica.html), por Uncle Bob
+69. [Prueba el comportamiento requerido, no el comportamiento incidental](prueba-comportamiento-requerido-no-incidental.html), por Kevlin Henney
+70. [Prueba precisa y concretamente](prueba-precisa-concretamente.html), por Kevlin Henney
+71. [Haz pruebas mientras duermes (y los fines de semana)](pruebas-fin-de-semana.html), por Rajith Attapattu
+72. [Las pruebas son el rigor ingenieril del desarrollo de software](pruebas-son-rigor-ingenieril.html), por Neal Ford
+73. [Los registros detallados perturbarán tu sueño](registros-detallados-quitaran-sueno.html), por Espartaco Palma
+74. [La Regla Boy Scout](regla-boy-scout.html), por Uncle Bob
+75. [La regla de oro del diseño de API](regla-oro-api.html), por Michael Feathers
+76. [Reinventa la rueda frecuentemente](reinventa-rueda-frecuentemente.html), por Jason P Sage
+77. [Resiste la tentación del patrón Singleton](resiste-tentacion-singleton.html), por Sam Saariste
+78. [Retrocede y Automatiza, Automatiza, Automatiza](retrocede-automatiza.html), por Cay Horstmann
+79. [Primero revisa tu código antes de buscar culpar a otros](revisa-tu-codigo.html), por Espartaco Palma
+80. [Revisiones de código](revisiones-codigo.html), por Mattias Karlsson
+81. [La Simplicidad viene de la Reducción](simplicidad-reduccion.html), por Paul W. Homer
+82. [Sólo el código dice la verdad](solo-codigo-dice-verdad.html), por Peter Sommerlad
+83. [Suelta el ratón y aléjate del teclado](suelta-raton-alejate-teclado.html), por Cay Horstmann
+84. [Toma ventaja de las herramientas de análisis de código](toma-ventaja-analisis-codigo.html), por Sarah Mount
+85. [Usa el algoritmo y estructura de datos correcto](usa-algoritmo-estructura-de-datos-correcto.html), por JC van Winkel
