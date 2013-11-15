@@ -90,4 +90,5 @@ overview: true
 82. [Sólo el código dice la verdad](solo-codigo-dice-verdad.html), por Peter Sommerlad
 83. [Suelta el ratón y aléjate del teclado](suelta-raton-alejate-teclado.html), por Cay Horstmann
 84. [Toma ventaja de las herramientas de análisis de código](toma-ventaja-analisis-codigo.html), por Sarah Mount
-85. [Usa el algoritmo y estructura de datos correcto](usa-algoritmo-estructura-de-datos-correcto.html), por JC van Winkel
+85. [Un binario](un-binario.html), por Steve Freeman
+86. [Usa el algoritmo y estructura de datos correcto](usa-algoritmo-estructura-de-datos-correcto.html), por JC van Winkel
