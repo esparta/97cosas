@@ -1,6 +1,6 @@
 ---
 layout: programador
-title: Noticias de los raros: Los testers son tus amigos
+title: Noticias raras\: Los testers son tus amigos
 overview: true
 author: Burk Hufnagel
 translator: Espartaco Palma
