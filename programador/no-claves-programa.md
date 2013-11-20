@@ -1,7 +1,8 @@
 ---
 layout: programador
 title: No claves tu programa en la posición vertical
-author: Verity Stob 
+overview: true
+author: Verity Stob
 translator: Espartaco Palma
 original: http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Nail_Your_Program_into_the_Upright_Position
 ---
@@ -10,9 +11,9 @@ Una vez escribí un Test de C++ en parodia, en el cuál sugería satíricamente 
 
 > Al realizar un montón de constructos try...catch a través de tu código base, podemos algunas veces prevenir que nuestra aplicación aborte. Creemos que el estado resultante es "clavar el cuerpo en posición vertical"
 
-Dejando a un lado lo frivolidad, realmente estaba resumiendo una lección que recibí de Doña Amarga Experiencia. 
+Dejando a un lado lo frivolidad, realmente estaba resumiendo una lección que recibí de Doña Amarga Experiencia.
 
-Era una clases base de nuestra aplicación, una biblioteca de C++ hecha en casa. Había sufrido los piquetes de los muchos dedos de los programadores en los últimos años: las manos de nadie estaban limpias. Contenían código para lidiar con todas las excepciones de escape de todo lo demás. Tomando el ejemplo de [Yossarian](http://en.wikipedia.org/wiki/Yossarian) de Catch-22, decidimos, o más bien sentimos (decidir implicaba más bien pensarlo que estar en la construcción de este mounstruo) de que una instancia de esta clase debería vivir para siempre o morir en el intento. 
+Era una clases base de nuestra aplicación, una biblioteca de C++ hecha en casa. Había sufrido los piquetes de los muchos dedos de los programadores en los últimos años: las manos de nadie estaban limpias. Contenían código para lidiar con todas las excepciones de escape de todo lo demás. Tomando el ejemplo de [Yossarian](http://en.wikipedia.org/wiki/Yossarian) de Catch-22, decidimos, o más bien sentimos (decidir implicaba más bien pensarlo que estar en la construcción de este mounstruo) de que una instancia de esta clase debería vivir para siempre o morir en el intento.
 
 Al final, interconectamos múltiples manejadores de excepciones. Mezclamos excepciones estructuradas de Windows con las nativas (¿recuerdas try...catch en C++? Yo tampoco). Cuando las cosas se caían inesperadamente, tratabamos de llamarla de nuevo, presionando los parámetros cada vez más fuerte. Mirando atrás, me gustaría pensar que al escribir un manejador interno de try...catch dentro de una cláusula catch de otra, una especie de conciencia se apoderó de mí para haber tomado accidentalmente la ruda ruta de las buenas prácticas en la aromática pero insalubre vía de la locura. De cualquier modo, probablemente es sabiduría retrospectiva
 

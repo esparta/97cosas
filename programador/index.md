@@ -65,7 +65,7 @@ overview: true
 57. [Mejora el código quitándolo](mejora-codigo-quitandolo.html), por Pete Goodliffe
 58. [Mensaje al futuro](mensaje-al-futuro.html), por Linda Rising
 59. [No sólo aprendas el lenguaje, entiende su cultura](no-aprendas-lenguaje-entiende-su-cultura.html), por Anders Norås
-60. [No claves tu programa en la posición vertical](no-claves-programa.html), por Espartaco Palma
+60. [No claves tu programa en la posición vertical](no-claves-programa.html), por Verity Stob
 61. [No confíes en el "Aquí sucede la magia"](no-confies-magia.html), por AlanGriffiths
 62. [¡No ignores ese error!](no-ignores-error.html), por Pete Goodliffe
 63. [No seas lindo con tus datos de prueba](no-seas-lindo-pruebas.html), por Rod Begbie
@@ -84,13 +84,13 @@ overview: true
 76. [Prueba precisa y concretamente](prueba-precisa-concretamente.html), por Kevlin Henney
 77. [Haz pruebas mientras duermes (y los fines de semana)](pruebas-fin-de-semana.html), por Rajith Attapattu
 78. [Las pruebas son el rigor ingenieril del desarrollo de software](pruebas-son-rigor-ingenieril.html), por Neal Ford
-79. [Los registros detallados perturbarán tu sueño](registros-detallados-quitaran-sueno.html), por Espartaco Palma
+79. [Los registros detallados perturbarán tu sueño](registros-detallados-quitaran-sueno.html), por Johannes Brodwall
 80. [La Regla Boy Scout](regla-boy-scout.html), por Uncle Bob
 81. [La regla de oro del diseño de API](regla-oro-api.html), por Michael Feathers
 82. [Reinventa la rueda frecuentemente](reinventa-rueda-frecuentemente.html), por Jason P Sage
 83. [Resiste la tentación del patrón Singleton](resiste-tentacion-singleton.html), por Sam Saariste
 84. [Retrocede y Automatiza, Automatiza, Automatiza](retrocede-automatiza.html), por Cay Horstmann
-85. [Primero revisa tu código antes de buscar culpar a otros](revisa-tu-codigo.html), por Espartaco Palma
+85. [Primero revisa tu código antes de buscar culpar a otros](revisa-tu-codigo.html), por Allan Kelly
 86. [Revisiones de código](revisiones-codigo.html), por Mattias Karlsson
 87. [La Simplicidad viene de la Reducción](simplicidad-reduccion.html), por Paul W. Homer
 88. [Sólo el código dice la verdad](solo-codigo-dice-verdad.html), por Peter Sommerlad

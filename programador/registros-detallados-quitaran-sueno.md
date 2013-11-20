@@ -1,7 +1,8 @@
 ---
 layout: programador
 title: Los registros detallados perturbarán tu sueño
-author: Johannes Brodwall 
+overview: true
+author: Johannes Brodwall
 translator: Espartaco Palma
 original: http://programmer.97things.oreilly.com/wiki/index.php/Verbose_Logging_Will_Disturb_Your_Sleep
 ---
