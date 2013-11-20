@@ -77,25 +77,26 @@ overview: true
 69. [Pensando en estados](pensando-en-estados.html), por Niclas Nilsson
 70. [Pon todo bajo Control de Versiones](pon-todo-bajo-control-de-versiones.html), por Diomidis Spinellis
 71. [Da preferencia a tipos de Dominio Específico que los tipos primitivos](preferencia-tipos-dominio-especifico.html), por Einar Landre
-72. [El Principio de Responsabilidad Única](principio-responsabilidad-unica.html), por Uncle Bob
-73. [Programa en pareja y siente el flujo](programa-en-pareja-siente-flujo.html), por Gudny Hauknes, Ann Katrin Gagnat, y Kari Røssland 
-74. [Prueba el comportamiento requerido, no el comportamiento incidental](prueba-comportamiento-requerido-no-incidental.html), por Kevlin Henney
-75. [Prueba precisa y concretamente](prueba-precisa-concretamente.html), por Kevlin Henney
-76. [Haz pruebas mientras duermes (y los fines de semana)](pruebas-fin-de-semana.html), por Rajith Attapattu
-77. [Las pruebas son el rigor ingenieril del desarrollo de software](pruebas-son-rigor-ingenieril.html), por Neal Ford
-78. [Los registros detallados perturbarán tu sueño](registros-detallados-quitaran-sueno.html), por Espartaco Palma
-79. [La Regla Boy Scout](regla-boy-scout.html), por Uncle Bob
-80. [La regla de oro del diseño de API](regla-oro-api.html), por Michael Feathers
-81. [Reinventa la rueda frecuentemente](reinventa-rueda-frecuentemente.html), por Jason P Sage
-82. [Resiste la tentación del patrón Singleton](resiste-tentacion-singleton.html), por Sam Saariste
-83. [Retrocede y Automatiza, Automatiza, Automatiza](retrocede-automatiza.html), por Cay Horstmann
-84. [Primero revisa tu código antes de buscar culpar a otros](revisa-tu-codigo.html), por Espartaco Palma
-85. [Revisiones de código](revisiones-codigo.html), por Mattias Karlsson
-86. [La Simplicidad viene de la Reducción](simplicidad-reduccion.html), por Paul W. Homer
-87. [Sólo el código dice la verdad](solo-codigo-dice-verdad.html), por Peter Sommerlad
-88. [Suelta el ratón y aléjate del teclado](suelta-raton-alejate-teclado.html), por Cay Horstmann
-89. [Noticias raras - Los testers son tus amigos](testers-amigos.html), por Burk Hufnagel
-90. [Toma ventaja de las herramientas de análisis de código](toma-ventaja-analisis-codigo.html), por Sarah Mount
-91. [Un binario](un-binario.html), por Steve Freeman
-92. [Usa el algoritmo y estructura de datos correcto](usa-algoritmo-estructura-de-datos-correcto.html), por JC van Winkel
-93. [El WET dispersa los cuellos de botella en el rendimiento](wet-dispersa-cuellos-de-botella.html), por Kirk Pepperdine
+72. [Preocúpate por el código](preocupate-por-el-codigo.html), por Pete Goodliffe
+73. [El Principio de Responsabilidad Única](principio-responsabilidad-unica.html), por Uncle Bob
+74. [Programa en pareja y siente el flujo](programa-en-pareja-siente-flujo.html), por Gudny Hauknes, Ann Katrin Gagnat, y Kari Røssland 
+75. [Prueba el comportamiento requerido, no el comportamiento incidental](prueba-comportamiento-requerido-no-incidental.html), por Kevlin Henney
+76. [Prueba precisa y concretamente](prueba-precisa-concretamente.html), por Kevlin Henney
+77. [Haz pruebas mientras duermes (y los fines de semana)](pruebas-fin-de-semana.html), por Rajith Attapattu
+78. [Las pruebas son el rigor ingenieril del desarrollo de software](pruebas-son-rigor-ingenieril.html), por Neal Ford
+79. [Los registros detallados perturbarán tu sueño](registros-detallados-quitaran-sueno.html), por Espartaco Palma
+80. [La Regla Boy Scout](regla-boy-scout.html), por Uncle Bob
+81. [La regla de oro del diseño de API](regla-oro-api.html), por Michael Feathers
+82. [Reinventa la rueda frecuentemente](reinventa-rueda-frecuentemente.html), por Jason P Sage
+83. [Resiste la tentación del patrón Singleton](resiste-tentacion-singleton.html), por Sam Saariste
+84. [Retrocede y Automatiza, Automatiza, Automatiza](retrocede-automatiza.html), por Cay Horstmann
+85. [Primero revisa tu código antes de buscar culpar a otros](revisa-tu-codigo.html), por Espartaco Palma
+86. [Revisiones de código](revisiones-codigo.html), por Mattias Karlsson
+87. [La Simplicidad viene de la Reducción](simplicidad-reduccion.html), por Paul W. Homer
+88. [Sólo el código dice la verdad](solo-codigo-dice-verdad.html), por Peter Sommerlad
+89. [Suelta el ratón y aléjate del teclado](suelta-raton-alejate-teclado.html), por Cay Horstmann
+90. [Noticias raras - Los testers son tus amigos](testers-amigos.html), por Burk Hufnagel
+91. [Toma ventaja de las herramientas de análisis de código](toma-ventaja-analisis-codigo.html), por Sarah Mount
+92. [Un binario](un-binario.html), por Steve Freeman
+93. [Usa el algoritmo y estructura de datos correcto](usa-algoritmo-estructura-de-datos-correcto.html), por JC van Winkel
+94. [El WET dispersa los cuellos de botella en el rendimiento](wet-dispersa-cuellos-de-botella.html), por Kirk Pepperdine
