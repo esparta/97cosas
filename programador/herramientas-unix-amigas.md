@@ -22,7 +22,7 @@ Además, mientras los IDEs ofrecen sólo los comandos que sus desarrolladores co
 
 En adición, cada operación del IDE que aprendes es específica a esa tarea; por ejemplo, agregar un nuevo paso de depuración en la configuración de construcción del proyecto. En contraste, afilar tus habilidades con las herramientas Unix te hace más efectivo en cualquier tarea. Como un ejemplo, he empleado la herramienta sed en la secuencia de comandos precedentes para modificar la construcción de un proyecto para la compilación cruzada en múltiples arquitecturas de procesador.
 
-Las herramientas Unix fueron desarrolladas en una época donde una computadora multiusuario tenía 128kB de RAM. El ingenio que tuvo su diseño significa que en estos días pueden manejar enormes conjutos de datos con extremada eficiencia. La mayoría de las herramientas trabajan como filtros, procesando sólo una lía a la vez, significando que no hay límie superior en la cantidad de datos que pueden manejar. ¿Quieres buscar un número de ediiciones almacenadas en medio terabyte del respaldo de la Wikipedia en inglés? La simple incovación de
+Las herramientas Unix fueron desarrolladas en una época donde una computadora multiusuario tenía 128kB de RAM. El ingenio que tuvo su diseño significa que en estos días pueden manejar enormes conjutos de datos con extremada eficiencia. La mayoría de las herramientas trabajan como filtros, procesando sólo una lía a la vez, significando que no hay límie superior en la cantidad de datos que pueden manejar. ¿Quieres buscar un número de ediiciones almacenadas en medio terabyte del respaldo de la Wikipedia en inglés? La simple invocación de
 
     grep '<revision>' | wc –l
 
