@@ -97,6 +97,7 @@ overview: true
 89. [Suelta el ratón y aléjate del teclado](suelta-raton-alejate-teclado.html), por Cay Horstmann
 90. [Noticias raras - Los testers son tus amigos](testers-amigos.html), por Burk Hufnagel
 91. [Toma ventaja de las herramientas de análisis de código](toma-ventaja-analisis-codigo.html), por Sarah Mount
-92. [Un binario](un-binario.html), por Steve Freeman
-93. [Usa el algoritmo y estructura de datos correcto](usa-algoritmo-estructura-de-datos-correcto.html), por JC van Winkel
-94. [El WET dispersa los cuellos de botella en el rendimiento](wet-dispersa-cuellos-de-botella.html), por Kirk Pepperdine
+92. [Tus clientes no quieren decir lo que dicen](tus-clientes.html), por Nate Jackson
+93. [Un binario](un-binario.html), por Steve Freeman
+94. [Usa el algoritmo y estructura de datos correcto](usa-algoritmo-estructura-de-datos-correcto.html), por JC van Winkel
+95. [El WET dispersa los cuellos de botella en el rendimiento](wet-dispersa-cuellos-de-botella.html), por Kirk Pepperdine
