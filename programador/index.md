@@ -29,76 +29,77 @@ overview: true
 21. [Conoce cómo usar las herramientas de línea de comandos](conoce-como-usar-linea-comando.html), por Carroll Robinson
 22. [Conoce tu próximo Commit](conoce-proximo-commit.html), por Dan Bergh Johnsson
 23. [Conoce tu IDE](conoce-tu-ide.html), por Heinz Kabutz
-24. [La conveniencia no es una -bilidad](conveniencia.html), por Gregor Hohpe
-25. [Cuando Programadores y Testers colaboran](cuando-programadores-testers-colaboran.html), por Janet Gregory
-26. [Ten cuidado al compartir](cuidado-al-compartir.html), por Udi Dahan
-27. [Cumple tus ambiciones con Código Abierto](cumple-ambiciones-con-codigo-abierto.html), por Richard Monson-Haefel
-28. [Los grandes datos interconectados pertenecen a una base de datos](datos-interconectados-pertenecen-base-de-datos.html), por Diomidis Spinellis
-29. [Deja que tu proyecto hable por sí mismo](deja-proyecto-hable-por-si-mismo.html), por Daniel Lindner
-30. [El diseño del código sí importa](diseno-en-codigo-importa.html), por Steve Freeman
-31. [Distingue excepciones de Negocio de las excepciones Técnicas](distingue-excepciones-negocio-tecnicas.html), por Dan Bergh Johnsson
-32. [Dos cabezas son a menudo mejores que una](dos-cabezas-mejor-una.html), por Adrian Wible
-33. [Dos fallos pueden hacer un acierto (y es difícil de arreglar)](dos-fallos-pueden-hacer-acierto.html), por Allan Kelly
-34. [Lenguajes Específicos del Dominio (DSL)](dsl.html), por Michael Hunger
-35. [El mito del Gurú](el-mito-del-guru.html), por Ryan Brush
-36. [El Programador Profesional](el-programador-profesional.html), por Uncle Bob
-37. [El trabajo duro no paga](el-trabajo-duro-no-paga.html), por Olve Maudal
-38. [Encapsula Comportamiento, no sólo Estado](encapsula-comportamiento.html), por Einar Landre
-39. [Escoge tus herramientas con cuidado](escoge-herramientas-con-cuidado.html), por Giovanni Asproni
-40. [Escribe código como si tuvieras que mantenerlo por el resto de tu vida](escribe-codigo-mantenerlo-por-vida.html), por Yuriy Zubarev
-41. [Escribe pequeñas funciones usando ejemplos](escribe-funciones-con-ejemplos.html), por Keith Braithwaite
-42. [Escribe las pruebas para las personas](escribe-pruebas-para-personas.html), por Gerard Meszaros
-43. [Evita errores](evita-errores.html), por Giles Colborne
-44. [Haz lo invisible más visible](haz-lo-invisible-mas-visible.html), por Jon Jagger
-45. [Haz mucha práctica deliberada](haz-mucha-practica-deliberada.html), por Jon Jagger
-46. [Las herramientas Unix son tus amigas](herramientas-unix-amigas.html), por Diomidis Spinellis
-47. [Implementa rápido y con frecuencia](implementa-rapido-y-con-frecuencia.html), por Steve Berczuk
-48. [Inicia con un Sí](inicia-con-un-si.html), por Alex Miller
-49. [Instalame](instalame.html), por Marcus Baker
-50. [Haz las Interfaces fáciles de usar correctamente y difíciles de usar incorrectamente](interfaces-faciles-usar.html), por Scott Meyers
-51. [La comunicación entre procesos afecta el tiempo de respuesta de la aplicación](ipc-afecta.html), por Randy Stafford
-52. [Lee el código](lee-el-codigo.html), por Karianne Berg
-53. [Lee las humanidades](lee-humanidades.html), por Keith Braithwaite
-54. [El linker no es un programa mágico](linker-no-magico.html), por Walter Bright
-55. [La longevidad de las soluciones provisionales](longevidad-soluciones-provisionales.html), por Klaus Marquardt
-56. [Mantén limpia la construcción](manten-limpia-construccion.html), por Johannes Brodwall
-57. [Mejora el código quitándolo](mejora-codigo-quitandolo.html), por Pete Goodliffe
-58. [Mensaje al futuro](mensaje-al-futuro.html), por Linda Rising
-59. [No sólo aprendas el lenguaje, entiende su cultura](no-aprendas-lenguaje-entiende-su-cultura.html), por Anders Norås
-60. [No claves tu programa en la posición vertical](no-claves-programa.html), por Verity Stob
-61. [No confíes en el "Aquí sucede la magia"](no-confies-magia.html), por AlanGriffiths
-62. [¡No ignores ese error!](no-ignores-error.html), por Pete Goodliffe
-63. [No seas lindo con tus datos de prueba](no-seas-lindo-pruebas.html), por Rod Begbie
-64. [No te repitas](no-te-repitas.html), por Steve Smith
-65. [No tengas miedo de romper cosas](no-tengas-miedo-de-romper-cosas.html), por Mike Lewis
-66. [¡No toques ese código!](no-toques-ese-codigo.html), por Cal Evans
-67. [Los números de punto flotante no son reales](numeros-punto-flotante.html), por Chuck Allison
-68. [Oportunidades perdidas del Poliformismo](oportunidades-perdidas-polimorfismo.html), por Kirk Pepperdine
-69. [El paso de mensajes lleva a una mejor escalabilidad en sistemas paralelos](paso-mensajes-mejor-escalabilidad.html), por Russel Winder
-70. [Pensando en estados](pensando-en-estados.html), por Niclas Nilsson
-71. [Pon todo bajo Control de Versiones](pon-todo-bajo-control-de-versiones.html), por Diomidis Spinellis
-72. [Da preferencia a tipos de Dominio Específico que los tipos primitivos](preferencia-tipos-dominio-especifico.html), por Einar Landre
-73. [Preocúpate por el código](preocupate-por-el-codigo.html), por Pete Goodliffe
-74. [El Principio de Responsabilidad Única](principio-responsabilidad-unica.html), por Uncle Bob
-75. [Programa en pareja y siente el flujo](programa-en-pareja-siente-flujo.html), por Gudny Hauknes, Ann Katrin Gagnat, y Kari Røssland 
-76. [Prueba el comportamiento requerido, no el comportamiento incidental](prueba-comportamiento-requerido-no-incidental.html), por Kevlin Henney
-77. [Prueba precisa y concretamente](prueba-precisa-concretamente.html), por Kevlin Henney
-78. [Haz pruebas mientras duermes (y los fines de semana)](pruebas-fin-de-semana.html), por Rajith Attapattu
-79. [Las pruebas son el rigor ingenieril del desarrollo de software](pruebas-son-rigor-ingenieril.html), por Neal Ford
-80. [Los registros detallados perturbarán tu sueño](registros-detallados-quitaran-sueno.html), por Johannes Brodwall
-81. [La Regla Boy Scout](regla-boy-scout.html), por Uncle Bob
-82. [La regla de oro del diseño de API](regla-oro-api.html), por Michael Feathers
-83. [Reinventa la rueda frecuentemente](reinventa-rueda-frecuentemente.html), por Jason P Sage
-84. [Resiste la tentación del patrón Singleton](resiste-tentacion-singleton.html), por Sam Saariste
-85. [Retrocede y Automatiza, Automatiza, Automatiza](retrocede-automatiza.html), por Cay Horstmann
-86. [Primero revisa tu código antes de buscar culpar a otros](revisa-tu-codigo.html), por Allan Kelly
-87. [Revisiones de código](revisiones-codigo.html), por Mattias Karlsson
-88. [La Simplicidad viene de la Reducción](simplicidad-reduccion.html), por Paul W. Homer
-89. [Sólo el código dice la verdad](solo-codigo-dice-verdad.html), por Peter Sommerlad
-90. [Suelta el ratón y aléjate del teclado](suelta-raton-alejate-teclado.html), por Cay Horstmann
-91. [Noticias raras - Los testers son tus amigos](testers-amigos.html), por Burk Hufnagel
-92. [Toma ventaja de las herramientas de análisis de código](toma-ventaja-analisis-codigo.html), por Sarah Mount
-93. [Tus clientes no quieren decir lo que dicen](tus-clientes.html), por Nate Jackson
-94. [Un binario](un-binario.html), por Steve Freeman
-95. [Usa el algoritmo y estructura de datos correcto](usa-algoritmo-estructura-de-datos-correcto.html), por JC van Winkel
-96. [El WET dispersa los cuellos de botella en el rendimiento](wet-dispersa-cuellos-de-botella.html), por Kirk Pepperdine
+24. [Conoce tus límites](conoce-tus-limites.html), por Giles Colborne
+25. [La conveniencia no es una -bilidad](conveniencia.html), por Gregor Hohpe
+26. [Cuando Programadores y Testers colaboran](cuando-programadores-testers-colaboran.html), por Janet Gregory
+27. [Ten cuidado al compartir](cuidado-al-compartir.html), por Udi Dahan
+28. [Cumple tus ambiciones con Código Abierto](cumple-ambiciones-con-codigo-abierto.html), por Richard Monson-Haefel
+29. [Los grandes datos interconectados pertenecen a una base de datos](datos-interconectados-pertenecen-base-de-datos.html), por Diomidis Spinellis
+30. [Deja que tu proyecto hable por sí mismo](deja-proyecto-hable-por-si-mismo.html), por Daniel Lindner
+31. [El diseño del código sí importa](diseno-en-codigo-importa.html), por Steve Freeman
+32. [Distingue excepciones de Negocio de las excepciones Técnicas](distingue-excepciones-negocio-tecnicas.html), por Dan Bergh Johnsson
+33. [Dos cabezas son a menudo mejores que una](dos-cabezas-mejor-una.html), por Adrian Wible
+34. [Dos fallos pueden hacer un acierto (y es difícil de arreglar)](dos-fallos-pueden-hacer-acierto.html), por Allan Kelly
+35. [Lenguajes Específicos del Dominio (DSL)](dsl.html), por Michael Hunger
+36. [El mito del Gurú](el-mito-del-guru.html), por Ryan Brush
+37. [El Programador Profesional](el-programador-profesional.html), por Uncle Bob
+38. [El trabajo duro no paga](el-trabajo-duro-no-paga.html), por Olve Maudal
+39. [Encapsula Comportamiento, no sólo Estado](encapsula-comportamiento.html), por Einar Landre
+40. [Escoge tus herramientas con cuidado](escoge-herramientas-con-cuidado.html), por Giovanni Asproni
+41. [Escribe código como si tuvieras que mantenerlo por el resto de tu vida](escribe-codigo-mantenerlo-por-vida.html), por Yuriy Zubarev
+42. [Escribe pequeñas funciones usando ejemplos](escribe-funciones-con-ejemplos.html), por Keith Braithwaite
+43. [Escribe las pruebas para las personas](escribe-pruebas-para-personas.html), por Gerard Meszaros
+44. [Evita errores](evita-errores.html), por Giles Colborne
+45. [Haz lo invisible más visible](haz-lo-invisible-mas-visible.html), por Jon Jagger
+46. [Haz mucha práctica deliberada](haz-mucha-practica-deliberada.html), por Jon Jagger
+47. [Las herramientas Unix son tus amigas](herramientas-unix-amigas.html), por Diomidis Spinellis
+48. [Implementa rápido y con frecuencia](implementa-rapido-y-con-frecuencia.html), por Steve Berczuk
+49. [Inicia con un Sí](inicia-con-un-si.html), por Alex Miller
+50. [Instalame](instalame.html), por Marcus Baker
+51. [Haz las Interfaces fáciles de usar correctamente y difíciles de usar incorrectamente](interfaces-faciles-usar.html), por Scott Meyers
+52. [La comunicación entre procesos afecta el tiempo de respuesta de la aplicación](ipc-afecta.html), por Randy Stafford
+53. [Lee el código](lee-el-codigo.html), por Karianne Berg
+54. [Lee las humanidades](lee-humanidades.html), por Keith Braithwaite
+55. [El linker no es un programa mágico](linker-no-magico.html), por Walter Bright
+56. [La longevidad de las soluciones provisionales](longevidad-soluciones-provisionales.html), por Klaus Marquardt
+57. [Mantén limpia la construcción](manten-limpia-construccion.html), por Johannes Brodwall
+58. [Mejora el código quitándolo](mejora-codigo-quitandolo.html), por Pete Goodliffe
+59. [Mensaje al futuro](mensaje-al-futuro.html), por Linda Rising
+60. [No sólo aprendas el lenguaje, entiende su cultura](no-aprendas-lenguaje-entiende-su-cultura.html), por Anders Norås
+61. [No claves tu programa en la posición vertical](no-claves-programa.html), por Verity Stob
+62. [No confíes en el "Aquí sucede la magia"](no-confies-magia.html), por AlanGriffiths
+63. [¡No ignores ese error!](no-ignores-error.html), por Pete Goodliffe
+64. [No seas lindo con tus datos de prueba](no-seas-lindo-pruebas.html), por Rod Begbie
+65. [No te repitas](no-te-repitas.html), por Steve Smith
+66. [No tengas miedo de romper cosas](no-tengas-miedo-de-romper-cosas.html), por Mike Lewis
+67. [¡No toques ese código!](no-toques-ese-codigo.html), por Cal Evans
+68. [Los números de punto flotante no son reales](numeros-punto-flotante.html), por Chuck Allison
+69. [Oportunidades perdidas del Poliformismo](oportunidades-perdidas-polimorfismo.html), por Kirk Pepperdine
+70. [El paso de mensajes lleva a una mejor escalabilidad en sistemas paralelos](paso-mensajes-mejor-escalabilidad.html), por Russel Winder
+71. [Pensando en estados](pensando-en-estados.html), por Niclas Nilsson
+72. [Pon todo bajo Control de Versiones](pon-todo-bajo-control-de-versiones.html), por Diomidis Spinellis
+73. [Da preferencia a tipos de Dominio Específico que los tipos primitivos](preferencia-tipos-dominio-especifico.html), por Einar Landre
+74. [Preocúpate por el código](preocupate-por-el-codigo.html), por Pete Goodliffe
+75. [El Principio de Responsabilidad Única](principio-responsabilidad-unica.html), por Uncle Bob
+76. [Programa en pareja y siente el flujo](programa-en-pareja-siente-flujo.html), por Gudny Hauknes, Ann Katrin Gagnat, y Kari Røssland 
+77. [Prueba el comportamiento requerido, no el comportamiento incidental](prueba-comportamiento-requerido-no-incidental.html), por Kevlin Henney
+78. [Prueba precisa y concretamente](prueba-precisa-concretamente.html), por Kevlin Henney
+79. [Haz pruebas mientras duermes (y los fines de semana)](pruebas-fin-de-semana.html), por Rajith Attapattu
+80. [Las pruebas son el rigor ingenieril del desarrollo de software](pruebas-son-rigor-ingenieril.html), por Neal Ford
+81. [Los registros detallados perturbarán tu sueño](registros-detallados-quitaran-sueno.html), por Johannes Brodwall
+82. [La Regla Boy Scout](regla-boy-scout.html), por Uncle Bob
+83. [La regla de oro del diseño de API](regla-oro-api.html), por Michael Feathers
+84. [Reinventa la rueda frecuentemente](reinventa-rueda-frecuentemente.html), por Jason P Sage
+85. [Resiste la tentación del patrón Singleton](resiste-tentacion-singleton.html), por Sam Saariste
+86. [Retrocede y Automatiza, Automatiza, Automatiza](retrocede-automatiza.html), por Cay Horstmann
+87. [Primero revisa tu código antes de buscar culpar a otros](revisa-tu-codigo.html), por Allan Kelly
+88. [Revisiones de código](revisiones-codigo.html), por Mattias Karlsson
+89. [La Simplicidad viene de la Reducción](simplicidad-reduccion.html), por Paul W. Homer
+90. [Sólo el código dice la verdad](solo-codigo-dice-verdad.html), por Peter Sommerlad
+91. [Suelta el ratón y aléjate del teclado](suelta-raton-alejate-teclado.html), por Cay Horstmann
+92. [Noticias raras - Los testers son tus amigos](testers-amigos.html), por Burk Hufnagel
+93. [Toma ventaja de las herramientas de análisis de código](toma-ventaja-analisis-codigo.html), por Sarah Mount
+94. [Tus clientes no quieren decir lo que dicen](tus-clientes.html), por Nate Jackson
+95. [Un binario](un-binario.html), por Steve Freeman
+96. [Usa el algoritmo y estructura de datos correcto](usa-algoritmo-estructura-de-datos-correcto.html), por JC van Winkel
+97. [El WET dispersa los cuellos de botella en el rendimiento](wet-dispersa-cuellos-de-botella.html), por Kirk Pepperdine
