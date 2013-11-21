@@ -1,6 +1,6 @@
 ---
 layout: programador
-title: Índice
+title: 97 cosas que todo programador debería saber
 overview: true
 ---
 
@@ -11,7 +11,7 @@ Este sitio es la continuación del esfuerzo de Natán Calzolari (inicialmente en
 ## Índice
 
 1. [Actúa con prudencia](actua-con-prudencia.html), por Seb Rose
-2. [Adueñate (y Refactoriza) la construcción](aduenate-build.html), por Steve Berczuk
+2. [Adueñate (y Refactoriza) la compilación](aduenate-build.html), por Steve Berczuk
 3. [Antes de Refactorizar](antes-de-refactorizar.html), por Rajith Attapattu
 4. [Aplica los principios de la programación funcional](aplica-programacion-funcional.html), por Edward Garson
 5. [Aprende a decir "Hola, Mundo"](aprende-decir-hola-mundo.html), por Thomas Guest
@@ -33,7 +33,7 @@ Este sitio es la continuación del esfuerzo de Natán Calzolari (inicialmente en
 21. [Conoce cómo usar las herramientas de línea de comandos](conoce-como-usar-linea-comando.html), por Carroll Robinson
 22. [Conoce tu próximo Commit](conoce-proximo-commit.html), por Dan Bergh Johnsson
 23. [Conoce tu IDE](conoce-tu-ide.html), por Heinz Kabutz
-24. [Conoce tus límites](conoce-tus-limites.html), por Giles Colborne
+24. [Conoce tus límites](conoce-tus-limites.html), por Greg Colvin
 25. [La conveniencia no es una -bilidad](conveniencia.html), por Gregor Hohpe
 26. [Cuando Programadores y Testers colaboran](cuando-programadores-testers-colaboran.html), por Janet Gregory
 27. [Ten cuidado al compartir](cuidado-al-compartir.html), por Udi Dahan
@@ -85,7 +85,7 @@ Este sitio es la continuación del esfuerzo de Natán Calzolari (inicialmente en
 73. [Da preferencia a tipos de Dominio Específico que los tipos primitivos](preferencia-tipos-dominio-especifico.html), por Einar Landre
 74. [Preocúpate por el código](preocupate-por-el-codigo.html), por Pete Goodliffe
 75. [El Principio de Responsabilidad Única](principio-responsabilidad-unica.html), por Uncle Bob
-76. [Programa en pareja y siente el flujo](programa-en-pareja-siente-flujo.html), por Gudny Hauknes, Ann Katrin Gagnat, y Kari Røssland
+76. [Programa en pareja y siente el flujo](programa-en-pareja-siente-flujo.html), por Gudny Hauknes, Ann Katrin Gagnat, y Kari Røssland 
 77. [Prueba el comportamiento requerido, no el comportamiento incidental](prueba-comportamiento-requerido-no-incidental.html), por Kevlin Henney
 78. [Prueba precisa y concretamente](prueba-precisa-concretamente.html), por Kevlin Henney
 79. [Haz pruebas mientras duermes (y los fines de semana)](pruebas-fin-de-semana.html), por Rajith Attapattu
