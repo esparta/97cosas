@@ -15,7 +15,7 @@ overview: true
 7. [Aprende un lenguaje extranjero](aprende-lenguaje-extranjero.html), por Klaus Marquardt
 8. [Aprendiendo continuamente](aprendiendo-continuamente.html), por Clint Shank
 9. [Automatiza el estándar de codificación](automatiza-estandar-codificacion.html), por Filip van Laenen
-10. [Averigua qué haría el usuario (tu no eres un usuario)](averigua-que-haria-usuario.html), por Giles Colborne
+10. [Averigua qué haría el usuario (tú no eres un usuario)](averigua-que-haria-usuario.html), por Giles Colborne
 11. [La belleza está en la simplicidad](belleza-simplicidad.html), por Jørn Ølmheim
 12. [El camino al mejor rendimiento está lleno de sucias bombas de código](camino-al-rendimiento-bombas-codigo.html), por Kirk Pepperdine
 13. [Codificando con la razón](codifica-con-la-razon.html), por Yechiel Kimchi
