@@ -4,6 +4,10 @@ title: Índice
 overview: true
 ---
 
+Traducción al Español del libro "[97 Things Every Programmer Should Know](http://programmer.97things.oreilly.com/wiki/index.php/97_Things_Every_Programmer_Should_Know)", contiene todo tipo de consejos y recomendaciones para los profesionales de la programación informática: refactorización, código limpio, pruebas, aprendizaje contínuo, etc.
+
+Este sitio es la continuación del esfuerzo de Natán Calzolari (inicialmente en http://97cosas.com.ar), a quien agradezco de su iniciativa.
+
 ## Índice
 
 1. [Actúa con prudencia](actua-con-prudencia.html), por Seb Rose
@@ -81,7 +85,7 @@ overview: true
 73. [Da preferencia a tipos de Dominio Específico que los tipos primitivos](preferencia-tipos-dominio-especifico.html), por Einar Landre
 74. [Preocúpate por el código](preocupate-por-el-codigo.html), por Pete Goodliffe
 75. [El Principio de Responsabilidad Única](principio-responsabilidad-unica.html), por Uncle Bob
-76. [Programa en pareja y siente el flujo](programa-en-pareja-siente-flujo.html), por Gudny Hauknes, Ann Katrin Gagnat, y Kari Røssland 
+76. [Programa en pareja y siente el flujo](programa-en-pareja-siente-flujo.html), por Gudny Hauknes, Ann Katrin Gagnat, y Kari Røssland
 77. [Prueba el comportamiento requerido, no el comportamiento incidental](prueba-comportamiento-requerido-no-incidental.html), por Kevlin Henney
 78. [Prueba precisa y concretamente](prueba-precisa-concretamente.html), por Kevlin Henney
 79. [Haz pruebas mientras duermes (y los fines de semana)](pruebas-fin-de-semana.html), por Rajith Attapattu

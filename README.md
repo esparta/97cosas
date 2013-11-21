@@ -1,13 +1,9 @@
 97cosas.com
 =======
 
-Este es el proyecto de traducción al español de la serie de libros "97 cosas...", creados por la editorial O'Reilly, los cuales, gracias a su licencia [Creative Commons Attribution 3][1], nos es posible traducir libremente. Es un esfuerzo compartido para poner a disposición de toda el habla hispana el contenido disponible en inglés.
+Este es el proyecto de traducción al español de la serie de libros "97 cosas...", creados por la editorial [O'Reilly][1], los cuales, gracias a su licencia [Creative Commons Attribution 3][2], nos es posible traducir libremente. Es un esfuerzo compartido para poner a disposición de toda el habla hispana el contenido que actualmente sólo se encuentra en inglés.
 
-Actualmente se tienen tres libros disponibles:
-
-- [97 Things Every Programmer Should Know][1]: 99% de avance,en [97 cosas que todo programador debería saber](/programador).
-- [97 Things Every Software Project Manager Should Know][3]: en [97 cosas que todo Project Manager debería saber](/pm): En proyecto.
-- [97 Things Every Software Architect Should Know][4]: en [97 cosas que todo Arquitecto de Software debería saber](/as): En proyecto.
+Se tienen tres libros disponibles:
 
 # LEEME para Contribuidores<sup>1</sup>
 
@@ -31,7 +27,7 @@ Cuando haces _push_ a github (y hago un merge de ese _push request_), el sitio o
 
 Para generar y ver el sitio (con el correcto CSS, etc) con tu propia computadora, puedes instalar Jekyll y despues ejecutarlo así:
 
-
+    cd ~/repos/97cosas  ##tu directorio donde se encuentra este repositorio
     jekyll --serve --auto
     # o
     jekyll serve --watch
@@ -97,7 +93,7 @@ Obtén literales con `backticks`
 
 [enlaces para nerds](http://slashdot.org)
 
-[enlaces para cosas stuff](section8.html)
+[enlaces para cosas](section8.html)
 
 Esta es una división horizontal:
 
@@ -105,7 +101,8 @@ Esta es una división horizontal:
 
 <sup>1</sup>: Pirateado y traducido de aquí: http://opentechschool.github.io/python-data-intro/
 
-[1]: http://creativecommons.org/licenses/by/3.0/us/deed.es
-[2]: http://programmer.97things.oreilly.com/wiki/index.php/97_Things_Every_Programmer_Should_Know
-[3]: http://pm.97things.oreilly.com/wiki/index.php/Main_Page
-[4]: http://softarch.97things.oreilly.com/wiki/index.php/Home_Page_for_97_Things
+[1]: http://www.oreilly.com/
+[2]: http://creativecommons.org/licenses/by/3.0/us/deed.es
+[3]: http://programmer.97things.oreilly.com/wiki/index.php/97_Things_Every_Programmer_Should_Know
+[4]: http://pm.97things.oreilly.com/wiki/index.php/Main_Page
+[5]: http://softarch.97things.oreilly.com/wiki/index.php/Home_Page_for_97_Things
