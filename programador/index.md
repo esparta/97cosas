@@ -66,7 +66,7 @@ Este sitio es la continuación del esfuerzo de Natán Calzolari (inicialmente en
 54. [Lee las humanidades](lee-humanidades.html), por Keith Braithwaite
 55. [El linker no es un programa mágico](linker-no-magico.html), por Walter Bright
 56. [La longevidad de las soluciones provisionales](longevidad-soluciones-provisionales.html), por Klaus Marquardt
-57. [Mantén limpia la construcción](manten-limpia-construccion.html), por Johannes Brodwall
+57. [Mantén limpia la compilación](manten-limpia-compilacion.html), por Johannes Brodwall
 58. [Mejora el código quitándolo](mejora-codigo-quitandolo.html), por Pete Goodliffe
 59. [Mensaje al futuro](mensaje-al-futuro.html), por Linda Rising
 60. [No sólo aprendas el lenguaje, entiende su cultura](no-aprendas-lenguaje-entiende-su-cultura.html), por Anders Norås
