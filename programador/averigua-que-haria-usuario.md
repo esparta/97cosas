@@ -1,6 +1,6 @@
 ---
 layout: programador
-title: Averigua qué haría el usuario (tú no eres un usuario)
+title: Averigua qué haría el usuario (tú no eres el usuario)
 overview: true
 author: Giles Colborne
 translator: Natán Calzolari
