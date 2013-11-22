@@ -11,34 +11,37 @@ Este es un how-to amigable para los contribuidores de la traducción de "97 cosa
 
 # Guía del Contribuidor
 
-Si quieres colaborar, basta con que hagas un _fork_ de este repositorio. La traducción está escrita como un sitio de [Jekyll](http://jekyllrb.com/), hospedada en páginas de GitHub. Está configurado para que puedes escribir las páginas en Markdown.  Una guía de markup está más adelante.
+Si quieres colaborar, basta con que hagas un _fork_ de este repositorio. La traducción está escrita como un sitio de [Jekyll](http://jekyllrb.com/), hospedada en páginas de GitHub. Está configurado para que puedes escribir las páginas en Markdown. Una [guía de markup](#gu%C3%ADa-markup) está más adelante.
 
 Los archivos de traducción están en estas carpetas:
 
 * programador/ ---> 97 cosas que todo programador
-* pm/  --> 97 cosas que todo Projet Manager
+* pm/  --> 97 cosas que todo Project Manager
 * as/  --> 97 cosas que todo Arquitecto de Software
 
 Todo está ligado en `index.md` en cada directorio.
 
 # Previsualizando el contenido
 
-Cuando haces _push_ a github (y hago un merge de ese _push request_), el sitio oficial en http://97cosas.com queda automáticamente actualizado.
+Cuando haces _push_ a github (y hago un merge de ese _pull request_), el sitio oficial en http://97cosas.com queda automáticamente actualizado.
 
-Para generar y ver el sitio (con el correcto CSS, etc) con tu propia computadora, puedes instalar Jekyll y despues ejecutarlo así:
+Para generar y ver el sitio (con el correcto CSS, etc) con tu propia computadora, puedes instalar Jekyll y después ejecutarlo así:
 
-    cd ~/repos/97cosas  ##tu directorio donde se encuentra este repositorio
-    jekyll --serve --auto
-    # o
-    jekyll serve --watch
+```bash
+# Jekyll se instala así: gem install jekyll
+cd ~/repos/97cosas  ##tu directorio donde se encuentra este repositorio
+jekyll --serve --auto
+# o
+jekyll serve --watch
+```
 
-Después navega hacia http://localhost:4000 para ver el contenido de la traducción. Si dejas el servidor ejecutándose, Jekill regenerará automáticamente el sitio cuando éste cambie.
+Después navega hacia [http://localhost:4000](http://localhost:4000) para ver el contenido de la traducción. Si dejas el servidor ejecutándose, Jekyll regenerará automáticamente el sitio cuando éste cambie.
 
 # Mandando incidencias (issues)
 
-Si no quieres, o no puedes (por tiempo o lo que sea) mandar un _push request_ también puedes utilizar el gestor de incidencias de github de el repositorio principal, aquí: https://github.com/esparta/97cosas/issues
+Si no quieres, o no puedes (por tiempo o lo que sea) mandar un _pull request_ también puedes utilizar el gestor de incidencias de github de el repositorio principal, aquí: https://github.com/esparta/97cosas/issues
 
-Será necesario indicar en qué página está el error y su correción pertinente, por ejemplo:
+Será necesario indicar en qué página está el error y su corrección pertinente, por ejemplo:
 
 >En la página "programador/no-te-repitas.html"
 > dice: "parmetros"
@@ -58,10 +61,15 @@ En Vim, quizás desees esta configuración:
 
 # Guía Markup
 
+```markdown
 # Sección de primer nivel
+
 ## Sección de segundo nivel
+
 ### Sección de tercer nivel
+
 #### Sección de cuarto nivel
+
 
 * Elemento de una lista
   * sub-elemento
@@ -98,7 +106,7 @@ Obtén literales con `backticks`
 Esta es una división horizontal:
 
 ******
-
+```
 <sup>1</sup>: Pirateado y traducido de aquí: http://opentechschool.github.io/python-data-intro/
 
 [1]: http://www.oreilly.com/
