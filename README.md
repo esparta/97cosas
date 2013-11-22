@@ -5,6 +5,10 @@ Este es el proyecto de traducción al español de la serie de libros "97 cosas..
 
 Se tienen tres libros disponibles:
 
+- [97 cosas que todo programador debería saber](/programador), basado en [97 Things Every Programmer Should Know][3]: **Completado**.
+- [97 cosas que todo Project Manager debería saber](/pm), basado en [97 Things Every Software Project Manager Should Know][4]: En proyecto.
+- [97 cosas que todo Arquitecto de Software debería saber](/as), basado [97 Things Every Software Architect Should Know][5]: En proyecto.
+
 # LEEME para Contribuidores<sup>1</sup>
 
 Este es un how-to amigable para los contribuidores de la traducción de "97 cosas...".
