@@ -78,7 +78,7 @@ Este sitio es la continuación del esfuerzo de Natán Calzolari (inicialmente en
 66. [No tengas miedo de romper cosas](no-tengas-miedo-de-romper-cosas.html), por Mike Lewis
 67. [¡No toques ese código!](no-toques-ese-codigo.html), por Cal Evans
 68. [Los números de punto flotante no son reales](numeros-punto-flotante.html), por Chuck Allison
-69. [Oportunidades perdidas del Poliformismo](oportunidades-perdidas-polimorfismo.html), por Kirk Pepperdine
+69. [Oportunidades perdidas del Polimorfismo](oportunidades-perdidas-polimorfismo.html), por Kirk Pepperdine
 70. [El paso de mensajes lleva a una mejor escalabilidad en sistemas paralelos](paso-mensajes-mejor-escalabilidad.html), por Russel Winder
 71. [Pensando en estados](pensando-en-estados.html), por Niclas Nilsson
 72. [Pon todo bajo Control de Versiones](pon-todo-bajo-control-de-versiones.html), por Diomidis Spinellis
