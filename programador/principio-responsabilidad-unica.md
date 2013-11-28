@@ -39,7 +39,7 @@ El buen diseño de sistemas signfica que separamos el sistema en componentes que
     }
 
 
-La simple división mostrada arriba resuelve éstos problemas. Cada una de estas clases se puede colocar en un componenete para sí mismas. O, mejor dicho, todos las clases de reporteo pueden ir en el componenete de reporteo. Todas las clases relacionadas con base de datos pueden estar en el componente de repositorios. Y todas las reglas de negocios pueden entrar en el componente de reglas de negocio.
+La simple división mostrada arriba resuelve éstos problemas. Cada una de estas clases se puede colocar en un componente para sí mismas. O, mejor dicho, todos las clases de reporteo pueden ir en el componente de reporteo. Todas las clases relacionadas con base de datos pueden estar en el componente de repositorios. Y todas las reglas de negocios pueden entrar en el componente de reglas de negocio.
 
 El lector astuto verá que aún existen dependencias en la solución anterior. Ese `Empleado` aún depende de las otras clases. Si se modifica `Empleado`, es probable que las otras clases se tengan que volver a compilar e implementar. Por lo tanto `Empleado` no se puede modificar y después implementar independientemente. Sin embargo, las otras clases pueden ser modificadas e implementadas independientemente. Ninguna modificación de alguna clase puede forzar a cualquiera de los otras a ser recompiladas o re-implementadas. Incluso `Empleado` podría ser implementada independientemente a través de un uso cuidadoso del Principio de Inversión de Dependencias (DIP), pero eso es un tema para [otro libro](http://www.amazon.com/dp/0135974445/).
 
