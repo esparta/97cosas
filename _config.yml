@@ -2,3 +2,4 @@ pygments: true
 author: Espartaco Palma
 url: 97cosas.com
 google_analytics_id : UA-45910414-1
+markdown: kramdown
