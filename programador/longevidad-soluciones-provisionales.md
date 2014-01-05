@@ -18,7 +18,7 @@ Las soluciones interinas, sin embargo, adquieren inercia (o momentum, dependiend
 
 Así que la solución provisional se mantiene en su lugar. Por siempre.
 
-Y si un problema surge con esa solución provisional, es poco probable que se provea una actualización que traiga a la linea con calidad de producción aceptada. ¿Qué hacer? Una rápida actualización provisional en esa solución provisional a menudo hace el trabajo. Y será más común el ser recivida. Exhibe la mismas fortalezas como la solución provisional inicial... Sólo está más actualizada.
+Y si un problema surge con esa solución provisional, es poco probable que se provea una actualización que esté en línea con calidad de producción aceptable. ¿Qué hacer? Una rápida actualización provisional en esa solución provisional a menudo hace el trabajo. Y será más común que sea bien recibida. Exhibe la mismas fortalezas que la solución provisional inicial... Sólo está más actualizada.
 
 ¿Es esto un problema?
 
