@@ -17,20 +17,20 @@ Este sitio es la continuación del esfuerzo de Natán Calzolari (inicialmente en
 5. [Aprende a decir "Hola, Mundo"](aprende-decir-hola-mundo.html), por Thomas Guest
 6. [Aprende a hacer estimaciones](aprende-estimaciones.html), por Giovanni Asproni
 7. [Aprende un lenguaje extranjero](aprende-lenguaje-extranjero.html), por Klaus Marquardt
-8. [Aprendiendo continuamente](aprendiendo-continuamente.html), por Clint Shank
-9. [Automatiza el estándar de codificación](automatiza-estandar-codificacion.html), por Filip van Laenen
-10. [Averigua qué haría el usuario (tú no eres el usuario)](averigua-que-haria-usuario.html), por Giles Colborne
-11. [La belleza está en la simplicidad](belleza-simplicidad.html), por Jørn Ølmheim
-12. [El camino al mejor rendimiento está lleno de sucias bombas de código](camino-al-rendimiento-bombas-codigo.html), por Kirk Pepperdine
-13. [Codificando con la razón](codifica-con-la-razon.html), por Yechiel Kimchi
-14. [Codifica en el lenguaje del dominio](codifica-en-lenguaje-del-dominio.html), por Dan North
-15. [Codificación Ubuntu para tus amigos](codificacion-ubuntu.html), por Aslam Khan
-16. [El código es diseño](codigo-es-disenno.html), por Ryan Brush
-17. [Comenta sólo lo que el código no dice](comenta-codigo-no-dice.html), por Kevlin Henney
-18. [Un comentario acerca de los comentarios](comentario-acerca-de-comentarios.html), por Cal Evans
-19. [¿Cómo usar un Gestor de Errores?](como-usar-bug-tracker.html), por Matt Doar
-20. [Conoce bien más de dos lenguajes de programación](conoce-bien-dos-lenguajes.html), por Russel Winder
-21. [Conoce cómo usar las herramientas de línea de comandos](conoce-como-usar-linea-comando.html), por Carroll Robinson
+8. [Aprende a usar las herramientas de línea de comandos](aprende-usar-linea-comando.html), por Carroll Robinson
+9. [Aprendiendo continuamente](aprendiendo-continuamente.html), por Clint Shank
+10. [Automatiza el estándar de codificación](automatiza-estandar-codificacion.html), por Filip van Laenen
+11. [Averigua qué haría el usuario (tú no eres el usuario)](averigua-que-haria-usuario.html), por Giles Colborne
+12. [La belleza está en la simplicidad](belleza-simplicidad.html), por Jørn Ølmheim
+13. [El camino al mejor rendimiento está lleno de sucias bombas de código](camino-al-rendimiento-bombas-codigo.html), por Kirk Pepperdine
+14. [Codificando con la razón](codifica-con-la-razon.html), por Yechiel Kimchi
+15. [Codifica en el lenguaje del dominio](codifica-en-lenguaje-del-dominio.html), por Dan North
+16. [Codificación Ubuntu para tus amigos](codificacion-ubuntu.html), por Aslam Khan
+17. [El código es diseño](codigo-es-disenno.html), por Ryan Brush
+18. [Comenta sólo lo que el código no dice](comenta-codigo-no-dice.html), por Kevlin Henney
+19. [Un comentario acerca de los comentarios](comentario-acerca-de-comentarios.html), por Cal Evans
+20. [¿Cómo usar un Gestor de Errores?](como-usar-bug-tracker.html), por Matt Doar
+21. [Conoce bien más de dos lenguajes de programación](conoce-bien-dos-lenguajes.html), por Russel Winder
 22. [Conoce tu próximo Commit](conoce-proximo-commit.html), por Dan Bergh Johnsson
 23. [Conoce tu IDE](conoce-tu-ide.html), por Heinz Kabutz
 24. [Conoce tus límites](conoce-tus-limites.html), por Greg Colvin
@@ -85,7 +85,7 @@ Este sitio es la continuación del esfuerzo de Natán Calzolari (inicialmente en
 73. [Da preferencia a tipos de Dominio Específico que los tipos primitivos](preferencia-tipos-dominio-especifico.html), por Einar Landre
 74. [Preocúpate por el código](preocupate-por-el-codigo.html), por Pete Goodliffe
 75. [El Principio de Responsabilidad Única](principio-responsabilidad-unica.html), por Uncle Bob
-76. [Programa en pareja y siente el flujo](programa-en-pareja-siente-flujo.html), por Gudny Hauknes, Ann Katrin Gagnat, y Kari Røssland 
+76. [Programa en pareja y siente el flujo](programa-en-pareja-siente-flujo.html), por Gudny Hauknes, Ann Katrin Gagnat, y Kari Røssland
 77. [Prueba el comportamiento requerido, no el comportamiento incidental](prueba-comportamiento-requerido-no-incidental.html), por Kevlin Henney
 78. [Prueba precisa y concretamente](prueba-precisa-concretamente.html), por Kevlin Henney
 79. [Haz pruebas mientras duermes (y los fines de semana)](pruebas-fin-de-semana.html), por Rajith Attapattu
