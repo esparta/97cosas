@@ -35,7 +35,7 @@ ambos lados de la moneda.
 
 Piensa en el código que has estudiado. Si no has pasado un buen tiempo leyendo
 el código de alguien más, deja de leer esto ahora mismo y ve a buscar algo de
-código abierto para estudiar. ¡En serio, no es broma! Busca en Internet algo de
+software libre para estudiar. ¡En serio, no es broma! Busca en Internet algo de
 código en tu lenguaje preferido, escrito por algún experto reconocido.
 
 ¿Ya has regresado? Bien. ¿Dónde estábamos? Ah, sí… Me he encontrado con que el

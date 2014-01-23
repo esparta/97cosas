@@ -9,7 +9,7 @@ original: http://programmer.97things.oreilly.com/wiki/index.php/Know_How_to_Use_
 
 Hoy en día, muchas herramientas de desarrollo de software se empaquetan como
 Entornos Integrados de Desarrollo (IDE, _Integrated Development
-Environments_). Microsoft Visual Studio y el proyecto de código abierto
+Environments_). Microsoft Visual Studio y el proyecto de software libre
 Eclipse son dos ejemplos populares, aunque hay muchos otros. Hay muchas
 razones por las cuáles nos gustan los IDE. No sólo porque son fáciles de
 usar, sino que también alivian al programador de pensar en un montón de
@@ -23,17 +23,17 @@ que siempre has usado, quizás nunca entendiendas completamente lo que tus
 herramientas están haciendo. Haces clic en un botón, algo de magia ocurre,
 y un archivo ejecutable aparece en la carpeta del proyecto.
 
-Al trabajar con las herramientas de línea de comandos, vas a aprender mucho
-más sobre lo que están haciendo cuando se está construyendo el proyecto.
-Escribir tus propios archivos `make` te ayudará al entendimiento de
-todos los pasos (compilar, ensamblar, enlazar, etc) que están en la
-construcción de un archivo ejecutable. Experimentar con las muchas
-opciones de la línea de comandos de esas heramientas también es una
-experiencia educacional valiosa. Para empezar con el uso de las
+Al trabajar con las herramientas de línea de comandos, vas a aprender
+mucho más sobre lo que están haciendo cuando se está construyendo el
+proyecto. Escribir tus propios archivos `make` te ayudará al
+entendimiento de todos los pasos (compilar, ensamblar, enlazar, etc) que
+están en la construcción de un archivo ejecutable. Experimentar con las
+muchas opciones de la línea de comandos de esas heramientas también es
+una experiencia educacional valiosa. Para empezar con el uso de las
 herramientas de construcción en línea de comandos, puedes usar las de
-código abierto tales como GCC o las proporcionadas por tu IDE propietario.
-Después de todo, un IDE bien diseñado es sólo una interface gráfica para
-un conjunto de herramientas de línea de comandos.
+software libre tales como GCC o las proporcionadas por tu IDE
+propietario. Después de todo, un IDE bien diseñado es sólo una interface
+gráfica para un conjunto de herramientas de línea de comandos.
 
 Además de mejorar tu entendimiento del proceso de construcción, hay algunas
 tareas que pueden ser realizadas de forma más fácil o eficiente con las

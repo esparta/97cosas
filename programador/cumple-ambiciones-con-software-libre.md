@@ -1,6 +1,6 @@
 ---
 layout: programador
-title: Cumple tus ambiciones con Código Abierto
+title: Cumple tus ambiciones con Software Libre
 overview: true
 author: Richard Monson-Haefel
 translator: Espartaco Palma
@@ -14,30 +14,30 @@ gustaría estar trabajando en Google, Apple, Microsoft o tu propia
 _start-up_ desarrollando la próxima "gran cosa". Nunca vas a llegar
 donde quieres desarrollando software para sistemas que no te importan.
 
-Afortunadamente, hay una respuesta a tus problemas: código abierto. Hay
-miles de proyectos de código abierto por ahí, muchos de ellos muy
+Afortunadamente, hay una respuesta a tus problemas: software libre. Hay
+miles de proyectos de software libre por ahí, muchos de ellos muy
 activos, los cuales ofrecen cualquier tipo de experiencia de desarrollo
 de software que puedas desear. Si amas la idea de desarrollar un sistema
 operativo, ve y ayuda con alguno. Si deseas trabajar con software de
 música, animación, criptografía, róbotica, juegos de PC, juegos masivos
 en línea, teléfonos móbiles o lo que sea, puedes estar casi seguro de que
-encontrarás al menos un proyecto de código abierto dedicado a ese interés.
+encontrarás al menos un proyecto de software libre dedicado a ese interés.
 
 Por supuesto que no hay almuerzos gratis. Tienes que estar dispuesto a
-dar tu tiempo libre porque probablemente no puedas trabajar en el código
-abierto de un videojuego en tu trabajo, aún tienes la responsabilidad
+dar tu tiempo libre porque probablemente no puedas trabajar en
+videojuego de software libre en tu trabajo, aún tienes la responsabilidad
 con tu empleador. Adicionalmente, muy pocas personas hacen dinero
-constribuyendo a proyecto de código abierto. Debes estar dispuesto a
+constribuyendo al software libre. Debes estar dispuesto a
 renunciar a una parte de tu tiempo libre (menos tiempo jugando
 videojuegos y mirando TV no te matará). Cuanto más trabajes en un
-proyecto de código abierto, más rápido te darás cuenta de tus verdaderas
+proyecto de software libre, más rápido te darás cuenta de tus verdaderas
 ambiciones como programador. También es importante considerar tu contrato
 de empleado, algunos empleadores pueden restringir contribuciones,
 incluso en tu propio tiempo. Además, es necesario tener cuidado con las
 violaciones de las leyes propiedad intelectual que tienen que ver con
 derechos de autor, patentes, marcas registradas y secretos comerciales.
 
-El código abierto provee enormes oportunidades para el programador
+El software libre provee enormes oportunidades para el programador
 motivado. En primer lugar, se llega a ver cómo alguien más implemnta una
 solución que te interesa -- puedes aprender mucho leyendo el código de
 otras personas--. En segundo lugar, se llega a contribuir con tu propio
@@ -45,12 +45,12 @@ código e ideas al proyecto -- no todas las idea brillante que tengas
 será aceptada pero algunas podrían serlo--, y aprenderás algo nuevo con
 sólo trabajar en soluciones y contribuir con el código. En tercer lugar,
 conocerás a personas grandiosas con la misma pasión que tú por el mismo
-tipo de software -- estas amistades de código abierto pueden durar toda
+tipo de software -- estas amistades pueden durar toda
 la vida--. En cuarto lugar, asumiendo que eres un contribuidor
 competente, estarás en disposición de agregar la experiencia del mundo
 real en la tecnología que actualmente te interesa.
 
-Iniciar con el código abierto es bastante fácil. Hay plena documentación
+Iniciar con el software libre es bastante fácil. Hay plena documentación
 en las herramientas que necesitas (por ejemplo, administración de código
 fuente, editores, lenguajes de programación, sistemas de construcción,
 etcétera). Primero, encuentra el proyecto en el que deseas trabajar y

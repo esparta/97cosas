@@ -57,7 +57,7 @@ funciona).
 - Trabajas bien junto con otros programadores. Ningún programador es una
 isla. Pocos programadores trabajan solos; la mayoría trabaja en un equipo
 de programadores, ya sea en un entorno empresarial o en un proyecto de
-código abierto. Consideras a los otros programadores, y construyes código
+software libre. Consideras a los otros programadores, y construyes código
 que otros pueden leer. Deseas que el equipo escriba el mejor software
 posible, en lugar de hacerte lucir inteligente.
 - Cada vez que tocas una pieza de código te esfuerzas en

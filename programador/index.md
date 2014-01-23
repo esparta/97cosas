@@ -37,7 +37,7 @@ Este sitio es la continuación del esfuerzo de Natán Calzolari (inicialmente en
 25. [La conveniencia no es una -bilidad](conveniencia.html), por Gregor Hohpe
 26. [Cuando Programadores y Testers colaboran](cuando-programadores-testers-colaboran.html), por Janet Gregory
 27. [Ten cuidado al compartir](cuidado-al-compartir.html), por Udi Dahan
-28. [Cumple tus ambiciones con Código Abierto](cumple-ambiciones-con-codigo-abierto.html), por Richard Monson-Haefel
+28. [Cumple tus ambiciones con Software Libre](cumple-ambiciones-con-software-libre.html), por Richard Monson-Haefel
 29. [Los grandes datos interconectados pertenecen a una base de datos](datos-interconectados-pertenecen-base-de-datos.html), por Diomidis Spinellis
 30. [Deja que tu proyecto hable por sí mismo](deja-proyecto-hable-por-si-mismo.html), por Daniel Lindner
 31. [El diseño del código sí importa](diseno-en-codigo-importa.html), por Steve Freeman

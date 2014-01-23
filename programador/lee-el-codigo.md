@@ -31,7 +31,7 @@ Si el código es fácil de leer, detente para ver si hay algo útil de lo
 que puedas aprender de él. Quizás hay un patrón de diseño en uso que no
 conocías, o que previamente habías luchado para poder implementar. Tal
 vez los métodos son más cortos y sus nombres más expresivos que los
-tuyos. Algunos proyectos de código abierto están llenos de buenos
+tuyos. Algunos proyectos de software libre están llenos de buenos
 ejemplos de cómo escribir código brillante y legible -- ¡mientras otros
 sirven de ejemplo de todo lo contrario! Revisa un poco de su código y da
 un vistazo.

@@ -11,7 +11,7 @@ La semántica final de un programa está dada por el código que se
 ejecuta. ¡Si esto es únicamente en formato binario, será una lectura
 difícil! El código fuente debe, sin embargo, estar disponible si se
 trata de tu programa, cualquier desarrollo de software comercial típico,
-un proyecto de código abierto, o código en un lenguaje interpretado de
+un proyecto de software libre, o código en un lenguaje interpretado de
 forma dinámica. Al mirar el código fuente, el signigicado del programa
 debería ser evidente. Para saber qué hace el programa, el código es, en
 última instancia, todo en lo que puedes estar seguro. Hasta el documento
