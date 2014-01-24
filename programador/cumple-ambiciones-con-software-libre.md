@@ -24,7 +24,7 @@ en línea, teléfonos móbiles o lo que sea, puedes estar casi seguro de que
 encontrarás al menos un proyecto de software libre dedicado a ese interés.
 
 Por supuesto que no hay almuerzos gratis. Tienes que estar dispuesto a
-dar tu tiempo libre porque probablemente no puedas trabajar en
+dar tu tiempo libre porque probablemente no puedas trabajar en el
 videojuego de software libre en tu trabajo, aún tienes la responsabilidad
 con tu empleador. Adicionalmente, muy pocas personas hacen dinero
 constribuyendo al software libre. Debes estar dispuesto a
