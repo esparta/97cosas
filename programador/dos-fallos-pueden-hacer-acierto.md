@@ -8,14 +8,14 @@ original: http://programmer.97things.oreilly.com/wiki/index.php/Two_Wrongs_Can_M
 ---
 
 El código nunca miente, pero puede contradecirse. Algunas contradiciones
-llevan a esos momentos de "¿Cómo es posible que esto funcione?".
+llevan a esos momentos de: "¿cómo es posible que esto funcione?".
 
 En una [entrevista][1], el diseñador principal del software del módulo
 lunar Apolo 11, Allan Klumpp, reveló que el software que controlaba los
-motores contenía un error que debía hacer el módulo aterrizaje
-inestable. Sin embargo, otro error fue compensado por el primero y el
-software fue usado por los aterrizajes lunares del Apolo 11 y 12 antes
-de que el error fuera encontrado y arreglado.
+motores tenía un error que debía hacer el módulo aterrizaje inestable.
+Sin embargo, otro error fue compensado por el primero y el software fue
+usado por los aterrizajes lunares del Apolo 11 y 12 antes de que el
+error fuera encontrado y arreglado.
 
 Considera una función que retorna un estatus de finalización. Imagina
 que retorna `false` cuando debería regresar un `true`. Ahora imagina que
@@ -36,15 +36,15 @@ metodológico para arreglar la falla puede, por sí mismo, romperlo. El
 desarrolador recibe un reporte de error, encuentra el defecto, lo
 arregla y lo vuelve a probar. Sin embargo, el fallo reportado aún
 ocorre, debido a que un segundo defecto está en funcionamiento. Así que
-el primer arreglo es quitado, el código es inspeccionado hasta que el
+el primer arreglo se quita, el código es inspeccionado hasta que el
 segundo defecto es encontrado, y un arreglo se aplica. Pero el primer
 defecto ha regresado, el fallo reportado aún se ve, así que se deshace
 el segundo arreglo. El proceso se repite pero ahora el desarrollador ha
-desestimado dos posibles soluciones y está buscando hacer un tercero,
-que nunca va a funcionar.
+desestimado dos posibles soluciones y está buscando una tercera, que
+nunca va a funcionar.
 
-La interacción entre dos defectos de código que aparecen como sólo un
-defecto visible no sólo hace difícil de arreglar el problema, además
+La interacción entre dos defectos de código que aparecen como un
+defecto visible no sólo hace difícil de arreglar el problema, además,
 lleva a los desarrolladores a callejones sin salida, sólo para descubrir
 que intentaron la respuesta correcta desde el inicio.
 
@@ -54,22 +54,21 @@ de un lugar a otro. Un error en el código compensa un error en la
 descripción escrita.
 
 Puede extenderse a la gente también: Los usuarios aprenden que cuando la
-aplicación dice 'Izquierda' se refiere a la 'Derecha', así que ajustan
-su comportamiento. Ellos incluso lo pasan al nuevo usuarios: "Recuerda
-que la aplicación dice que hagas click al botón izquierdo cuando
-realmente se refiere al botón derecho". Arregla ese error y de repente
-los usuarios necesitan reentrenamiento.
+aplicación dice "Izquierda" se refiere a la "Derecha", así que ajustan
+su comportamiento, incluso lo pasan al nuevo usuario: "Recuerda que la
+aplicación dice que hagas clic al botón izquierdo cuando realmente se
+refiere al botón derecho". Arregla ese error y de repente los usuarios
+necesitan reentrenamiento.
 
 Fallos sencillos pueden ser fáciles de ver y fáciles de arreglar. Son
 los problemas con múltiples causas, que necesitan múltiples cambios, los
 que son difíciles de resolver. En parte es porque los problemas fáciles
-son tan fácilmente arreglados que la gente tiende a arreglarlos con
-relativa rapidez y se quedan con los más difíciles para una fecha
-posterior.
+tienden a arreglarlos con relativa rapidez y se quedan con los más
+difíciles para una fecha posterior.
 
 No hay un consejo simple que se pueda dar en cómo localizar fallos
 surgidos de defectos simpatéticos. Es necesario darse cuenta de la
-posiblidad, una cabeza clara, y una voluntad de considerar todas las
+posiblidad, una cabeza clara y una voluntad de considerar todas las
 posibilidades.
 
 
