@@ -35,7 +35,7 @@ que tú. Si no puedes encontrar un mentor, considera seguir adelante.
 * Utiliza mentores virtuales. Encuentra autores y desarrolladores en la
 web que realmente te gusten y lee todo lo que han escrito. Inscríbete en
 sus blogs.
-* Conoce sobre los frameworks y librerías que usan. Saber cómo funciona
+* Conoce sobre los frameworks y bibliotecas que usan. Saber cómo funciona
 algo te hace saber cómo usarlo mejor. Si son de software libre, estás de
 suerte. Usa el depurador para ir paso a paso por el código para ver qué
 hay tras el telón. Podrás ver el código escrito y revisado por personas

@@ -20,24 +20,24 @@ tu actitud. Si no te preocupas por tus compañeros desarrolladores,
 _testers_, administradores, personal de venta y mercadotecnia, así como
 los usuarios finales, entonces no estarás dispuesto a emplear el
 Desarrollo basado en Pruebas (_Test-Driven Development_) o escribir
-comentarios claros en tu código, por ejemplo. Hay una manera sencilla
-de ajustar tu actitud y siempre estar dispuesto a entregar productos
-de la mejor calidad:
+comentarios claros en tu código, por ejemplo. Hay una manera sencilla de
+ajustar tu actitud y siempre estar dispuesto a entregar productos de la
+mejor calidad::
 
 > Escribe código como si tuvieras que mantenerlo por el resto de tu vida.
 
 Eso es todo. Si aceptas esta idea, sucederán muchas cosas maravillosas.
-Si vas aceptar que ninguno de tus empleadores previos o actuales tienen
-derecho a llamarte a la mitad de la noche, pidiéndote que expliques las
-decisiones que tomaste mientras escribías el método _fooBar_, entonces
+Si vas aceptar que ninguno de tus empleadores previos o actuales tiene
+derecho a llamarte a la mitad de la noche pidiéndote que expliques las
+decisiones que tomaste mientras escribías el método fooBar, entonces
 deberías mejorar gradualmente para convertirte en un programador
-experto. Naturalmente, querrías llegar a mejores nombres de variables y
-métodos. Te alejarías de bloques código que contienen cientos de líneas.
-Buscarías, aprenderías y usarías patrones de diseño. Escribirías
-comentarios, probarías tu código, y refactorarías continuamente.
-Mantener todo el código que has escrito por el resto de tu vida será
-también un esfuerzo escalable. Por lo tanto, no tendrías más opción que
-convertirte en alguien mejor, más listo, y más eficiente.
+experto. Naturalmente querrías llegar a mejores nombres de variables y
+métodos. Te alejarías de bloques de código que contienen cientos de
+líneas. Buscarías, aprenderías y usarías patrones de diseño. Escribirías
+comentarios, probarías tu código y refactorarías continuamente. Mantener
+todo el código que has escrito por el resto de tu vida será también un
+esfuerzo escalable. Por lo tanto, no tendrías más opción que convertirte
+en alguien mejor, más listo y más eficiente.
 
 Si lo reflexionas, el código que escribiste hace muchos años todavía
 influye en tu carrera, te guste o no. Dejas un rastro de tu
