@@ -23,7 +23,7 @@ primitivos. Estos ejemplos demuestran que el desarrollador involucrado
 no ha entendido por completo el pensamiento orientado a objetos,
 fallando en tomar ventaja del poder de los objetos como constructos de
 modelaje. Para los desarrolladores familiarizados con los términos POJO
-(*Plan Old Java Object*) y POCO (*Plain Old C# Object* o *Plan Old CLR
+(*Plain Old Java Object*) y POCO (*Plain Old C# Object* o *Plain Old CLR
 Object*), éste fue el intento para regresar a lo más básico de OO como
 el paradigma modelo, los objetos son planos y sencillos, pero no tontos.
 
@@ -52,7 +52,7 @@ frecuentemente referido como *orderManager* u *OrderService*. En este
 diseño, *Order*, *Customer* e *Item* son tratados como algo más que
 tipos de registros. Toda la lógica es factorizada desde las clases y
 unidas en un método largo y procedural con un montón de constructos
-internos *if-the-else*. Estos métodos se rompen con facilidad y son casi
+internos `if-the-else`. Estos métodos se rompen con facilidad y son casi
 imposibles de mantener. ¿La razón? La encapsulación está rota.
 
 Así que, al final, no rompas la encapsulación y usa el poder de tu
