@@ -55,9 +55,9 @@ te dará la respuesta sin siquiera sudar. Si encuentras una secuencia de
 comandos útil, puedes empacarla fácilmente en un script de shell, usando
 algunos poderosos constructos de programación, tales como hacer piping
 de datos en ciclos y condicionales. Más impresionante aún, los comandos
-Unix ejecutados como pipilines, como el arriba descrito, distribuirá su
-carga con naturalidad a través de las muchas unidades de procesamiento
-de los CPU multi-core modernos.
+Unix ejecutados como _pipelines_, como el arriba descrito, distribuirá
+su carga con naturalidad a través de las muchas unidades de
+procesamiento de los CPU multi-core modernos.
 
 Su génesis en “pequeño es bello” y las implementaciones open source de
 las herramientas Unix las hacen disponibles ubicuamente, incluso en
