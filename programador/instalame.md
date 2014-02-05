@@ -49,7 +49,7 @@ entiendo. Hay probabilidad de que quiera leer o escribir un archivo. No
 quiero crear proyectos, importar directorios o decirte mi correo
 electrónico. Si todo está funcionando, ir al tutorial
 
-Si tu software es una librería, entonces seguiré leyendo tu página web
+Si tu software es una biblioteca, entonces seguiré leyendo tu página web
 buscando una guía rápida de inicio. Quiero el equivalente de un “hola,
 mundo” en cinco líneas sin mucho pensar con la salida descrita por tu
 sitio web. No quiero llenar un gran archivo XML o plantillas, sólo un

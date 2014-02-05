@@ -30,17 +30,18 @@ propósito general, cuya sintaxis se ha inclinado a parecerse más al
 lenguaje natural. Es más fácil para los lenguajes que ofrecen azúcar
 sintáctica y posibilidades de formato (ej. Ruby y Scala) que para otros
 que no lo hacen (ej. Java). Muchos DSL internos envuelven API
-existentes, librerías o código de negocio para proveer un contenedor con
-un acceso más alucinante a su funcionalidades. Son ejecutados con sólo
-correrlos. Dependiendo en la implementación y el dominio, son usados
-para construir estructuras de datos, definir dependencias, ejecutar
-procesos o tareas, comunicarse con otros sistemas o validar entradas de
-usuario. La sintaxis de un DSL interno están contenidas en el lenguaje
-anfitrión. Hay muchos patrones –por ejemplo, constructores de
-expresiones, encadenadores de métodos y anotaciones– que pueden ayudarte
-a doblar el lenguaje anfitrión de tu DSL. Si el lenguaje anfitrión no
-requiere recompilación, entonces un DSL interno puede ser desarrollado
-rápidamente trabajando lado a lado con los expertos del dominio.
+existentes, bibliotecas o código de negocio para proveer un contenedor
+con un acceso más alucinante a su funcionalidades. Son ejecutados con
+sólo correrlos. Dependiendo en la implementación y el dominio, son
+usados para construir estructuras de datos, definir dependencias,
+ejecutar procesos o tareas, comunicarse con otros sistemas o validar
+entradas de usuario. La sintaxis de un DSL interno están contenidas en
+el lenguaje anfitrión. Hay muchos patrones –por ejemplo, constructores
+de expresiones, encadenadores de métodos y anotaciones– que pueden
+ayudarte a doblar el lenguaje anfitrión de tu DSL. Si el lenguaje
+anfitrión no requiere recompilación, entonces un DSL interno puede ser
+desarrollado rápidamente trabajando lado a lado con los expertos del
+dominio.
 - Los DSL externos son expresiones gráficas o textuales de un lenguaje,
 aunque los DSL textuales tienden a ser más comunes que los gráficos. Las
 expresiones textuales pueden ser procesadas por una cadena de
