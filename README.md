@@ -1,21 +1,33 @@
 97cosas.com
 =======
 
-Este es el proyecto de traducción al español de la serie de libros "97 cosas...", creados por la editorial [O'Reilly][1], los cuales, gracias a su licencia [Creative Commons Attribution 3][2], nos es posible traducir libremente. Es un esfuerzo compartido para poner a disposición de toda el habla hispana el contenido que actualmente sólo se encuentra en inglés.
+Este es el proyecto de traducción al español de la serie de libros "97
+cosas...", creados por la editorial [O'Reilly][1], los cuales, gracias a
+su licencia [Creative Commons Attribution 3][2], nos es posible traducir
+libremente. Es un esfuerzo compartido para poner a disposición de toda
+el habla hispana el contenido que actualmente sólo se encuentra en
+inglés.
 
 Se tienen tres libros disponibles:
 
-- [97 cosas que todo programador debería saber](/programador), basado en [97 Things Every Programmer Should Know][3]: **Completado**.
-- [97 cosas que todo Project Manager debería saber](/pm), basado en [97 Things Every Software Project Manager Should Know][4]: En proyecto.
-- [97 cosas que todo Arquitecto de Software debería saber](/as), basado [97 Things Every Software Architect Should Know][5]: En proyecto.
+- [97 cosas que todo programador debería saber](/programador), basado en
+[97 Things Every Programmer Should Know][3]: **Completado**.
+- [97 cosas que todo Project Manager debería saber](/pm), basado en [97
+Things Every Software Project Manager Should Know][4]: En proyecto.
+- [97 cosas que todo Arquitecto de Software debería saber](/as), basado
+[97 Things Every Software Architect Should Know][5]: En proyecto.
 
 # LEEME para Contribuidores<sup>1</sup>
 
-Este es un how-to amigable para los contribuidores de la traducción de "97 cosas...".
+Este es un how-to amigable para los contribuidores de la traducción de
+"97 cosas...".
 
 # Guía del Contribuidor
 
-Si quieres colaborar, basta con que hagas un _fork_ de este repositorio. La traducción está escrita como un sitio de [Jekyll](http://jekyllrb.com/), hospedada en páginas de GitHub. Está configurado para que puedes escribir las páginas en Markdown. Una [guía de markup](#gu%C3%ADa-markup) está más adelante.
+Si quieres colaborar, basta con que hagas un _fork_ de este repositorio.
+La traducción está escrita como un sitio de [Jekyll][6], hospedada en
+páginas de GitHub. Está configurado para que puedes escribir las páginas
+en Markdown. Una [guía de markup](#gu%C3%ADa-markup) está más adelante.
 
 Los archivos de traducción están en estas carpetas:
 
@@ -27,9 +39,11 @@ Todo está ligado en `index.md` en cada directorio.
 
 # Previsualizando el contenido
 
-Cuando haces _push_ a github (y hago un merge de ese _pull request_), el sitio oficial en http://97cosas.com queda automáticamente actualizado.
+Cuando haces _push_ a github (y hago un merge de ese _pull request_), el
+sitio oficial en http://97cosas.com queda automáticamente actualizado.
 
-Para generar y ver el sitio (con el correcto CSS, etc) con tu propia computadora, puedes instalar Jekyll y después ejecutarlo así:
+Para generar y ver el sitio (con el correcto CSS, etc) con tu propia
+computadora, puedes instalar Jekyll y después ejecutarlo así:
 
 ```bash
 # Jekyll se instala así: gem install jekyll
@@ -39,11 +53,16 @@ jekyll --serve --auto
 jekyll serve --watch
 ```
 
-Después navega hacia [http://localhost:4000](http://localhost:4000) para ver el contenido de la traducción. Si dejas el servidor ejecutándose, Jekyll regenerará automáticamente el sitio cuando éste cambie.
+Después navega hacia http://localhost:4000 para ver el contenido de la
+traducción. Si dejas el servidor ejecutándose, Jekyll regenerará
+automáticamente el sitio cuando éste cambie.
 
 # Mandando incidencias (issues)
 
-Si no quieres, o no puedes (por tiempo o lo que sea) mandar un _pull request_ también puedes utilizar el gestor de incidencias de github de el repositorio principal, aquí: https://github.com/esparta/97cosas/issues
+Si no quieres, o no puedes (por tiempo o lo que sea) mandar un _pull
+request_ también puedes utilizar el gestor de incidencias de github de
+el repositorio principal, aquí:
+https://github.com/esparta/97cosas/issues
 
 Será necesario indicar en qué página está el error y su corrección pertinente, por ejemplo:
 
@@ -53,7 +72,8 @@ Será necesario indicar en qué página está el error y su corrección pertinen
 
 ## Editando texto
 
-* Usamos líneas largas (no saltos de línea en párrafos) para mantener los diffs moderadamente limpios.
+* Usamos líneas de un máximo de 80 caracteres (por [petición
+popular][7] y decisión del administrador: @esparta)
 * El código está indentado con 4 espacios.
 * El HTML/CSS está indentado con 2 espacios.
 
@@ -62,6 +82,7 @@ En Vim, quizás desees esta configuración:
     set tabstop=4
     set shiftwidth=4
     set expandtab
+    set columns=80
 
 # Guía Markup
 
@@ -101,11 +122,19 @@ Obtén literales con `backticks`
     para obtener un bloque de código,
     que luce bello.
 
-> Haz unas cuantas citas. Puedes realizar reflujo de texto tanto como quieras. El salto de línea es impresionante. Y hecho de triunfos.
+> Haz unas cuantas citas. Puedes realizar reflujo de texto tanto como
+quieras. El salto de línea es impresionante. Y hecho de triunfos.
 
-[enlaces para nerds](http://slashdot.org)
+Hay varias formas de crear enlaces en Markdown, pero por legibilidad
+estamos usando los enlaces "abreviados", donde los links van al final
+del archivo:
 
-[enlaces para cosas](section8.html)
+[enlaces para nerds][1]
+
+[enlace interno][2]
+
+[1]: http://slashdot.org
+[2]: no-te-repitas.html
 
 Esta es una división horizontal:
 
@@ -118,3 +147,5 @@ Esta es una división horizontal:
 [3]: http://programmer.97things.oreilly.com/wiki/index.php/97_Things_Every_Programmer_Should_Know
 [4]: http://pm.97things.oreilly.com/wiki/index.php/Main_Page
 [5]: http://softarch.97things.oreilly.com/wiki/index.php/Home_Page_for_97_Things
+[6]: http://jekyllrb.com/
+[7]: https://github.com/esparta/97cosas/issues/3
