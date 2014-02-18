@@ -39,7 +39,7 @@ al método, lo cuál hace extremadamente fácil modificar código. Mi IDE
 detectará incluso otro fragmento de código que podría también ser
 reemplazado por este método y preguntarme si deseo reemplazarlo también.
 
-tra característica sorprendente en los IDE modernos es la capacidad de
+Otra característica sorprendente en los IDE modernos es la capacidad de
 hacer cumplir las reglas de estilo dentro de una empresa. Por ejemplo,
 en Java, algunos programadores han empezado a hacer todos los parámetros
 como `final` (lo cual, en mi opinión, es una pérdida de tiempo). Sin
