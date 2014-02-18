@@ -48,7 +48,7 @@ es útil en este caso.
 Como la gente está para escucharte y te hará preguntas, estarás motivado
 a aprender. Intenta un “almuerza y aprende” en el trabajo, un grupo de
 usuarios o con conferencias locales.
-*Inicia o únete a un grupo de estudio (a la comunidad de patrones) o a un
+* Inicia o únete a un grupo de estudio (a la comunidad de patrones) o a un
 grupo local de usuarios del lenguaje, tecnología o disciplina en la que
 estés interesado.
 * Asiste a conferencias. Y si no puedes ir, muchas conferencias ponen sus

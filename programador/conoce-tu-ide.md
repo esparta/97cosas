@@ -39,7 +39,7 @@ al método, lo cuál hace extremadamente fácil modificar código. Mi IDE
 detectará incluso otro fragmento de código que podría también ser
 reemplazado por este método y preguntarme si deseo reemplazarlo también.
 
-tra característica sorprendente en los IDE modernos es la capacidad de
+Otra característica sorprendente en los IDE modernos es la capacidad de
 hacer cumplir las reglas de estilo dentro de una empresa. Por ejemplo,
 en Java, algunos programadores han empezado a hacer todos los parámetros
 como `final` (lo cual, en mi opinión, es una pérdida de tiempo). Sin
@@ -71,9 +71,9 @@ del teclado: aprende a teclear, no te arrepentirás del tiempo invertido
 por adelantado.
 
 Por último, como programadores tenemos herramientas de flujo Unix que
-pueden ayudarnos a manipular el código. Por ejemplo, si durante una
-revisión de código me doy cuenta de que el programador ha nombrado
-muchas de sus clases igual, puedo encontrar muchas de ellas fácilmente
+pueden ayudarnos a manipular el código. Como si durante una
+revisión de código me doy cuenta de que los programadores han nombrado 
+muchas de sus clases de la misma forma, puedo encontrarlas fácilmente
 usando las herramientas find, sed, sort, uniq y grep, por ejemplo:
 
 

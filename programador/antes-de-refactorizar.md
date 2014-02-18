@@ -49,7 +49,7 @@ algo no está roto, ¿para qué arreglarlo? Que el estilo o la estructura
 del código no se ajuste a tus preferencias personales no es una razón
 válida para reestructurarlo. Pesar que podrías hacer un mejor trabajo
 que el programador previo no es una razón válida tampoco.
-*La nueva tecnología es razón insuficiente para refactorizar. Una de las
+* La nueva tecnología es razón insuficiente para refactorizar. Una de las
 peores razones para refactorizar se debe a que el código actual está muy
 por detrás de las buenas tecnologías que tenemos hoy en día, y creemos
 que un nuevo lenguaje o framework puede hacer las cosas mucho más
