@@ -17,135 +17,40 @@ Things Every Software Project Manager Should Know][4]: En proyecto.
 - [97 cosas que todo Arquitecto de Software debería saber](/as), basado
 [97 Things Every Software Architect Should Know][5]: En proyecto.
 
-# LEEME para Contribuidores<sup>1</sup>
+##¿Deseas contribuir?
 
-Este es un how-to amigable para los contribuidores de la traducción de
-"97 cosas...".
+Hay mucho que hacer, al ser un proyecto abierto esperamos la
+contribución de quien quiera ayudar.
 
-# Guía del Contribuidor
+### Mandando incidencias (issues)
 
-Si quieres colaborar, basta con que hagas un _fork_ de este repositorio.
-La traducción está escrita como un sitio de [Jekyll][6], hospedada en
-páginas de GitHub. Está configurado para que puedes escribir las páginas
-en Markdown. Una [guía de markup](#gu%C3%ADa-markup) está más adelante.
+Puedes utilizar el gestor de incidencias de github del repositorio
+principal, aquí: https://github.com/esparta/97cosas/issues
 
-Los archivos de traducción están en estas carpetas:
-
-* programador/ ---> 97 cosas que todo programador
-* pm/  --> 97 cosas que todo Project Manager
-* as/  --> 97 cosas que todo Arquitecto de Software
-
-Todo está ligado en `index.md` en cada directorio.
-
-# Previsualizando el contenido
-
-Cuando haces _push_ a github (y hago un merge de ese _pull request_), el
-sitio oficial en http://97cosas.com queda automáticamente actualizado.
-
-Para generar y ver el sitio (con el correcto CSS, etc) con tu propia
-computadora, puedes instalar Jekyll y después ejecutarlo así:
-
-```bash
-# Jekyll se instala así: gem install jekyll
-cd ~/repos/97cosas  ##tu directorio donde se encuentra este repositorio
-jekyll --serve --auto
-# o
-jekyll serve --watch
-```
-
-Después navega hacia http://localhost:4000 para ver el contenido de la
-traducción. Si dejas el servidor ejecutándose, Jekyll regenerará
-automáticamente el sitio cuando éste cambie.
-
-# Mandando incidencias (issues)
-
-Si no quieres, o no puedes (por tiempo o lo que sea) mandar un _pull
-request_ también puedes utilizar el gestor de incidencias de github de
-el repositorio principal, aquí:
-https://github.com/esparta/97cosas/issues
-
-Será necesario indicar en qué página está el error y su corrección pertinente, por ejemplo:
+Será necesario indicar en qué página está el error y su corrección
+pertinente, por ejemplo:
 
 >En la página "programador/no-te-repitas.html"
 > dice: "parmetros"
 > debe decir: "parámetros"
 
-## Editando texto
+### Editando texto
 
-* Usamos líneas de un máximo de 80 caracteres (por [petición
-popular][7] y decisión del administrador: @esparta)
-* El código está indentado con 4 espacios.
-* El HTML/CSS está indentado con 2 espacios.
+Si quieres colaborar editando texto, basta con que hagas un _fork_ de
+este repositorio y empieces a trabajar en él. Por favor lee la
+[Guía del Contribuidor][6]
 
-En Vim, quizás desees esta configuración:
+### Difundiendo
 
-    set tabstop=4
-    set shiftwidth=4
-    set expandtab
-    set columns=80
-
-# Guía Markup
-
-```markdown
-# Sección de primer nivel
-
-## Sección de segundo nivel
-
-### Sección de tercer nivel
-
-#### Sección de cuarto nivel
+Existe mucha gente que podría verse beneficiada con este libro, pasa la
+voz. Ya sea en persona, correo, redes sociales o cualquier otro medio de
+comunicación.
 
 
-* Elemento de una lista
-  * sub-elemento
-  * sub-elemento 2
-* Segundo elemento
-
-1. Elemento de lista ordenada
-2. Elemento 2 de lista ordenada
-3. Elemento 3 de lista ordenada
-  * Sub-elemento 1
-  * Sub-elemento 2
-4. Elemento 4 de lista ordenada
-  1. Sub-elemento ordenado 1
-  2. Sub-elemento ordenado 2
-5. Elemento 4 de lista ordenada
-
-
-*énfasis de texto* para énfasis
-
-**texto en negritas** para negritas
-
-Obtén literales con `backticks`
-
-    O usa una identación de 4 espacios,
-    para obtener un bloque de código,
-    que luce bello.
-
-> Haz unas cuantas citas. Puedes realizar reflujo de texto tanto como
-quieras. El salto de línea es impresionante. Y hecho de triunfos.
-
-Hay varias formas de crear enlaces en Markdown, pero por legibilidad
-estamos usando los enlaces "abreviados", donde los links van al final
-del archivo:
-
-[enlaces para nerds][1]
-
-[enlace interno][2]
-
-[1]: http://slashdot.org
-[2]: no-te-repitas.html
-
-Esta es una división horizontal:
-
-******
-```
-<sup>1</sup>: Pirateado y traducido de aquí: http://opentechschool.github.io/python-data-intro/
 
 [1]: http://www.oreilly.com/
 [2]: http://creativecommons.org/licenses/by/3.0/us/deed.es
 [3]: http://programmer.97things.oreilly.com/wiki/index.php/97_Things_Every_Programmer_Should_Know
 [4]: http://pm.97things.oreilly.com/wiki/index.php/Main_Page
 [5]: http://softarch.97things.oreilly.com/wiki/index.php/Home_Page_for_97_Things
-[6]: http://jekyllrb.com/
-[7]: https://github.com/esparta/97cosas/issues/3
+[6]: CONTRIBUTING.md
