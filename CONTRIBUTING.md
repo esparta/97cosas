@@ -3,12 +3,27 @@
 Este es un how-to amigable para los editore de la traducción de
 "97 cosas...". <sup>1</sup>
 
-
-# Estructura de archivos
+## Breves lineamientos en la edición
 
 La traducción está escrita como un sitio de [Jekyll][1], hospedada en
 páginas de GitHub. Está configurado para que puedes escribir las páginas
-en Markdown. Una [guía de markup](#gu%C3 %ADa-markup) está más adelante.
+en [Markdown][2]. Una [guía de markup](#gu%C3 %ADa-markup) está más
+adelante.
+
+* Usamos líneas de un máximo de 80 caracteres (por [petición
+popular][3] y decisión del administrador: @esparta)
+* El código está indentado con 4 espacios.
+* El HTML/CSS está indentado con 2 espacios.
+* Los enlaces deberán ser al estilo "corto": `[Enlace][1]`
+
+En Vim, quizás desees esta configuración:
+
+    set tabstop=4
+    set shiftwidth=4
+    set expandtab
+    set columns=80
+
+## Estructura de archivos
 
 Los archivos de traducción están en estas carpetas:
 
@@ -19,7 +34,7 @@ Los archivos de traducción están en estas carpetas:
 Todo está ligado en `index.md` en cada directorio.
 
 
-# Previsualizando el contenido
+## Previsualizando el contenido
 
 Para generar y ver el sitio (con el correcto CSS, etc) con tu propia
 computadora, puedes instalar Jekyll y después ejecutarlo así:
@@ -31,35 +46,22 @@ jekyll --serve --auto
 # o
 jekyll serve --watch
 ```
-
 Después navega hacia http://localhost:4000 para ver el contenido de la
 traducción. Si dejas el servidor ejecutándose, Jekyll regenerará
 automáticamente el sitio cuando éste cambie.
 
-* Usamos líneas de un máximo de 80 caracteres (por [petición
-popular][2] y decisión del administrador: @esparta)
-* El código está indentado con 4 espacios.
-* El HTML/CSS está indentado con 2 espacios.
-
-En Vim, quizás desees esta configuración:
-
-    set tabstop=4
-    set shiftwidth=4
-    set expandtab
-    set columns=80
-
-# Enviando peticiones de actualización
+## Enviando peticiones de actualización
 
 Primero, deberás hacer los cambios locales en tu repositorio (ya sabes,
 `git add `, luego `git commit ...`), luego haz _push_ a github, toca
-hacer [_pull request_][3]) y es todo. Una vez que hago el _merge_ de esa
+hacer [_pull request_][4]) y es todo. Una vez que hago el _merge_ de esa
 petición, el sitio oficial en http://97cosas.com queda automáticamente
 actualizado.
 
 De preferencia envía un _pull request_ por archivo a modificar, así nos
 podemos organizar mejor.
 
-# Guía Markup
+## Guía Markup
 
 ```markdown
 # Sección de primer nivel
@@ -120,5 +122,6 @@ Esta es una división horizontal:
 
 
 [1]: http://jekyllrb.com/
-[2]: https://github.com/esparta/97cosas/issues/3
-[3]: https://help.github.com/articles/using-pull-requests
+[2]: http://daringfireball.net/projects/markdown/
+[3]: https://github.com/esparta/97cosas/issues/3
+[4]: https://help.github.com/articles/using-pull-requests
