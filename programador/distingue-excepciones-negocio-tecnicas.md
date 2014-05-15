@@ -52,7 +52,7 @@ En contraste a esas situaciones, tenemos la situación en la cual no
 puedes completar la llamada por una razón de dominio lógico. En este
 caso nos hemos encontrado una situación que es una excepción, es decir,
 una inusual e indeseable, pero no un error extraño o programático. Por
-ejemplo, si trato de retirar dinero de una cuenta con fondos
+ejemplo, tratar de retirar dinero de una cuenta con fondos
 insuficientes. En otras palabras, este tipo de situaciones es una parte
 del contrato, y lanzar una excepción es sólo una vía de retorno
 alternativa que es parte del modelo y que el cliente debería tener en
@@ -69,4 +69,3 @@ los casos ofrece claridad e incrementa la oportunidad de que las
 excepciones técnicas sean manejadas por algún framework de aplicaciones,
 mientras que las excepciones de dominio del negocio son consideradas y
 manejadas por el código del cliente.
-
