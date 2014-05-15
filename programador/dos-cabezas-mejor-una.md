@@ -20,9 +20,9 @@ de control de calidad y usuarios–.
 ¿Qué significa esto para los desarrolladores? Ser el experto técnico ya
 no es suficiente. Debes ser más efectivo trabajando con otros.
 
-La colaboración no se trata de preguntar y responder preguntas, o
-sentarse en reuniones. Se trata de arremangarse con alguien más para
-atacar conjuntamente el trabajo.
+La colaboración no se trata de preguntar y responder, o sentarse en
+reuniones. Se trata de arremangarse con alguien más para atacar
+conjuntamente el trabajo.
 
 Soy un gran admirador de la programación en pareja. Puedes llamar a esto
 “colaboración extrema”. Como desarrollador, mis habilidades crecen
@@ -49,7 +49,7 @@ trabajo de uno?”. Mi respuesta es que, en efecto, no debería. Argumento
 que el emparejamiento incrementa la calidad, el entendimiento del
 dominio y tecnología, técnicas (como los trucos del IDE) y mitiga el
 impacto del riesgo de lotería (uno de tus desarrolladores expertos se
-gana la lotería y renuncia el siguiente día).
+gana la lotería y renuncia al siguiente día).
 
 ¿Cuál es el valor a largo plazo de aprender un nuevo atajo del teclado?
 ¿Cómo medimos la mejora global de la calidad del producto resultante del
@@ -69,6 +69,3 @@ un experto.
 Si no estás convencido, experimenta: colabora con tus colegas. Haz
 pareja en un problema retorcido e interesante. Ve cómo se siente.
 Inténtalo unas cuantas veces.
-
-
-
