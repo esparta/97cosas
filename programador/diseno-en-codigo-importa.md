@@ -36,7 +36,7 @@ nombres adecuados para que nuestro código exprese, tan claramente como
 es posible, lo que hace; en lugar de sólo listar los pasos, ¿está bien?
 El diseño de código también es parte de esta expresividad. Un primer
 corte es tener el acuerdo del equipo en un formateo automático para lo
-básico, entonces podemos hacer ajustes manuales mientras estoy
+básico, entonces podemos hacer ajustes manuales mientras estamos
 codificando. A menos que haya un disensión activa, el equipo convergerá
 rápidamente en un estilo de “acabado manual” común. Un formateador no
 puede entender mis intenciones (debería saberlo, una vez codifiqué uno),
@@ -59,5 +59,3 @@ poesía. Tengo esa sensación en el código bueno, que todo en el texto
 tiene un propósito y está ahí para ayudarme a entender la idea.
 Desafortunadamente, escribir código no tiene la misma imagen romántica
 que escribir poesía.
-
-
