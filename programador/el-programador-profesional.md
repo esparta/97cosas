@@ -22,13 +22,13 @@ piensan que es trabajo de sus patrones entrenarlos. Lo siento, están
 tremendamente equivocados. ¿Crees que los médicos se comportan de esa
 manera? ¿Crees que los abogados se comportan de esa manera? No, ellos se
 entrenan en su propio horario, y con su propio dinero. Ellos gastan
-mucho de sus horas libres leyendo revistas y tomando decisiones. Se
+muchas de sus horas libres leyendo revistas y tomando decisiones. Se
 mantienen al día. Y así debemos hacerlo nosotros. La relación entre tú y
 tu empleador está escrita claramente en tu contrato. En breve: prometen
 pagarte y tú prometes hacer un buen trabajo.
 * Los profesionales asumen la responsabilidad del código que escriben. No
 liberan código a menos que sepan que funciona. Piensa en esto por un
-minuto. ¿Cómo puedes considerar llamarte profesional si estás esperando
+minuto. ¿Cómo puedes considerar llamarte profesional, si estás esperando
 liberar código del cuál no estás seguro? Los programadores profesionales
 esperan que QA no encuentre algo porque no liberan su código hasta que
 se ha probado completamente. Por supuesto, QA encontrará algunos
@@ -66,4 +66,3 @@ código funciona correctamente. Asumen la responsabilidad de la calidad
 de su mano de obra. No abandonan sus principios cuando los plazos se
 ciernen. De hecho, cuando la presión aumenta, los profesionales se
 aferran a las disciplinas que saben que son correctas.
-
