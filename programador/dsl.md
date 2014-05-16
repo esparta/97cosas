@@ -31,7 +31,7 @@ lenguaje natural. Es más fácil para los lenguajes que ofrecen azúcar
 sintáctica y posibilidades de formato (ej. Ruby y Scala) que para otros
 que no lo hacen (ej. Java). Muchos DSL internos envuelven API
 existentes, bibliotecas o código de negocio para proveer un contenedor
-con un acceso más alucinante a su funcionalidades. Son ejecutados con
+con un acceso más alucinante a sus funcionalidades. Son ejecutados con
 sólo correrlos. Dependiendo en la implementación y el dominio, son
 usados para construir estructuras de datos, definir dependencias,
 ejecutar procesos o tareas, comunicarse con otros sistemas o validar
