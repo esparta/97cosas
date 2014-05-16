@@ -34,7 +34,7 @@ Los “gurús” son humanos. Ellos aplican la lógica y el análisis
 sistemático de los problemas, como el resto de nosotros. Aprovechan los
 atajos mentales y la intuición. Considera al mejor programador que hayas
 conocido: en algún momento esa persona sabía menos acerca del software
-de lo que tú ahora mismo. Si alguien parece ser un gurú es debido a sus
+de lo que tú ahora mismo. Si alguien parece ser un gurú, es debido a sus
 años dedicados al aprendizaje y al perfeccionamiento de los procesos de
 pensamiento. Un “gurú” es simplemente una persona inteligente con
 curiosidad incesante.
@@ -55,6 +55,5 @@ hacerse por ego, o como una estrategia para incrementar el valor
 percibido por un cliente o por su empleador. Irónicamente, esta actitud
 puede hacer que las personas inteligentes sean menos valiosas debido a
 que no contribuyen al crecimiento de sus compañeros. No necesitamos
-gurús. Necesitamos expertos que estén dispuestos a desarrollar otros
+gurús. Necesitamos expertos que estén dispuestos a desarrollar a otros
 expertos en su campo. Hay espacio para todos nosotros.
-
