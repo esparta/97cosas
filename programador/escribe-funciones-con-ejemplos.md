@@ -35,7 +35,7 @@ conjunto que es nuestra función, así que para proveer una evidencia
 completa de que nuestra función es correcta necesitaríamos revisar al
 rededor de 4.3 × 10<sup>9</sup> ejemplos.
 
-Ésta es la esencia de la afirmación de que la pruebas no pueden probar
+Ésta es la esencia de la afirmación de que las pruebas no pueden probar
 la ausencia de errores. Sin embargo, las pruebas pueden demostrar la
 presencia de características. Pero aún tenemos este tema del tamaño.
 
@@ -50,7 +50,7 @@ alternativamente:
 
 Esto es mucho más manejable: la función calculada es ahora un conjunto
 con, cuando mucho, ocho miembros. De hecho, cuatro ejemplos seleccionados
-constituiría la evidencia de la certeza completa de que la función es
+constituirían la evidencia de la certeza completa de que la función es
 correcta. Ésta es la razón por la cual es una buena idea usar tipos
 estrechamente relacionados al dominio del problema para escribir
 programas, en vez de tipos nativos. Usar tipos inspirados en dominios a
@@ -58,4 +58,3 @@ menudo puede hacer que nuestras funciones sean mucho más pequeñas. Una
 forma de encontrar qué tipo sería es encontrar los ejemplos para
 comprobar en términos del dominio del problema, antes de escribir la
 función.
-
