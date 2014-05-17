@@ -12,7 +12,7 @@ engañarte a ti mismo y a unos pocos colegas al creer que estás
 contribuyendo mucho al proyecto al pasar largas horas en la oficina.
 Pero, la verdad, es que trabajando menos puedes lograr más, a veces
 mucho más. Si tratas de estar centrado y ser “productivo” por más de
-treinta horas a la semana entonces probablemente estás trabajando
+treinta horas a la semana, entonces probablemente estás trabajando
 demasiado duro. Debes considerar reducir la carga de trabajo para ser
 más eficaz y hacer más cosas.
 
@@ -29,7 +29,7 @@ comportamiento en consecuencia.
 La programación profesional no suele ser como correr duro durante unos
 cuantos kilómetros, donde la meta puede ser vista al final de un camino
 pavimentado. Muchos proyectos de software son más como un largo maratón
-orientado; en la obscuridad, con sólo un mapa esquemático como guía. Si
+orientado; en la oscuridad, con sólo un mapa esquemático como guía. Si
 acabas de salir hacia una dirección, corriendo tan rápido como puedas,
 podrías impresionar a algunos, pero no es probable que tengas éxito.
 Necesitas mantener un ritmo sostenido y ajustar el curso cuando se
@@ -47,8 +47,8 @@ Necesitas pasar tardes, fines de semana y días festivos educándote, por
 lo tanto, no puedes pasar tus tardes, fines de semana y días festivos
 trabajando tiempo extra en tu proyecto actual. ¿Realmente esperas que
 los neurocirujanos realicen cirugías 60 horas a la semana o que los
-pilotos vuelen 60 horas a la semana? Por supuesto que no, preparación y
-educación es una parte esencial de su profesión.
+pilotos vuelen 60 horas semanalmente? Por supuesto que no, la preparación
+y educación son parte esencial de su profesión.
 
 Enfócate en el proyecto, contribuye tanto como puedas encontrando
 soluciones inteligentes, mejora tus habilidades, reflexiona sobre lo que
