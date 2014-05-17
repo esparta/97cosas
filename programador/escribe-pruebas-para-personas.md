@@ -52,8 +52,7 @@ supuesto, en una copia privada que desecharás). Asegúrate que reporte
 los errores de manera significativa. También debes verificar que tus
 pruebas hablan claramente a una persona que trata de entender tu código.
 La única manera de hacerlo es tener a alguien que no está familiarizado
-con tu código para que lea tus pruebas y te diga que ha aprendido.
+con tu código para que lea tus pruebas y te diga qué ha aprendido.
 Escucha cuidadosamente lo que te diga. Si no entendió algo no es porque
 no sea muy brillante. Es más probable que tú no fueras muy claro.
 (¡Continúa e invierte los roles, lee sus pruebas!).
-
