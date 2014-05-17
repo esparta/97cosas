@@ -13,7 +13,7 @@ frameworks– por una serie de buenas razones:
 
 * Las aplicaciones crecen en tamaño, complejidad y sofisticación, mientras
 el tiempo para desarrollarlas decrece. Se hace un mejor uso del tiempo e
-inteligencia del desarrollador si pueden concentrarse en escribir más
+inteligencia del desarrollador, si pueden concentrarse en escribir más
 código del dominio del negocio y menos código de infraestructura
 * Los componentes y frameworks ampliamente utilizados con frecuencia
 tienen menos errores que aquellos desarrollados en casa.
@@ -45,7 +45,7 @@ número de herramientas, peor es el problema en el que puede convertirse.
 significa uno o más archivos XML, lo cual se sale de control muy rápido.
 La aplicación puede terminar como si fuese escrita toda en XML más unas
 cuántas líneas de código en algún lenguaje de programación. La
-complejidad en la configuración hará a la aplicación difícil de mantener
+complejidad en la configuración hará la aplicación difícil de mantener
 y de extender.
 * Ocurre un vendor-lock cuando el código que depende en gran medida en un
 proveedor específico termina siendo arriesgado por él en varias formas:
@@ -67,9 +67,7 @@ por ejemplo, usando algún middleware en vez de usar sockets para
 aplicaciones distribuidas. Y entonces agregar más si es necesario.
 También tiendo a aislar las herramientas externas de mis objetos de
 dominio del negocio con respecto a interfaces y capas de presentación,
-así puedo cambiar la herramienta si lo tengo que hacer con sólo una
+así puedo cambiar la herramienta, si lo tengo que hacer, con sólo una
 pequeña dosis de dolor. Un lado positivo de este enfoque es que
 generalmente termino con una aplicación más pequeña que usa menos
 herramientas externas de lo que originalmente se pronosticó.
-
-
