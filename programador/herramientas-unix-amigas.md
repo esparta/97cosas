@@ -39,7 +39,7 @@ ejemplo, he empleado la herramienta sed en la secuencia de comandos
 precedentes para modificar la construcción de un proyecto para la
 compilación cruzada en múltiples arquitecturas de procesador.
 
-Las herramientas Unix fueron desarrolladas en una época donde una
+Las herramientas Unix fueron desarrolladas en una época en la que una
 computadora multiusuario tenía 128kB de RAM. El ingenio que tuvo su
 diseño significa que en estos días pueden manejar enormes conjuntos de
 datos con extremada eficiencia. La mayoría de las herramientas trabajan
@@ -59,8 +59,8 @@ Unix ejecutados como _pipelines_, como el arriba descrito, distribuirá
 su carga con naturalidad a través de las muchas unidades de
 procesamiento de los CPU multi-core modernos.
 
-Su génesis en “pequeño es bello” y las implementaciones open source de
-las herramientas Unix las hacen disponibles ubicuamente, incluso en
+Su génesis en “pequeño es bello” y las implementaciones de software libre
+de las herramientas Unix las hacen disponibles ubicuamente, incluso en
 plataformas de recursos restringidos, como mi reproductor multimedia de
 la sala o el router DSL. Es poco probable que tales dispositivos
 ofrezcan una poderosa interface gráfica, pero frecuentemente incluyen la
