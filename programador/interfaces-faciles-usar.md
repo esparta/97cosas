@@ -24,7 +24,7 @@ Las buenas interfaces son:
 
 * Fáciles de usar correctamente. La gente que usa una interfaz bien
 diseñada casi siempre usa la interfaz correctamente, porque es la ruta
-de menor resistencia. En una Interface Gráfica de Usuario (GUI) siempre
+de menor resistencia. En una Interfaz Gráfica de Usuario (GUI) siempre
 hacen clic en el ícono, botón o entrada de menú correcta, debido a que
 es obvio y algo fácil de hacer. En una API casi siempre pasan los
 parámetros correctos con el valor correcto, debido a que es la manera
@@ -62,6 +62,3 @@ valores que el usuario quiere pasar.
 
 Sobre todo, recuerda que las interfaces existen para la conveniencia de
 sus usuarios, no la de sus implementadores.
-
-
-
