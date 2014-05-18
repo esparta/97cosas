@@ -8,8 +8,8 @@ original: http://programmer.97things.oreilly.com/wiki/index.php/Prevent_Errors
 ---
 
 Los mensajes de error son la interacción más crítica entre el usuario y
-el resto del sistema. Suceden cuando la comunicación entre el usuario y
-el sistema está cerca del punto de quiebre.
+el resto del sistema. Suceden cuando la comunicación, entre el usuario y
+el sistema, está cerca del punto de quiebre.
 
 Es fácil pensar que un error está siendo causado por una mala entrada de
 datos del usuario. Pero la gente comete errores de forma predecible y
