@@ -56,10 +56,10 @@ Algunas veces la otra persona simplemente no tendrá idea que lo
 encuentras incompatible con tu visión del producto. Me parece que es
 generalmente útil revertir ese “¿por qué?” hacia ti. Algunas veces el
 acto de expresar la razón hará más claro que tu primera reacción no
-tiene sentido. Si no, quizá necesites elevarlo a un nivel superior de
-tomadores de decisiones. Recuerda, la meta de todo esto es decir sí a la
-otra persona e intentar hacerlo funcionar, no sólo por él, sino también
-por ti y tu equipo.
+tiene sentido. De lo contrario, quizá necesites elevarlo a un nivel
+superior de tomadores de decisiones. Recuerda, la meta de todo esto es
+decir sí a la otra persona e intentar hacerlo funcionar, no sólo por él,
+sino también por ti y tu equipo.
 
 Si puedes expresar una irresistible explicación de por qué esa
 característica es incompatible con el producto existente, entonces es
@@ -68,4 +68,3 @@ el producto correcto. Sin importar cómo concluya esa conversación, todos
 se enfocarán más en qué es el producto y qué no lo es.
 
 Iniciar con un sí significa trabajar con tus colegas, no contra ellos.
-
