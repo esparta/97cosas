@@ -66,9 +66,8 @@ incluso divertido. Me reclinaré y tomaré mi té –¿mencioné que soy del
 Reino Unido?– y jugaré con tus ejemplos y aprenderé a usar tu creación.
 Si resuelve mi problema, te enviaré un correo de agradecimiento. Enviaré
 reportes de error cuando colapse y sugerencias de características
-también. Incluso le diré a todos mis amigos cómo es mejor tu software,
+también. Incluso le diré a todos mis amigos que es mejor tu software,
 aunque nunca probé el de tu rival. Y todo porque cuidaste mis primeros
 pasos tentativos.
 
 ¿Cómo pude haber dudado de ti?
-
