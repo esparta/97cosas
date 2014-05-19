@@ -17,10 +17,10 @@ las personas con las que trabajan. Afortunadamente hay un completo campo
 de estudio que puede ayudar.
 
 Por ejemplo, [Ludwig Wittgenstein][1] plantea un buen caso en
-“Philosophical Investigations” (y donde sea) que cualquier lenguaje que
+“Philosophical Investigations” (y donde sea): cualquier lenguaje que
 usamos para hablarnos no es, no puede ser, una formato de serialización
 para llevar un pensamiento o idea o imagen de la cabeza de una persona a
-la otra. Ya deberíamos estar en guardia en contra del malentendido
+otra. Ya deberíamos estar en guardia en contra del malentendido
 cuando “obtenemos requerimientos”. Wittgenstein también muestra que
 nuestra habilidad para entendernos del todo no surge de definiciones
 compartidas, surge de una experiencia compartida, de una forma de vida.
@@ -40,7 +40,7 @@ pila de protocolos, como algunos de alto nivel y otros de bajo nivel.
 Algo poderosamente metafórico: el usuario está “arriba” y la tecnología
 está “caída”. Esto expone nuestro pensamiento acerca de la estructura de
 los sistemas que construimos. Esto puede también marcar un flojo hábito
-de pensamiento del que nosotros deberíamos beneficiarnos de vez en vez.
+de pensamiento del que nosotros deberíamos beneficiarnos de vez en cuando.
 
 [Martin Heidegger][2] estudió de cerca la manera en que la gente
 experimenta herramientas. Los programadores construyen y usan
@@ -61,8 +61,8 @@ conveniente para nosotros. Los términos en predicado pueden ser
 convertidos fácilmente en atributos de una clase o columnas en una
 table. Este tipo de categorías son difíciles de entender, disjuntas y
 ordenas. Desafortunadamente, tal y como Rosh mostró en “Natural
-Categories” y trabajos posteriores, así no es cómo la gente entiende el
-mundo generalmente. Ellos lo entienden en formas basadas en ejemplos.
+Categories” y trabajos posteriores, la gente no entiende el mundo, en
+general, de esta forma. Ellos lo entienden en formas basadas en ejemplos.
 Algunos ejemplos, como los tan llamados prototipos, son mejores que
 otros y, por lo tanto, las categorías resultantes son difusas, se
 superponen y pueden tener una rica estructura interna. Mientras sigamos
