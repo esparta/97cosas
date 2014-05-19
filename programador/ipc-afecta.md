@@ -17,7 +17,7 @@ poco apreciadas, especialmente en las aplicaciones modernas. Mucha
 literatura de administración de rendimiento aún se enfoca en estructuras
 de datos y algoritmos, temas que pueden hacer una diferencia en algunos
 casos, pero que son mucho menos propensos a dominar el rendimiento en
-las modernas aplicaciones empresariales multi-capa.
+las modernas aplicaciones empresariales multicapa.
 
 Cuando el rendimiento es un problema en tales aplicaciones, mi
 experiencia ha sido que examinar estructuras de datos y algoritmos no es
@@ -55,7 +55,7 @@ así el número exacto de datos para el propósito a mano es intercambiado
 con la mínima cantidad de interacciones. Otra estrategia es paralelizar
 las IPC donde sea posible, así el tiempo de respuesta global es llevado
 principalmente por la latencia de IPC más larga. Una tercera estrategia
-es almacenar en caché de los resultados de IPC previos, así los futuros
+es almacenar en caché los resultados de IPC previos, así los futuros
 IPC pueden ser evitados al usar caché local en su lugar.
 
 Cuando estés diseñando una aplicación, ten en cuenta el número de IPC en
