@@ -27,7 +27,7 @@ dependiendo de tu punto de vista) debido a que están ahí, útiles y
 ampliamente aceptadas, no hay necesidad inmediata para hacer algo más.
 Sin embargo, cuando la parte interesada tiene que decidir qué acción
 agrega más valor, habrá muchos cosas que ranqueen más algo que la
-instalación apropiada de una solución provisional. ¿Porqué? Porque está
+instalación apropiada de una solución provisional. ¿Por qué? Porque está
 ahí, funciona y es aceptada. El único lado malo perceptible es que no
 sigue los estándares seleccionados y directrices elegidas, excepto en un
 pequeño nicho del mercado, esto no es considerado como una fuerza
@@ -37,9 +37,9 @@ Así que la solución provisional se mantiene en su lugar. Por siempre.
 
 Y si un problema surge con esa solución provisional, es poco probable
 que se provea una actualización que esté en línea con la calidad de
-producción aceptable. ¿Qué hacer? Una rápida actualización provisional
-en esa solución provisional a menudo hace el trabajo. Y será más común
-que sea bien recibida. Exhibe las mismas fortalezas que la solución
+producción aceptable. ¿Qué hacer? Una rápida actualización en esa
+solución provisional a menudo hace el trabajo. Y será más común que
+sea bien recibida. Exhibe las mismas fortalezas que la solución
 provisional inicial… Sólo está más actualizada.
 
 ¿Es esto un problema?
@@ -57,10 +57,10 @@ esta solución.
 
 1. Evitar crear una solución provisional en primer lugar.
 2. Cambiar las fuerzas que influencian la decisión del Administrador de
-Proyecto
+Proyecto.
 3. Dejarlo como está.
 
-Vamos a examinar éstas opciones más de cerca.
+Vamos a examinar estas opciones más de cerca.
 
 1. Eludir no funciona en la mayoría de los casos. Hay un problema a
 resolver y los estándares pasan a ser muy restrictivos. Puedes gastar
@@ -79,5 +79,3 @@ Crearás muchas soluciones, algunas serán provisionales, muchas serán
 hacerlas superfluas, proveer una más elegante y útil solución. Podrías
 recibir la serenidad de aceptar las cosas que no puedes cambiar, coraje
 para cambiar las cosas que puedes y sabiduría para saber la diferencia.
-
-
