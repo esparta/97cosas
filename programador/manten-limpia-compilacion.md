@@ -13,7 +13,7 @@ respecto, pero ahora no tengo tiempo”? Por otro lado, ¿alguna vez has
 visto esa solitaria advertencia que acaba de aparecer en una compilación
 y simplemente la arreglaste?
 
-Cuando inicio un nuevo proyecto desde cero, no hay advertencias, no hay
+Cuando inicio un nuevo proyecto desde cero no hay advertencias, no hay
 desorden, no hay problemas. Pero conforme crece la base de código, si no
 pongo atención, el desorden, las costras, las advertencias y los
 problemas pueden empezar a apilarse. Cuando hay mucho ruido, es más
@@ -38,7 +38,7 @@ el código que anteriormente estaba bien ahora emita advertencias. Por
 ejemplo, cuando Java 5 introdujo `generics` todo el código antiguo que
 no especificaba el parámetro de tipo generic nos daba una advertencia.
 Éste es el tipo de advertencias por las que no quiero ser molestado (al
-menos, todavía no). Tener un conjunto de advertencias que están fuera
+menos, todavía no). Tener un conjunto de advertencias que está fuera
 del camino de la realidad no le sirve a nadie.
 
 Al asegurarme de que la compilación está siempre limpia no tendré que
@@ -58,4 +58,3 @@ corrige las políticas de advertencia de tu herramienta. Mantener limpia
 la compilación no se trata sólo de mantenerla limpia de errores de
 compilación o fallos de pruebas: las advertencias son también una parte
 importante y fundamental de la higiene del código.
-
