@@ -24,7 +24,7 @@ Estoy segura de que has estado trabajando duro en esto. Me imagino, sin
 embargo, que no has olvidado nada importante. Dime, Joe, ¿tienes un
 hermano menor?
 —Sí. ¡Claro que sí! ¡Phil! Él está en tu clase de introducción. ¡Está
-aprendiendo a programar, también! —anunció Joe orgullosamente.
+aprendiendo a programar también! —anunció Joe orgullosamente.
 —Eso está muy bien —repliqué—. Me imagino que él pudo leer este código.
 —¡De ninguna manera! —dijo Joe—. ¡Esto es algo difícil!
 —Sólo supón —sugerí— que éste es un código de trabajo real y que en unos
@@ -34,7 +34,7 @@ mantenimiento. ¿Qué has hecho con él?
 Joe me miró parpadeando.
 
 —Sabemos que Phil es realmente inteligente, ¿verdad? —Joe asintió—. Y
-odio decirlo, pero ¡soy bastante inteligente, también! —Joe sonrió—. Así
+odio decirlo, pero ¡soy bastante inteligente también! —Joe sonrió—. Así
 que si no puedo entender fácilmente lo que has hecho aquí y tu muy
 inteligente hermano menor probablemente se rompa la cabeza con esto,
 ¿qué significa eso de lo que has escrito?
@@ -49,7 +49,7 @@ difícil problema. ¿Es esto lo que te gustaría imaginar? Que un
 programador inteligente en el futuro vea tu código y diga: “¡Wow! ¡Esto
 es genial! Puedo entender perfectamente qué ha hecho aquí y estoy
 impresionado, qué elegante, no, espera, qué hermosa pieza de código es
-esto. Voy a mostrárselo a los otros muchachos de mi equipo. ¡Ésta es una
+ésta. Voy a mostrárselo a los otros muchachos de mi equipo. ¡Ésta es una
 obra maestra!. Joe, ¿crees que podrías escribir un código que resuelva
 este difícil problema, pero sea tan bello que cantaría? Sí, igual que
 una melodía inquietante. Creo que cualquiera que pueda llegar con la muy
