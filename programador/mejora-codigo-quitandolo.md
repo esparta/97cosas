@@ -32,7 +32,7 @@ operación.
 
 Una experiencia sencilla y completamente satisfactoria.
 
-Así que ¿porqué terminó ahí ese código innecesario? ¿Porqué un
+Así que ¿por qué terminó ahí ese código innecesario? ¿Por qué un
 programador sintió la necesidad de escribir código adicional y cómo pasó
 la última revisión o el proceso entre pares? Es casi seguro que sucedió
 algo como esto:
@@ -55,4 +55,3 @@ requerimiento era en realidad falso. (Sugerencia: los programadores no
 establecen los requerimientos del sistema; el cliente sí).
 
 ¿En qué trabajas ahora mismo? ¿Es todo necesario?
-
