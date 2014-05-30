@@ -15,18 +15,15 @@ base, podemos, algunas veces, prevenir que nuestra aplicación aborte.
 Creemos que el estado resultante es “clavar el cuerpo en posición
 vertical”.
 
-Dejando a un lado lo frivolidad, realmente estaba resumiendo una lección
-que recibí de Doña Amarga Experiencia.
-
 Dejando a un lado la frivolidad, realmente estaba resumiendo una lección
 que recibí de Doña Amarga Experiencia. Era una clase base de nuestra
 aplicación, una biblioteca de C++ hecha en casa. El código había sido
-manoseado por muchos programadores en los últimos años, todas sucias.
-Contenían código para lidiar con todas las excepciones de escape de todo
-lo demás. Tomando el ejemplo de [Yossarian][1] de Catch-22, decidimos o,
-mejor dicho, sentimos (decidir implicaba, más bien, pensarlo que estar
-en la construcción de este monstruo) que una instancia de esta clase
-debería vivir para siempre o morir en el intento.
+manoseado por muchos programadores en los últimos años. Contenían código
+para lidiar con todas las excepciones de escape de todo lo demás. Tomando
+el ejemplo de [Yossarian][1] de Catch-22, decidimos o, mejor dicho,
+sentimos (decidir implicaba, más bien, pensarlo que estar en la
+construcción de este monstruo) que una instancia de esta clase debería
+vivir para siempre o morir en el intento.
 
 Al final, interconectamos múltiples manejadores de excepciones.
 Mezclamos excepciones estructuradas de Windows con las nativas
