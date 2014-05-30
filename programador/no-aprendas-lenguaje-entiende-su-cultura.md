@@ -16,9 +16,9 @@ inglés se habla sólo en zonas turísticas. Debido a mi ignorancia
 lingüística, me encontraba confinado en la piscina leyendo _Finnegans
 Wake_, de James Joyce, un tour de formas y lenguaje. Una mezcla lúdica
 de más de cuarenta idiomas, fue sorprendente, aunque una agotadora
-experiencia. Darme cuenta de cómo mezclando palabras y frases
-extranjeras le dieron al autor nuevas formas de expresarse es algo que
-he mantenido conmigo en mi carrera como programador.
+experiencia. Darme cuenta de cómo mezclar palabras y frases extranjeras
+le dio al autor nuevas formas de expresarse es algo que he mantenido
+conmigo en mi carrera como programador.
 
 En su libro, _The Pragmatic Programmer_ (_El Programador Pragmático_),
 Andy Hunt y Dave Thomas nos animan a aprender un nuevo lenguaje de
@@ -34,8 +34,8 @@ tienen sentido. No te apenes si la pasas difícil entendiendo las
 expresiones lambda usadas en lenguajes funcionales, oblígate a usarlas
 
 Una vez que hayas aprendido las trabas de un nuevo lenguaje, te
-sorprenderás de cómo empezar a usar lenguajes que ya sabías de nuevas
-maneras. Aprendí cómo usar eficazmente los `delegates` en C# programando
+sorprenderás al empezar a usar lenguajes que ya sabías de nuevas maneras.
+ Aprendí cómo usar eficazmente los `delegates` en C# programando
 en Ruby, liberar todo el potencial de los `generics` de .NET me dio
 ideas de cómo podría hacer más útiles los `generics` de Java y LINQ hizo
 fácil enseñarme Scala.
