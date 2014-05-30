@@ -15,7 +15,7 @@ atención, supongo.
 
 Me dolía la pierna, pero tenía prisa por ver a mis amigos. Así que me
 levanté y seguí. Conforme caminaba el dolor se ponía cada vez peor. A
-pesar de que al inicio lo desestimaría como una conmoción, me di cuenta
+pesar de que al inicio lo desestimaba como una conmoción, me di cuenta
 rápidamente de que había algo mal.
 
 Pero me apresuré hacia el bar de todos modos. Estaba en agonía en el
@@ -72,7 +72,7 @@ No manejar errores conduce a:
 
 - Código frágil. Código que se llena con errores excitantes y difíciles de
 encontrar.
-- Código inseguro. Los cracker frecuentemente explotan los pobres
+- Código inseguro. Los crackers frecuentemente explotan los pobres
 manejos de errores para irrumpir en los sistemas de software.
 - Estructura pobre. Si es un tedio enfrentar continuamente los errores
 que hay en tu código, probablemente tengas una pobre interfaz. Expresa
@@ -95,4 +95,3 @@ siempre funciona, `malloc` siempre retorna nueva memoria); si falla
 tenemos problemas mayores.
 - Es sólo un programa de juguete y no necesita ser escrito con un nivel
 digno de producción.
-
