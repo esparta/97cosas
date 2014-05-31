@@ -30,14 +30,14 @@ El tipo de fuga puede variar, pero, cuando sucede, puede ser mortal para
 la persona, equipo o compañía responsables. Los ejemplos incluyen:
 
 - Durante una junta para revisión de estatus, un cliente hace clic en un
-botón que todavía no ha sido implementado. El mensaje decía: “No hagas
+botón que todavía no ha sido implementado. El mensaje dice: “No hagas
 clic en eso de nuevo, idiota”. .
 - A un programador de mantenimiento de un sistema heredado se le había
 dicho que añadiera un mensaje de error y decidió usar la salida de
 registros “detrás de la escena” existentes para lograrlo. Los usuarios
 repentinamente se enfrentaban con mensajes como: “¡Santos errores de
 base de datos, Batman!”, cuando algo se descomponía.
-- Alguien confundió las pruebas con la interface de administración en vivo
+- Alguien confundió las pruebas con la interfaz de administración en vivo
 y hace una entrada de datos “graciosos”. Los clientes detectaron un
 “Masajeador personal con forma de Bill Gates” de $1 millón de dólares a
 la venta en su tienda en línea.
@@ -59,4 +59,3 @@ En resumen, cuando escribas cualquier texto en tu código –ya sea
 comentarios, registros, mensajes o datos de prueba– siempre pregúntate a
 ti mismo cómo se verá si se convierte en algo público. Esto te ahorrará,
 todo el tiempo, algunas caras rojas.
-
