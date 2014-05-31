@@ -50,8 +50,6 @@ hacer espacio a la cura. La actitud es contagiosa e inspirará a otros a
 empezar en los proyecto de limpieza que han estado posponiendo. Mantén
 una lista de “higiene” de las tareas que el equipo siente que valen la
 pena para el bien general del proyecto. Convence a la administración de
-que, a pesar de que estas tareas podría no producir resultados visibles,
+que, a pesar de que estas tareas podrían no producir resultados visibles,
 reducirán los gastos y agilizarán las futuras versiones. Nunca dejes de
 preocuparte por la “salud” general del código.
-
-
