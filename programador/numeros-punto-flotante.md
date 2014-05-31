@@ -43,9 +43,9 @@ Debido a que los números de punto flotante son aproximaciones de los
 números reales, inevitablemente hay un pequeño error presente. Este
 error, llamado redondeo, puede llevarnos a errores sorpresivos. Por
 ejemplo, cuando sustraes números cercanamente iguales, los dígitos más
-significantes se cancelan entre sí, entonces lo que era el dígito menos
-significante (donde reside el error de redondeo) es promovido a la
-posición más significante en el resultado de punto flotante,
+significativos se cancelan entre sí, entonces lo que era el dígito menos
+significativo (donde reside el error de redondeo) es promovido a la
+posición más significativa en el resultado de punto flotante,
 contaminando esencialmente cualquier cómputo relacionado (un fenómeno
 conocido como _smearing_). Necesitas mirar muy de cerca tus algoritmos
 para prevenir esa cancelación catastrófica. Para ilustrarlo, considera
@@ -75,4 +75,3 @@ decimales en lenguajes como Python y C#. Los números de punto flotante
 son para un cómputo científico eficiente. Pero la eficiencia es inútil
 sin precisión, ¡así que recuerda la fuente de los errores de redondeo y
 codifica en consecuencia!
-
