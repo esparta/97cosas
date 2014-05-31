@@ -8,7 +8,7 @@ original: http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Touch_th
 ---
 
 Nos ha pasado a todos en algún momento. Tu código fue llevado al
-servidor de staging para las pruebas del sistema y el director de
+servidor de _staging_ para las pruebas del sistema y el director de
 pruebas te lo regresa diciendo que tiene un problema. Tu primera
 reacción es “rápido, déjame arreglarlo, sé qué está mal”.
 
@@ -57,4 +57,3 @@ Después de enviarlo al SCC, ellos pasarán un parche desde ahí. Algunos
 de los mayores desastres de programación de los que he sido parte han
 tenido lugar porque alguien _ejeeemmm**yo**eejeeemm_ violó esta última
 regla. Si está descompuesto, producción no es el lugar para arreglarlo..
-
