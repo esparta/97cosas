@@ -23,7 +23,7 @@ _deadlocks_, _livelock_, etcétera. La respuesta parece obvia: ¡renunciar
 a la concurrencia o abstenerse de la memoria compartida!
 
 Olvidar la concurrencia casi seguramente no es una opción. Las
-computadoras tienes más y más núcleos de manera casi trimestral, por lo
+computadoras tienen más y más núcleos de manera casi trimestral, por lo
 que el aprovechamiento de cierto paralelismo se hace más y más
 importante. No nos podemos confiar tanto en cada incremento de la
 velocidad del procesador para mejorar el rendimiento de nuestra
@@ -32,7 +32,7 @@ poco probable que sea aceptable para los usuarios.
 
 Entonces, ¿podemos evitar la memoria compartida? Definitivamente.
 
-En vez de usar thread y memoria compartida como nuestro modelo de
+En vez de usar _threads_ y memoria compartida como nuestro modelo de
 programación, podemos usar procesos y el paso de mensajes. Los procesos
 aquí sólo significan un estado protegido e independiente con código
 ejecutándose, no necesariamente un proceso del sistema operativo.
@@ -65,6 +65,5 @@ Después de todo, no programar con memoria compartida y usar en vez de
 eso paso de mensajes es probablemente la forma más exitosa de
 implementar sistemas que aprovechan el paralelismo que es ahora endémico
 en el hardware de computación. Quizás extrañamente, pero a pesar de que
-los procesos son anteriores a los threads como unidad de concurrencia,
-el futuro parece estar en usar threads para implementar procesos.
-
+los procesos son anteriores a los _threads_ como unidad de concurrencia,
+el futuro parece estar en usar _threads_ para implementar procesos.
