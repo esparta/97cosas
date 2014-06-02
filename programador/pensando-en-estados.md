@@ -65,12 +65,12 @@ objetos cuidadosamente, en los lugares correctos.
 Sin embargo, ¿cómo empezar a pensar en estados? Extrayendo expresiones
 significativas a los métodos es un buen inicio, pero es sólo un
 comienzo. Las bases están en entender las [máquinas de estados][1]. Se
-que puedes tener malos recuerdos de tus clases de Ciencias
-Computacionales, pero déjalos atrás. Las máquinas de estados no son
-especialmente difíciles. Visualízalas para hacerlas simples de entender
-y fáciles de hablar de ellas. Haz tu código Test-drive para desentrañar
-los estados válidos e inválidos, las transiciones y mantenlas correctas.
-Estudia el [patrón State][2]. Cuando te sientas cómodo, lee sobre
+que puedes tener malos recuerdos de tus clases de Ciencias Computacionales,
+pero déjalos atrás. Las máquinas de estados no son especialmente difíciles.
+ Visualízalas para hacerlas simples de entender y fáciles de hablar de
+ellas. Haz tu código Test-drive para desentrañar los estados válidos e
+inválidos, las transiciones y mantenlas correctas. Estudia el
+[patrón State][2]. Cuando te sientas cómodo, lee sobre
 [Diseño por Contrato][3]. Esto ayuda a asegurarte un estado apropiado al
 validar los datos de entrada y los objetos por sí mismos al entrar y
 salir de cada método público.
