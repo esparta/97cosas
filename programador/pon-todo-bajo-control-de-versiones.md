@@ -67,5 +67,4 @@ de lo contrario se volverá impopular con los otros desarrolladores del
 proyecto.
 
 La vida bajo un control de versión es demasiado buena como para
-arruinarlo con errores fácilmente evitables.
-
+arruinarla con errores fácilmente evitables.
