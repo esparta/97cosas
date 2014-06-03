@@ -45,7 +45,7 @@ tenemos que volver a implementar alguno de los otros. Sin embargo, si
 `Empleado`es muy utilizado por muchas otras clases en otros componentes,
 entonces es probable que cada cambio a `Empleado` cause que los otros
 componentes tengan que volverse a implementar; negando así el mayor
-beneficio del diseño de componentes (o SOA si se prefiere un nombre más
+beneficio del diseño de componentes (o SOA, si se prefiere un nombre más
 de moda).
 
 
@@ -71,12 +71,12 @@ entrar en el componente de reglas de negocio.
 
 El lector astuto verá que aún existen dependencias en la solución
 anterior. Ese `Empleado` aún depende de las otras clases. Si se modifica
-`Empleado` es probable que las otras clases se tengan que volver a
+`Empleado`, es probable que las otras clases se tengan que volver a
 compilar e implementar. Por lo tanto `Empleado` no se puede modificar y
 después implementar independientemente. Sin embargo, las otras clases
 pueden ser modificadas e implementadas independientemente. Ninguna
 modificación de alguna clase puede forzar a cualquiera de los otras a
-ser recompiladas o re-implementadas. Incluso `Empleado` podría ser
+ser recompiladas o reimplementadas. Incluso `Empleado` podría ser
 implementada independientemente a través de un uso cuidadoso del
 Principio de Inversión de Dependencias (DIP), pero eso es un tema para
 [otro libro][1].
