@@ -16,7 +16,7 @@ llevando a la estación a subestimar el poder de los propulsores de la
 nave en un factor de 4.45.
 
 Éste es uno de los muchos ejemplos de fallas de software que se pudo
-haber prevenido si se hubiera aplicado un _tipado_ más fuerte y de
+haber prevenido, si se hubiera aplicado un _tipado_ más fuerte y de
 dominio específico. Es también un ejemplo del razonamiento detrás de
 muchas características del lenguaje Ada, uno de sus principales metas de
 diseño era implementar software de seguridad crítica embebida. Ada
@@ -48,7 +48,7 @@ con respecto a la calidad del código:
 dominio, no sólo flotantes o cadenas.
 * El código se vuelve más _testeable_ conforme encapsula su
 comportamiento, así es fácilmente probado.
-* El código facilita el reúso a través de aplicaciones y sistemas.
+* El código facilita la reutilización a través de aplicaciones y sistemas.
 
 El enfoque es igualmente válido para usuarios de ambos lenguajes de tipo
 estático y dinámico. La única diferencia es que los desarrolladores que
@@ -59,4 +59,3 @@ podría ser diferente, pero la motivación y estilo de expresión no.
 
 La moraleja es iniciar explorando los tipos de dominio específico con el
 fin de desarrollar software de calidad.
-
