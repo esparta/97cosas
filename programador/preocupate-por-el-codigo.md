@@ -38,15 +38,15 @@ excelente programador tienes que estar más arriba de las buenas
 intenciones y realmente preocuparte por el código, fomentar perspectivas
 positivas y desarrollar actitudes sanas. El gran código es
 cuidadosamente confeccionado por maestros artesanos, no hackeado
-irreflexivamente por programadores flojos o erigirse misteriosamente por
+irreflexivamente por programadores flojos o erigido misteriosamente por
 autoproclamados [gurús del código][1].
 
-Tú quieres escribir buen código. Quieres ser un bueno programador.
+Tú quieres escribir buen código. Quieres ser un buen programador.
 Entonces, te preocupas por el código:
 
 - En cualquier situación de codificación, te rehúsas a hackear algo que
-solo parece funcionar. Te esfuerzas para elaborar un código elegante que
-es claramente correcto (y tienes [buenas pruebas para mostrar que es
+sólo parece que funciona. Te esfuerzas para elaborar un código elegante
+que es claramente correcto (y tienes [buenas pruebas para mostrar que es
 correcto][2]).
 * Escribes código que es _descubrible_ (que otros programadores pueden
 tomarlo y entenderlo fácilmente), que es [mantenible][3] (que tú u otros
