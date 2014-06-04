@@ -8,7 +8,7 @@ original: http://programmer.97things.oreilly.com/wiki/index.php/Test_Precisely_a
 ---
 
 Es importante probar el comportamiento deseado y esencial de una unidad
-de código, en vez de probar por el comportamiento incidental de su
+de código, en vez de [probar el comportamiento incidental][1] de su
 implementación en particular. Pero esto no debería ser tomado, o mal
 tomado, como una excusa para las pruebas vagas. Las pruebas necesitan
 ser exactas y precisas.
@@ -56,7 +56,7 @@ para darte una buena prueba. Una buena prueba debe ser leíble. Debe ser
 comprensible y suficiente como para que leyéndola puedas ver si es
 correcta (o no). A menos que ya tengas código por ahí para checar que
 una secuencia se ordena y que esa secuencia contiene una permutación de
-valores en otra, es muy probable que el código de prueba será más
+valores en otra, es muy probable que el código de prueba sea más
 complejo que el código a probar. Como Tony Hoare observa: “Hay dos
 manera de construir un diseño de software: una manera es hacerlo tan
 simple que obviamente no hay deficiencias y la otra es construirlo tan
@@ -77,12 +77,13 @@ Los ejemplos concretos ayudan a ilustrar el comportamiento general de
 una manera accesible y no ambigua. El resultado de agregar un item a una
 colección vacía no es simplemente que no esté vacía: es que la colección
 ahora tiene un elemento y que ese elemento es el item agregado. Dos o
-más elementos calificarían como no vacío. Y también estaría mal. Un sólo
-elemento de un valor diferente también estaría mal. El resultado de
-agregar una fila a una tabla no es simplemente que la tabla es una fila
-más grande. Esto también implica que la llave para la fila puede ser
-usada para recuperar la fila agregada. Y así por el estilo.
+más elementos calificarían como no vacío. Y estaría mal. Un sólo elemento
+de un valor diferente también estaría mal. El resultado de agregar una
+fila a una tabla no es simplemente que la tabla es una fila más grande.
+Esto también implica que la llave para la fila puede ser usada para
+recuperar la fila agregada. Y así por el estilo.
 
 Al especificar el comportamiento, las pruebas deberían ser simplemente
 exactas: también deben ser precisas.
 
+[1]: prueba-comportamiento-requerido-no-incidental.html
