@@ -47,8 +47,8 @@ espaciado no debería ser significativo en la salida. Del mismo modo,
 amarrar el posicionamiento de botones y etiquetas en controles de
 Interfaz de Usuario (UI) reduce la opción de cambio y refina estas
 incidencias en el futuro. Los cambios menores en la implementación, así
-como los cambios insignificantes en el formato se vuelven de repente en
-cosas que rompen la construcción.
+como los cambios insignificantes en el formato se convierten de repente
+en cosas que rompen la compilación.
 
 Las pruebas sobre-especificadas son frecuentemente un problema con
 enfoques de “caja blanca” en las pruebas unitarias. Las pruebas de
