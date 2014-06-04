@@ -22,7 +22,7 @@ a tu favor.
 pruebas? Una de las razones principales de que los programadores no
 ejecutan los conjuntos de pruebas antes de hacer commit al código se
 debe a la cantidad de tiempo que puede tomar. Cuando las fechas límite
-se avecinan y la presión acecha, los humanos naturalmente empezamos
+se avecinan y la presión acecha, los humanos naturalmente empezamos a
 tomar atajos. Una forma de abordar esto es romper los largos conjuntos
 de pruebas en dos o más perfiles. Uno pequeño, un perfil de pruebas
 obligatorio que sea rápido de ejecutar, te ayudará a asegurarte de que
@@ -58,7 +58,7 @@ ciclo para capturar desagradables errores.
 Las pruebas automatizadas que se ejecutan durante la noche o fin de
 semana asegurarán que todas estas permutaciones son puestas a prueba con
 mayor frecuencia. Con un poco de pensamiento y algo de conocimiento de
-secuencias de comandos (scripting) puedes programar unos cuantos
+secuencias de comandos (_scripting_) puedes programar unos cuantos
 trabajos cron para poner en marcha algunas pruebas durante la noche y
 los fines de semana. Hay también muchas herramientas de prueba por ahí
 que podrían ser útiles. Algunas organizaciones incluso tienen granjas de
@@ -66,5 +66,3 @@ servidores que turnan servidores a través de diferentes departamentos y
 equipos para asegurar que los recursos son utilizados eficientemente. Si
 esto está disponible en tu empresa, puedes enviar las pruebas para que
 sean ejecutadas en la noche o durante los fines de semana.
-
-
