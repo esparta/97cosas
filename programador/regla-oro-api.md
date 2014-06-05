@@ -7,7 +7,7 @@ translator: Espartaco Palma
 original: http://programmer.97things.oreilly.com/wiki/index.php/The_Golden_Rule_of_API_Design
 ---
 
-El diseño de API es difícil, particularmente las grandes. Si estás
+El diseño de API es difícil, particularmente los grandes. Si estás
 diseñando una API que va a tener cientos o miles de usuarios, tienes que
 pensar qué podrías cambiar en el futuro y si los cambios pueden romper
 el código de tu cliente. Más allá de esto, tienes que pensar cómo te
@@ -29,13 +29,13 @@ tu código de formas que podrían restringir tus opciones más adelante.
 Todo esto parece razonable, pero ¿lo es realmente?
 
 En la última década nos hemos dado cuenta gradualmente de que las
-pruebas unitarias es una parte importante de la práctica, pero esa
+pruebas unitarias son una parte importante de la práctica, pero esa
 lección no ha penetrado completamente la industria. La evidencia está a
 nuestro alrededor. Toma arbitrariamente una clase que no ha sido probada
-y que use una API de terceros e intenta escribir una prueba unitaria
-para ella. La mayoría de las veces encontrarás problemas. Encontrarás
-que el código usando la API se pega a ella como con pegamento. No hay
-manera de impersonalizar las clases de la API para que puedas detectar
+y que use un API de terceros e intenta escribir una prueba unitaria
+para él. La mayoría de las veces encontrarás problemas. Encontrarás
+que el código usando el API se pega a él como con pegamento. No hay
+manera de impersonalizar las clases del API para que puedas detectar
 las interacciones de tu código con ellos o proporcionar valores de
 retorno para la prueba.
 
@@ -54,4 +54,3 @@ inherentemente malos constructos. A veces pueden ser útiles, pero es
 importante tener en cuenta el tema de las pruebas y, para lograrlo,
 tienes que experimentarlo tú mismo. Una vez que lo haces, puedes
 enfocarlo como lo harías con cualquier otro reto de diseño.
-
