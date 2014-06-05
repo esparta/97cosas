@@ -11,8 +11,8 @@ Los desarrolladores aman usar metáforas torturadoras cuando se trata de
 explicar a los miembros de su familia, esposas y otros no técnicos qué
 es lo que hacen. Con frecuencia recurrimos a la construcción de puentes
 y otras disciplinas de ingenierías “duras”. Todas estas metáforas caen
-rápidamente, sin embargo, cuando comienzas a intentar presionar hacia a
-ellas demasiado duro. Resulta que el desarrollo de software no es como
+rápidamente, sin embargo, cuando intentas presionar hacia a ellas
+demasiado duro. Resulta que el desarrollo de software no es como
 muchas de las otras disciplinas de la ingeniería, “duras” en muchos
 aspectos importantes.
 
@@ -24,9 +24,9 @@ bueno, era tiempo de regresar a la mesa de dibujo. Durante los últimos
 miles de años, los ingenieros han desarrollado las matemáticas y física
 que usan para una solución estructural sin tener que construirlo para
 ver lo que hace. No tenemos nada como eso en el software, y quizás
-nunca, porque el software es, de hecho, algo muy diferente. Para una
-exploración profunda de la comparación entre “ingeniería” de software y
-la ingeniería normal, lee el libro ["What's Software Design"][1],
+nunca lo tendremos, porque el software es, de hecho, algo muy diferente.
+Para una exploración profunda de la comparación entre “ingeniería” de
+software y la ingeniería normal, lee el libro ["What's Software Design"][1],
 escrito por Jack Reeves en C++ Journal en 1992, es un clásico. A pesar
 de que fue escrito hace casi dos décadas, es aún remarcablemente exacto.
 Él pintó un panorama sombrío en esta comparación, pero lo que faltaba en
