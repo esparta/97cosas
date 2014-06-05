@@ -34,7 +34,7 @@ de que si registras algo en la bitácora de errores, estás dispuesto a
 tener a alguien llamando y despertándote a la mitad de la noche por
 ello. Si puedes simular carga en tu sistema durante las pruebas, mirar
 en una bitácora de errores libre de ruido es también una buena primera
-indicación que tu sistema es razonablemente robusto. O una alerta
+indicación de que tu sistema es razonablemente robusto. O una alerta
 temprana si no lo es.
 
 Los sistemas distribuidos agregan otro nivel de complejidad. Tienes que
@@ -51,4 +51,3 @@ Una bitácora desordenada es un indicador de que el sistema será difícil
 de controlar una vez que llegue a producción. Si no esperas que nada se
 muestre en la bitácora de error, será mucho más fácil saber qué hacer
 cuando algo aparezca.
-
