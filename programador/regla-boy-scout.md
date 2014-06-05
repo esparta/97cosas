@@ -8,7 +8,7 @@ original: http://programmer.97things.oreilly.com/wiki/index.php/The_Boy_Scout_Ru
 ---
 
 Los Boy Scout tienen una regla: “Siempre deja el lugar de acampamento
-más limpio de que como lo encontraste”. Si encuentras un desastre en el
+más limpio que como lo encontraste”. Si encuentras un desastre en el
 piso, lo limpias sin importar quién pudo haber hecho el desastre.
 Mejoras intencionalmente el ambiente para el siguiente grupo de
 campistas. En realidad, la forma original de la regla, escrita por
@@ -33,7 +33,7 @@ al módulo debe estar limpio. Esto también significa que limpies, al
 menos, alguna otra cosa antes de que regreses el módulo. Podrías
 simplemente mejorar el nombre de una variable o separar una larga
 función en dos pequeñas. Podrías romper una dependencia circular o
-agregar una interface para desacoplar la política del detalle.
+agregar una interfaz para desacoplar la política del detalle.
 
 Francamente, esto me suena como decencia común, como lavarte las manos
 después de usar el baño o poner la basura en el bote en vez de tirarla
@@ -45,4 +45,3 @@ Pero es más que eso. El cuidado de nuestro propio código es una cosa.
 Tener cuidado del código del equipo es otra muy distinta. Los equipos se
 ayudan entre sí, y después se limpian entre ellos. Siguen la regla Boy
 Scout, porque es bueno para todos, no sólo para ellos.
-
