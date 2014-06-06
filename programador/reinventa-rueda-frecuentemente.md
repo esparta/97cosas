@@ -52,9 +52,8 @@ primera vez. ¡Hay lecciones aprendidas en la prueba y error que tienen
 un componente emocional que la lectura de un libro técnico no te puede
 ofrecer!
 
-Los hechos aprendidos y la inteligencia del libro son cruciales, pero
-convertirse en un gran programador es mucho más sobre adquirir
+Los hechos aprendidos y la información en los libros son cruciales,
+pero convertirse en un gran programador es mucho más sobre adquirir
 experiencia que la recolección de hechos. Reinventar la rueda es tan
 importante para la educación y habilidades de un desarrollador como lo
-es el levantamiento de pesas al fisicoculturista.
-
+es el levantamiento de pesas para el fisicoculturista.
