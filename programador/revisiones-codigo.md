@@ -20,7 +20,7 @@ práctica que puede ser descrita como arquitecto revisando todo. Está
 escrito en el manual del proceso de desarrollo de software, así que los
 programadores deben acatar. Puede ser que algunas organizaciones
 necesiten tal rigidez y procesos formales, pero muchas no. En la mayoría
-de las organizaciones ese enfoque es no productivo. Los revisados pueden
+de las organizaciones ese enfoque no es productivo. Los revisados pueden
 sentirse como que están siendo juzgados por una junta de libertad
 condicional. Los revisores necesitan tanto el tiempo para leer el código
 como el tiempo para estar al día con todos los detalles del sistema. Los
@@ -59,8 +59,8 @@ durante la junta de revisión de código.
 Hacer las revisiones de código divertidas es quizás el factor más
 importante para el éxito. Las revisiones se tratan de la gente en
 revisión. Si la junta de revisión es dolorosa o aburrida será más
-difícil motivar a cualquiera. Que sea una revisión de código informal
+difícil motivar a cualquiera. Que sea una revisión de código informal,
 cuyo propósito principal sea compartir conocimiento entre los miembros
 del equipo. Deja los comentarios sarcásticos fuera y trae un pastel o
-almuerzo de bolsa café en su lugar.
+almuerzo en bolsa café en su lugar.
 
