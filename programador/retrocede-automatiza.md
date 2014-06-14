@@ -48,7 +48,7 @@ el fin de automatizar**
 
 Puedes seguir con un lenguaje de shell decente (tales como bash o
 Powershell) y un sistema de automatización de compilación. Si necesitas
-interactuar con un sitio web usa herramientas como iMacros o Selenium.
+interactuar con un sitio web, usa herramientas como iMacros o Selenium.
 
 **Concepto erróneo común #4: No puedo automatizar esta tarea porque no
 puedo manejar este tipo de formato**
