@@ -26,10 +26,10 @@ mucho más lejos del trabajo consistente.
 
 Es natural, sobre todo cuando estás apresurado, que sólo quieres hacer
 los menores cambios a un bloque de código existente, aunque sea
-horrible. Muchos programadores preservan mal código, temiendo que
-iniciando de nuevo requerirá mucho más esfuerzo que sólo comenzar. Esto
-puede ser cierto para el código que está cerca de ser funcional, pero
-hay algunos códigos que están más allá de toda ayuda.
+horrible. Muchos programadores preservan mal código, temen que
+iniciar de nuevo requerirá mucho más esfuerzo que continuar donde se
+quedaron. Esto puede ser cierto para el código que está cerca de ser
+funcional, pero hay algunos códigos que están más allá de toda ayuda.
 
 Se desperdicia más tiempo en tratar de salvar un mal código del que se
 debería. Una vez que algo se vuelve un sumidero de recursos, necesita
@@ -53,6 +53,6 @@ accidentalmente y que obscurece el flujo. Ocultando las cosas
 importantes.
 
 Por supuesto, si no lo logra, entonces sólo borra todo y escríbelo una
-vez más. Iniciar a diseñar desde lo recordado a menudo puede ayudar a
+vez más. Iniciar el diseño desde lo recordado a menudo puede ayudar a
 cortar una gran cantidad de desorden innecesario.
 
