@@ -29,16 +29,16 @@ ti o a cualquier otro programador qué es lo que está haciendo?
 
 Podrías decir: “Oh, mis comentarios te dirán todo lo que necesitas
 saber”. Pero recuerda que los comentarios no son código en ejecución.
-Pueden ser tan malos como cualquier otra forma de documentación. Ha
-habido una tradición que dice que los comentarios son incondicionalmente
-algo bueno, así que algunos programadores escriben más y más
-comentarios, incluso reiniciando y explicando trivialidades que son
-obvias en el código. Ésa es la forma errónea de clarificar tu código. Si
-tu código tiene comentarios, considera refactorizar para que no los
-tenga. Los comentarios extensos pueden saturar el espacio en la pantalla
-e incluso pueden ser ocultados automáticamente por tu IDE. Si necesitas
-explicar un cambio, hazlo en el mensaje de confirmación del sistema de
-control de versiones, no en el código.
+Pueden ser tan malos como cualquier otra forma de documentación. Existe
+una tradición que dice que los comentarios son incondicionalmente algo
+bueno, así que algunos programadores escriben más y más comentarios,
+incluso reiniciando y explicando trivialidades que son obvias en el
+código. Ésa es la forma errónea de clarificar tu código. Si tu código
+tiene comentarios, considera refactorizar para que no los tenga. Los
+comentarios extensos pueden saturar el espacio en la pantalla e incluso
+pueden ser ocultados automáticamente por tu IDE. Si necesitas explicar
+un cambio, hazlo en el mensaje de confirmación del sistema de control
+de versiones, no en el código.
 
 ¿Qué se puede hacer para hacer que tu código diga la verdad lo más claro
 posible? Lucha por buenos nombres. Estructura tu código con respecto a
