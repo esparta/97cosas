@@ -58,7 +58,7 @@ algo digno de limpieza. Lo refactoricé y escribí unas cuantas pruebas
 unitarias, sólo para estar seguro de que aún funcionaba
 
 Cuando terminé, me sentía satisfecho con el resultado. La nueva versión
-era fácil de leer, de la mitad del tamaño y más preciso debido a que el
+era fácil de leer, de la mitad del tamaño y más precisa debido a que el
 código original sólo probaba los límites superiores de las horas,
 minutos y segundos.
 
