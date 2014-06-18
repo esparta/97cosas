@@ -20,7 +20,7 @@ la secretaria de la empresa. Margaret era una señora muy agradable que
 mantenía la oficina funcionando e intentaba enseñar a un par de jóvenes
 programadores cómo comportarse profesionalmente frente a los clientes.
 Ella también tenía el don de encontrar cualquier error, no importa lo
-obscuro, en cuestión de minutos.
+oscuro, en cuestión de minutos.
 
 En ese entonces estaba trabajando en un programa escrito por un contador
 que pensaba que era un programador. No es necesario decirlo, tenía
@@ -37,14 +37,14 @@ ayudado a encontrarlos y arreglarlos primero.
 
 Es por eso que digo que los _testers_ son tus amigos. Puedes pensar que
 te hacen ver mal al reportar cuestiones triviales. Pero cuando los
-clientes están emocionados cuando no son molestados por todas esas
+clientes están emocionados por no ser molestados con todas esas
 “pequeñas cosas” que QC te hizo corregir, entonces te verás bien. ¿Ves a
 lo que me refiero?
 
 Imagínate esto: estás revisando una utilería que usa “los más
 prometedores algoritmos de inteligencia artificial” para encontrar y
 solucionar problemas de concurrencia. Lo inicias e inmediatamente notas
-que han mal escrito “inteligencia” en la pantalla de inicio. Un poco
+que han escrito mal “inteligencia” en la pantalla de inicio. Un poco
 optimista, pensarás: es sólo un error de dedo, ¿verdad? Entonces notas
 que la pantalla de configuración usa varias casillas que deberían ser
 botones de radio y algunos de los atajos de teclado no funcionan. Ahora
