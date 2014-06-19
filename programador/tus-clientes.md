@@ -40,7 +40,7 @@ mismo tema en conversaciones separadas. Casi siempre te dirán historias
 diferentes, las cuales descubrirán hechos separados pero relacionados.
 Dos personas hablándote sobre el mismo tema se contradicen
 frecuentemente. Tu mayor oportunidad de éxito es discutir a fondo las
-diferencias antes de comenzar la elaboración de tu ultra-complejo
+diferencias antes de comenzar la elaboración de tu ultracomplejo
 software.
 
 Haz uso de ayudas visuales en tus conversaciones. Esto podría ser tan
@@ -55,12 +55,12 @@ En una vida anterior era un “programador multimedia” en un equipo que
 producía proyectos ostentosos. Un cliente nuestro describió sus
 pensamientos con el look & feel del proyecto con gran detalle. El
 esquema general de colores discutido en las reuniones de diseño
-indicaban un fondo negro para la presentación. Pensábamos que lo
-teníamos hecho. Los equipos de diseñadores gráficos comenzaron a
-producir cientos de capas de archivos gráficos. Un montón de tiempo fue
-invertido moldeando el producto final. Una sorprendente revelación fue
-hecha el día en que mostramos al cliente el fruto de nuestra labor. Al
-ver el producto, las palabras exactas sobre el color de fondo fueron:
+indicaba un fondo negro para la presentación. Pensábamos que lo teníamos
+hecho. Los equipos de diseñadores gráficos comenzaron a producir cientos
+de capas de archivos gráficos. Un montón de tiempo fue invertido
+moldeando el producto final. Una sorprendente revelación fue hecha el
+día en que mostramos al cliente el fruto de nuestra labor. Al ver el
+producto, las palabras exactas sobre el color de fondo fueron:
 “Cuando dije negro, me refería a blanco”. Así que, ya ves, nunca es
 tan claro como el blanco y negro.
 
