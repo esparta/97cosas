@@ -31,7 +31,7 @@ La regla es sencilla: compila un sólo binario que puedas identificar y
 promover a través de todas las etapas en la línea de liberación. Mantén
 detalles específicos del entorno en el ambiente. Esto podría significar,
 por ejemplo, mantenerlos en el contenedor de componentes, en un archivo
-conocido, o en la ruta.
+conocido o en la ruta.
 
 Si tu equipo tiene un revoltijo de código para compilar o almacenar
 todas las configuraciones destino en el código, esto sugiere que nadie
@@ -46,10 +46,10 @@ aplica para la mayoría de nosotros que estamos escribiendo aplicaciones
 de “bases de datos a pantalla y de regreso”. Alternativamente, podrías
 estar viviendo con algún desorden heredado que es muy difícil de
 corregir ahora mismo. En tales casos, tienes que mover gradualmente,
-pero empezarlo tan pronto como sea posible.
+pero empezar tan pronto como sea posible.
 
-Una cosa más: [mantén la información del entorno en algún control de
-versiones](pon-todo-bajo-control-de-versiones) . No hay nada peor que
+Una cosa más: [mantén la información del entorno con algún control de
+versiones](pon-todo-bajo-control-de-versiones). No hay nada peor que
 romper una configuración de entorno y no ser capaz de imaginarte qué
 cambió. La información de entorno debería ser versionada separadamente
 del código, ya que cambiará a diferentes periodos y por diferentes
