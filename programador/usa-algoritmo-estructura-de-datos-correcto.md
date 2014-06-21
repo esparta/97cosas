@@ -1,6 +1,6 @@
 ---
 layout: programador
-title: Usa el algoritmo y estructura de datos correcto
+title: Usa el algoritmo y estructura de datos correctos
 overview: true
 author: JC van Winkel
 translator: Espartaco Palma
