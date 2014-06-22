@@ -13,7 +13,7 @@ representación única. En otras palabras, el conocimiento debería estar
 contenido en una implementación única. La antítesis de DRY es WET (Write
 Every Time, escríbelo todas las veces). Nuestro código es WET cuando el
 conocimiento es codificado en varias distintas implementaciones. Las
-implicaciones de rendimiento de DRY versus WET queda claro cuando
+implicaciones de rendimiento de DRY versus WET quedan claras cuando
 consideras los numerosos efectos en un perfil de rendimiento.
 
 Comenzamos considerando una característica en nuestro sistema, digamos
@@ -52,17 +52,17 @@ Al exponer esta colección en bruto a los clientes, hemos violado la
 encapsulación. Esto no sólo limita nuestra habilidad para refactorizar,
 obliga a los usuarios de nuestro código a violar el principio DRY al
 tener cada uno de ellos que reimplementar potencialmente la misma
-consulta. Esta situación puede ser fácilmente evitada al quitar la
+consulta. Esta situación se puede evitar fácilmente al quitar la
 colección en bruto del API. En este ejemplo podemos introducir un nuevo
 tipo de colección de dominio específico llamado `CustomerList`. Esta
 nueva clase es más semántica en la línea de nuestro dominio. Actuará
 como una casa natural para todas nuestras consultas.
 
-Tener esta nueva colección nos permitirá ver fácilmente si esta consulta
-es un cuello de botella en el rendimiento. Al incorporar las consultas
-en la clase eliminamos la necesidad de exponer las elecciones de
-representación, tales como `Arraylist`, a nuestros clientes. Esto nos da
-la libertad de alterar esta implementación sin el miedo de violar los
+Tener esta nueva colección nos permitirá ver de forma sencilla si esta
+consulta es un cuello de botella en el rendimiento. Al incorporar las
+consultas en la clase eliminamos la necesidad de exponer las elecciones
+de representación, tales como `Arraylist`, a nuestros clientes. Esto nos
+da la libertad de alterar esta implementación sin el miedo de violar los
 contratos de los clientes:
 
     public class CustomerList {
@@ -84,11 +84,11 @@ contratos de los clientes:
     }
 
 En este ejemplo, la adherencia a DRY nos permite introducir un esquema
-de índice alterno con `SortedList` con una llave en el nivel de gasto de
-nuestros clientes. Más importante que los detalles específicos de este
-ejemplo, en particular, seguir el principio DRY nos ayuda a encontrar y
-reparar cuellos de botella en el rendimiento que habrían sido más
-difíciles de encontrar si el código fuera WET.
+de índice alterno con `SortedList` usando una llave en el nivel de gasto
+de nuestros clientes. Más importante que los detalles específicos de
+este ejemplo, en particular, seguir el principio DRY nos ayuda a
+encontrar y reparar cuellos de botella en el rendimiento que habrían
+sido más difíciles de encontrar si el código fuera WET.
 
 
 [1]: no-te-repitas.html
