@@ -1,16 +1,19 @@
 ---
 layout: main
 overview: true
-title: 97cosas.com
+title: 97 Cosas
 ---
 
-Este es el proyecto de traducción al español de la serie de libros "97 cosas...", creados por la editorial [O'Reilly][1], los cuales, gracias a su licencia [Creative Commons Attribution 3][2], nos es posible traducir libremente. Es un esfuerzo compartido para poner a disposición de toda el habla hispana el contenido que actualmente sólo se encuentra en inglés.
+Este es el proyecto de traducción al español de la serie de libros **"97 cosas..."**, creados por la editorial [O'Reilly][1], los cuales, gracias a su licencia [Creative Commons Attribution 3][2], nos es posible traducir libremente.
 
-Se tienen tres libros disponibles:
+Es un esfuerzo compartido para poner a disposición de toda el habla hispana el contenido que actualmente sólo se encuentra en inglés.
 
-- [97 cosas que todo programador debería saber](/programador), basado en [97 Things Every Programmer Should Know][3]: **Completado**.
-- [97 cosas que todo Project Manager debería saber](/pm), basado en [97 Things Every Software Project Manager Should Know][4]: En proyecto.
-- [97 cosas que todo Arquitecto de Software debería saber](/as), basado [97 Things Every Software Architect Should Know][5]: En proyecto.
+##Libros completamente traducidos:
+- [97 cosas que todo programador debería saber](/programador), basado en este [libro][3].
+
+##Libros en progreso:
+- [97 cosas que todo Project Manager debería saber](/pm), basado en este [libro][4].
+- [97 cosas que todo Arquitecto de Software debería saber](/as), basado en este [libro][5].
 
 [1]: http://www.oreilly.com/
 [2]: http://creativecommons.org/licenses/by/3.0/us/deed.es
