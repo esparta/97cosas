@@ -1,10 +1,9 @@
 ---
 layout: programador
-title: 97 cosas que todo programador debería saber
 overview: true
 ---
 
-Traducción al Español del libro "[97 Things Every Programmer Should Know](http://programmer.97things.oreilly.com/wiki/index.php/97_Things_Every_Programmer_Should_Know)", contiene todo tipo de consejos y recomendaciones para los profesionales de la programación informática: refactorización, código limpio, pruebas, aprendizaje contínuo, etc.
+Traducción al español del libro "[97 Things Every Programmer Should Know](http://programmer.97things.oreilly.com/wiki/index.php/97_Things_Every_Programmer_Should_Know)", contiene todo tipo de consejos y recomendaciones para los profesionales de la programación informática: refactorización, código limpio, pruebas, aprendizaje contínuo, etc.
 
 Este sitio es la continuación del esfuerzo de Natán Calzolari (inicialmente en http://97cosas.com.ar), a quien agradezco de su iniciativa.
 
