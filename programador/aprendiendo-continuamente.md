@@ -77,5 +77,5 @@ del trabajo.
 
 La tecnología cambia rápidamente. No te quedes atrás.
 
-[1]: http://www.pragprog.com/titles/tpp/the-pragmatic-programmer
+[1]: https://pragprog.com/book/tpp/the-pragmatic-programmer
 
