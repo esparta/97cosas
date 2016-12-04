@@ -30,8 +30,8 @@ _n ln(n)_, n<sup>e</sup> y e<sup>n</sup>. Al graficar estas funciones se
 muestra claramente cómo conforme _n_ se incrementa, _O(ln(n))_ es
 siempre mucho más pequeña que _O(n)_ y _O(n ln(n))_, las cuales son cada
 vez más pequeñas que _O(ne)_ y O(en). Como decía Sean Parent, para
-lograr *n* todas las clases de complejidad se acumulan casi constamente,
-casi lineal o casi al infinito.
+lograr *n* todas las clases de complejidad se acumulan casi
+constantemente, casi lineal o casi al infinito.
 
 <a href="assets/img/complexity_classes.jpeg"><img
 src="assets/img/complexity_classes.jpeg" alt="Algunos tipo de complejidad
