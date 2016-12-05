@@ -62,7 +62,7 @@ consistencia.
 10. En general, cada unidad de código, desde un bloque hasta una
 biblioteca, debería tener una interface rala. Menos comunicación reduce
 el razonamiento requerido. Esto significa que los getters que regresan
-estados internos son una liabilidad –no pidas a un objeto la
+estados internos son una responsabilidad –no pidas a un objeto la
 información que ya tiene–. En otras palabras, la encapsulación es todo
 sobre interfaces limitadas.
 11. Para poder preservar las clases invariantes, el uso de setters no
