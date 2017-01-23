@@ -1,29 +1,17 @@
-
-     <div class="navbar navbar-inverse navbar-fixed-top">
-      <div class="navbar-inner">
-        <div class="container-fluid">
-          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="brand" href="/">97 Cosas</a>
-          <div class="nav-collapse collapse">
-            <ul class="nav">
-              {% if page.url == "/programador/index.html" %}
-                <li class="active">{% else %}<li>
-              {% endif %}
-                <a href="/programador/">Programador</a></li>
-              {% if page.url == "/pm/index.html" %}
-                <li class="active">{% else %}<li>
-              {% endif %}
-                <a href="/pm/">Project Manager</a></li>
-              {% if page.url == "/as/index.html" %}
-                <li class="active">{% else %}<li>
-              {% endif %}
-                <a href="/as/">Arquitecto de Software</a></li>
-            </ul>
-          </div><!--/.nav-collapse -->
-        </div>
-      </div>
-    </div>
+<div class="header">
+  <ul class="nav nav-pills pull-right">
+    {% if page.url == "/programador/index.html" %}
+      <li class="active">{% else %}<li>
+    {% endif %}
+      <a href="/programador/">Programador</a></li>
+    {% if page.url == "/project-manager/index.html" %}
+      <li class="active">{% else %}<li>
+    {% endif %}
+      <a href="/project-manager/">Project Manager</a></li>
+    {% if page.url == "/arquitecto-software/index.html" %}
+      <li class="active">{% else %}<li>
+    {% endif %}
+      <a href="/arquitecto-software/">Arquitecto de Software</a></li>
+  </ul>
+  <h3 class="text-muted"><a href="/">97 Cosas</a></h3>
+</div>

@@ -1,17 +1,17 @@
 ---
-layout: libro
+layout: book
 ---
 
-<div class="page-header">
-    <h1> 97 cosas que todo programador debería saber {% include socialnetworkbuttons.html %}</h1>
-</div>
+{% if page.url == "/programador/index.html" %}
+  <div class="page-header">
+    <h1>97 cosas <small>que todo programador debería saber</small></h1>  {% include socialnetworkbuttons.html %}
+  </div>
+{% endif%}
 
 {% if page.author %}
-
-<h2>{{ page.title }} <br>
-    <small>Autor: {{ page.author}}</small></h2>
-
+  <h2>{{ page.title }} <small>por {{ page.author}}</small></h2>
+{% else %}
+  <h2>{{ page.title }}</h2>
 {% endif %}
+
 {{ content }}
-
-
