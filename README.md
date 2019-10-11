@@ -1,4 +1,4 @@
-97cosas.com
+
 =======
 
 Este es el proyecto de traducción al español de la serie de libros "97
@@ -48,9 +48,9 @@ comunicación.
 
 
 
-[1]: http://www.oreilly.com/
-[2]: http://creativecommons.org/licenses/by/3.0/us/deed.es
-[3]: http://programmer.97things.oreilly.com/wiki/index.php/97_Things_Every_Programmer_Should_Know
-[4]: http://pm.97things.oreilly.com/wiki/index.php/Main_Page
-[5]: http://softarch.97things.oreilly.com/wiki/index.php/Home_Page_for_97_Things
+[1]: https://www.oreilly.com/
+[2]: https://creativecommons.org/licenses/by/3.0/us/deed.es
+[3]: https://web.archive.org/web/20180428150135/http://programmer.97things.oreilly.com/wiki/index.php/97_Things_Every_Programmer_Should_Know
+[4]: https://web.archive.org/web/20180511015742/http://pm.97things.oreilly.com/wiki/index.php/Main_Page
+[5]: https://web.archive.org/web/20140602094359/http://softarch.97things.oreilly.com/wiki/index.php/Home_Page_for_97_Things
 [6]: CONTRIBUTING.md
