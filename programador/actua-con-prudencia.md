@@ -4,7 +4,7 @@ title: Actúa con prudencia
 overview: true
 author: Seb Rose
 translator: Natán Calzolari
-original: http://programmer.97things.oreilly.com/wiki/index.php/Act_with_Prudence
+original: https://web.archive.org/web/20150802071128/http://programmer.97things.oreilly.com/wiki/index.php/Act_with_Prudence
 ---
 
 >“En todo lo que emprendas, actúa con prudencia y considera las consecuencias”
@@ -56,4 +56,4 @@ pero deberás hacerlo.
 Paga la deuda técnica tan pronto como puedas; sería imprudente no
 hacerlo.
 
-[1]: http://martinfowler.com/bliki/TechnicalDebtQuadrant.html
+[1]: https://web.archive.org/web/20190301212249/https://martinfowler.com/bliki/TechnicalDebtQuadrant.html

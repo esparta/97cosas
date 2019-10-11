@@ -4,7 +4,7 @@ title: Aplica los principios de la programación funcional
 overview: true
 author: Edward Garson
 translator: Natán Calzolari
-original: http://programmer.97things.oreilly.com/wiki/index.php/Apply_Functional_Programming_Principles
+original: https://web.archive.org/web/20150105210542/http://programmer.97things.oreilly.com/wiki/index.php/Apply_Functional_Programming_Principles
 ---
 
 Recientemente, la comunidad programadora ha demostrado un renovado
@@ -72,5 +72,5 @@ afirman que, en el fondo, los paradigmas de programación funcional y
 orientada a objetos no son más que un mero reflejo el uno del otro, una
 especie de yin y yang computacional.
 
-[1]: http://www.jmock.org/oopsla2004.pdf
+[1]: https://web.archive.org/web/20150905131917/http://www.jmock.org/oopsla2004.pdf
 

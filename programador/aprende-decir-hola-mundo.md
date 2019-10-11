@@ -4,7 +4,7 @@ title: Aprende a decir "Hola, Mundo"
 overview: true
 author: Thomas Guest
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Learn_to_Say_%22Hello%2C_World%22
+original: https://web.archive.org/web/20150114191134/http://programmer.97things.oreilly.com/wiki/index.php/Learn_to_Say_%22Hello%2C_World%22
 ---
 
 Paul Lee, nombre de usuario “leep”, comúnmente conocido como Hoppy,

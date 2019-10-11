@@ -4,7 +4,7 @@ title: Antes de Refactorizar
 overview: true
 author: Rajith Attapattu
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Before_You_Refactor
+original: https://web.archive.org/web/20150116015105/http://programmer.97things.oreilly.com/wiki/index.php/Before_You_Refactor
 ---
 
 En algún punto todo programador necesitará refactorizar código

@@ -4,7 +4,7 @@ title: Adueñate (y Refactoriza) la compilación
 overview: true
 author: Steve Berczuk
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Own_%28and_Refactor%29_the_Build
+original: https://web.archive.org/web/20150114191242/http://programmer.97things.oreilly.com/wiki/index.php/Own_(and_Refactor)_the_Build
 ---
 
 No es poco común para los equipos que, aunque son altamente
