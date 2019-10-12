@@ -4,7 +4,7 @@ title: Automatiza el estándar de codificación
 overview: true
 author: Filip van Laenen
 translator: Natán Calzolari
-original: http://programmer.97things.oreilly.com/wiki/index.php/Automate_Your_Coding_Standard
+original: https://web.archive.org/web/20150114190815/http://programmer.97things.oreilly.com/wiki/index.php/Automate_Your_Coding_Standard
 ---
 
 Probablemente a ti también te sucedió. Al comenzar un proyecto todo el

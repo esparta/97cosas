@@ -4,7 +4,7 @@ title: Aprende a hacer estimaciones
 overview: true
 author: Giovanni Asproni
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Learn_to_Estimate
+original: https://web.archive.org/web/20150114191128/http://programmer.97things.oreilly.com/wiki/index.php/Learn_to_Estimate
 ---
 
 Como programador debes ser capaz de proporcionar estimaciones a tus

@@ -4,7 +4,7 @@ title: Aprende un lenguaje extranjero
 overview: true
 author: Klaus Marquardt
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Learn_Foreign_Languages
+original: https://web.archive.org/web/20150114191123/http://programmer.97things.oreilly.com/wiki/index.php/Learn_Foreign_Languages
 ---
 
 Los programadores necesitamos comunicarnos. Mucho.

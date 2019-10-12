@@ -4,7 +4,7 @@ title: Aprendiendo continuamente
 overview: true
 author: Clint Shank
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Continuous_Learning
+original: https://web.archive.org/web/20150114190850/http://programmer.97things.oreilly.com/wiki/index.php/Continuous_Learning
 ---
 
 Vivimos en tiempos interesantes. Conforme el desarrollo se distribuye en

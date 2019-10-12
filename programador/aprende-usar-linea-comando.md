@@ -4,7 +4,7 @@ title: Aprende a usar las herramientas de línea de comandos
 overview: true
 author: Carroll Robinson
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Know_How_to_Use_Command-line_Tools
+original: https://web.archive.org/web/20150302163427/http://programmer.97things.oreilly.com/wiki/index.php/Know_How_to_Use_Command-line_Tools
 ---
 
 Hoy en día, muchas herramientas de desarrollo de software se empaquetan
