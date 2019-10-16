@@ -4,7 +4,7 @@ title: Averigua qué haría el usuario (tú no eres el usuario)
 overview: true
 author: Giles Colborne
 translator: Natán Calzolari
-original: http://programmer.97things.oreilly.com/wiki/index.php/Ask_%22What_Would_the_User_Do%3F%22_%28You_Are_not_the_User%29
+original: https://web.archive.org/web/20150114190810/http://programmer.97things.oreilly.com/wiki/index.php/Ask_%22What_Would_the_User_Do%3F%22_%28You_Are_not_the_User%29
 ---
 
 Todos tendemos a asumir que los demás piensan como nosotros, pero no es

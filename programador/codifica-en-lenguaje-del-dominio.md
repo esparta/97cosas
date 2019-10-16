@@ -4,7 +4,7 @@ title: Codifica en el lenguaje del dominio
 overview: true
 author: Dan North
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Code_in_the_Language_of_the_Domain
+original: https://web.archive.org/web/20150128084353/http://programmer.97things.oreilly.com/wiki/index.php/Code_in_the_Language_of_the_Domain
 ---
 
 Imagínate dos códigos bases. En uno te encuentras esto:

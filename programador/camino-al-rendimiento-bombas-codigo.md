@@ -4,7 +4,7 @@ title: El camino al mejor rendimiento está lleno de sucias bombas de código
 overview: true
 author: Kirk Pepperdine
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/The_Road_to_Performance_Is_Littered_with_Dirty_Code_Bombs
+original: https://web.archive.org/web/20150114192503/http://programmer.97things.oreilly.com/wiki/index.php/The_Road_to_Performance_Is_Littered_with_Dirty_Code_Bombs
 ---
 
 Más frecuentemente que nunca, la optimización de rendimiento en un

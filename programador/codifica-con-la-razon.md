@@ -4,7 +4,7 @@ title: Codificando con la razón
 overview: true
 author: Yechiel Kimchi
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Coding_with_Reason
+original: https://web.archive.org/web/20150128084358/http://programmer.97things.oreilly.com/wiki/index.php/Coding_with_Reason
 ---
 
 Trata de averiguar manualmente la correctitud de software resulta en una

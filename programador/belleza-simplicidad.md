@@ -4,7 +4,7 @@ title: La belleza está en la simplicidad
 overview: true
 author: Jørn Ølmheim
 translator: Natán Calzolari
-original: http://programmer.97things.oreilly.com/wiki/index.php/Beauty_Is_in_Simplicity
+original: https://web.archive.org/web/20150114190820/http://programmer.97things.oreilly.com/wiki/index.php/Beauty_Is_in_Simplicity
 ---
 
 Hay una gran cita de Platón que es particularmente importante que los
