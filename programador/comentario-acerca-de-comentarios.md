@@ -4,7 +4,7 @@ title: Un comentario acerca de los comentarios
 overview: true
 author: Cal Evans
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/A_Comment_on_Comments
+original: https://web.archive.org/web/20150114190740/http://programmer.97things.oreilly.com/wiki/index.php/A_Comment_on_Comments
 ---
 
 En mi primera clase de programación en la universidad, el profesor nos

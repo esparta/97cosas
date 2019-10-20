@@ -4,7 +4,7 @@ title: Codificación Ubuntu para tus amigos
 overview: true
 author: Aslam Khan
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Ubuntu_Coding_for_Your_Friends
+original: https://web.archive.org/web/20150118231339/http://programmer.97things.oreilly.com/wiki/index.php/Ubuntu_Coding_for_Your_Friends
 ---
 
 A menudo escribimos código en el aislamiento y refleja nuestra

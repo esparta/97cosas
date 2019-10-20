@@ -4,7 +4,7 @@ title: Comenta sólo lo que el código no dice
 overview: true
 author: Kevlin Henney
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Comment_Only_What_the_Code_Cannot_Say
+original: https://web.archive.org/web/20150108160435/http://programmer.97things.oreilly.com/wiki/index.php/Comment_Only_What_the_Code_Cannot_Say
 ---
 
 La diferencia entre teoría y práctica es más grande en la práctica que

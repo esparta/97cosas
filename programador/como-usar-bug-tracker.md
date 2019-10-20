@@ -4,7 +4,7 @@ title: ¿Cómo usar un Gestor de Errores?
 overview: true
 author: Matt Doar
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/How_to_Use_a_Bug_Tracker
+original: https://web.archive.org/web/20150106001507/http://programmer.97things.oreilly.com/wiki/index.php/How_to_Use_a_Bug_Tracker
 ---
 
 Como sea que lo llames: bug, defecto o incluso “efecto del lado de
