@@ -4,7 +4,7 @@ title: Distingue excepciones de Negocio de las excepciones Técnicas
 overview: true
 author: Dan Bergh Johnsson
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Distinguish_Business_Exceptions_from_Technical
+original: https://web.archive.org/web/20150114190905/http://programmer.97things.oreilly.com/wiki/index.php/Distinguish_Business_Exceptions_from_Technical
 ---
 
 Hay básicamente dos razones por las que las cosas van mal en tiempo de

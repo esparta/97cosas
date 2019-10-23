@@ -4,7 +4,7 @@ title: Los grandes datos interconectados pertenecen a una base de datos
 overview: true
 author: Diomidis Spinellis
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Large_Interconnected_Data_Belongs_to_a_Database
+original: https://web.archive.org/web/20150114191118/http://programmer.97things.oreilly.com/wiki/index.php/Large_Interconnected_Data_Belongs_to_a_Database
 ---
 
 Si tu aplicación está manejando un conjunto de elementos de datos
@@ -68,4 +68,3 @@ aplicación en vez de la refinación de algoritmos. Los sistemas avanzados
 de bases de datos incluso tomarán ventaja de los procesadores multi-core
 a tus espaldas. Y, conforme la tecnología mejora, también el rendimiento
 de tu aplicación
-

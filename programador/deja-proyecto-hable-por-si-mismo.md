@@ -4,7 +4,7 @@ title: Deja que tu proyecto hable por sí mismo
 overview: true
 author: Daniel Lindner
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Let_Your_Project_Speak_for_Itself
+original: https://web.archive.org/web/20150114191139/http://programmer.97things.oreilly.com/wiki/index.php/Let_Your_Project_Speak_for_Itself
 ---
 
 Tu proyecto probablemente tenga un sistema de control de versiones .
@@ -56,4 +56,3 @@ desarrolladores, quejándose o alabando, de acuerdo a las reglas que el
 equipo haya escogido. Puedes llevar esta personificación más allá
 aplicando software de síntesis de voz y un par de altavoces. Ahora tu
 proyecto realmente habla por sí mismo.
-

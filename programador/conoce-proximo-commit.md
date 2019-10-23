@@ -4,7 +4,7 @@ title: Conoce tu próximo Commit
 overview: true
 author: Dan Bergh Johnsson
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Know_Your_Next_Commit
+original: https://web.archive.org/web/20150114191113/http://programmer.97things.oreilly.com/wiki/index.php/Know_Your_Next_Commit
 ---
 
 Toqué a tres programadores en su hombro y les pregunté qué estaban
@@ -65,4 +65,3 @@ define una nueva tarea en la que creas, con las ideas que has ganado.
 Haz experimentación especulativa donde sea necesario, pero no caigas en
 el modo especulativo sin darte cuenta. No mandes commit de conjeturas a
 tu repositorio.
-

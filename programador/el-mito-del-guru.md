@@ -4,7 +4,7 @@ title: El mito del Gurú
 overview: true
 author: Ryan Brush
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/The_Guru_Myth
+original: https://web.archive.org/web/20150114192448/http://programmer.97things.oreilly.com/wiki/index.php/The_Guru_Myth
 ---
 
 Cualquiera que haya trabajado en el software el tiempo suficiente ha

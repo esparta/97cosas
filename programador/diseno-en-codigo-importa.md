@@ -4,7 +4,7 @@ title: El diseño del código sí importa
 overview: true
 author: Steve Freeman
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Code_Layout_Matters
+original: https://web.archive.org/web/20150114190845/http://programmer.97things.oreilly.com/wiki/index.php/Code_Layout_Matters
 ---
 
 Hace muchos años trabajaba en un sistema en Cobol, en el cual no se le
