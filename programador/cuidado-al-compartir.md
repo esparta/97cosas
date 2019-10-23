@@ -4,7 +4,7 @@ title: Ten cuidado al compartir
 overview: true
 author: Udi Dahan
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Beware_the_Share
+original: https://web.archive.org/web/20150118063714/http://programmer.97things.oreilly.com/wiki/index.php/Beware_the_Share
 ---
 
 Era mi primer proyecto en la compañía. Había terminado mi carrera y
@@ -56,4 +56,3 @@ cuando entro en un código base existente sin el conocimiento del
 contexto en el que se utilizan las distintas partes.
 
 Cuidado al compartir. Revisa tu contexto. Sólo entonces, procede.
-

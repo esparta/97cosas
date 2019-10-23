@@ -4,7 +4,7 @@ title: Conoce bien más de dos lenguajes de programación
 overview: true
 author: Russel Winder
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Know_Well_More_than_Two_Programming_Languages
+original: https://web.archive.org/web/20150302172327/http://programmer.97things.oreilly.com/wiki/index.php/Know_Well_More_than_Two_Programming_Languages
 ---
 
 La psicología de la gente programadora ha sabido, desde hace mucho
@@ -69,4 +69,3 @@ es suficiente para aprender un nuevo lenguaje, generalmente toma unos
 cuantos meses de uso, aunque a tiempo parcial, para ganar un
 conocimiento adecuando de un lenguaje. Son sus modismos de uso, no sólo
 la sintaxis y el modelo computacional, los factores importantes.
-

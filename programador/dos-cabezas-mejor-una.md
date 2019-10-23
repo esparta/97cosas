@@ -4,7 +4,7 @@ title: Dos cabezas son a menudo mejores que una
 overview: true
 author: Adrian Wible
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Two_Heads_Are_Often_Better_than_One
+original: https://web.archive.org/web/20150114192821/http://programmer.97things.oreilly.com/wiki/index.php/Two_Heads_Are_Often_Better_than_One
 ---
 
 La programación requiere pensamiento profundo, y los pensamientos

@@ -4,7 +4,7 @@ title: La conveniencia no es una -bilidad
 overview: true
 author: Gregor Hohpe
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Convenience_Is_not_an_-ility
+original: https://web.archive.org/web/20150114190855/http://programmer.97things.oreilly.com/wiki/index.php/Convenience_Is_not_an_-ility
 ---
 
 Mucho se ha dicho acerca de la importancia y desafíos al diseñar una
@@ -71,4 +71,3 @@ idioma inglés no tiene una palabra para
 MakeUpYourRoomBeQuietAndDoYourHomeWork
 (LimpiaTuCuartoSeCalladoyHazTuTarea), a pesar de que parece muy
 conveniente para una operación tan frecuentemente solicitada.
-

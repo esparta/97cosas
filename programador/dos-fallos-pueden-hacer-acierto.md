@@ -4,7 +4,7 @@ title: Dos fallos pueden hacer un acierto (y es difícil de arreglar)
 overview: true
 author: Allan Kelly
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Two_Wrongs_Can_Make_a_Right_%28and_Are_Difficult_to_Fix%29
+original: https://web.archive.org/web/20150114192823/http://programmer.97things.oreilly.com/wiki/index.php/Two_Wrongs_Can_Make_a_Right_%28and_Are_Difficult_to_Fix%29
 ---
 
 El código nunca miente, pero puede contradecirse. Algunas

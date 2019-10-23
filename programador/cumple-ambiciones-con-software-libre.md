@@ -4,7 +4,7 @@ title: Cumple tus ambiciones con Software Libre
 overview: true
 author: Richard Monson-Haefel
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Fulfill_Your_Ambitions_with_Open_Source
+original: https://web.archive.org/web/20150302172311/http://programmer.97things.oreilly.com/wiki/index.php/Fulfill_Your_Ambitions_with_Open_Source
 ---
 
 Hay una alta probabilidad de que no estés desarrollando software en tu
@@ -67,4 +67,3 @@ pruebas de código para el software de otra persona como casi cualquier
 otra actividad en software. Escribe pruebas de código, realmente buenas
 pruebas de código; encuentra errores; sugiere correcciones; haz amigos;
 trabaja en el software que te gusta y cumple tus ambiciones.
-

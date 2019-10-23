@@ -4,7 +4,7 @@ title: Encapsula Comportamiento, no sólo Estado
 overview: true
 author: Einar Landre
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Encapsulate_Behavior%2C_not_Just_State
+original: https://web.archive.org/web/20150114190942/http://programmer.97things.oreilly.com/wiki/index.php/Encapsulate_Behavior%2C_not_Just_State
 ---
 
 En la teoría de sistemas, el contenimiento es uno de los más útiles
@@ -57,4 +57,3 @@ imposibles de mantener. ¿La razón? La encapsulación está rota.
 
 Así que, al final, no rompas la encapsulación y usa el poder de tu
 lenguaje de programación para mantenerla.
-

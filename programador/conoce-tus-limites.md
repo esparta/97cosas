@@ -4,7 +4,7 @@ title: Conoce tus límites
 overview: true
 author: Greg Colvin
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Know_Your_Limits
+original: https://web.archive.org/web/20150114191108/http://programmer.97things.oreilly.com/wiki/index.php/Know_Your_Limits
 ---
 
 > _"Man's got to know his limitations." — [Dirty Harry][1]_

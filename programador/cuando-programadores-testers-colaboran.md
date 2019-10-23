@@ -4,7 +4,7 @@ title: Cuando Programadores y Testers colaboran
 overview: true
 author: Janet Gregory
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/When_Programmers_and_Testers_Collaborate
+original: https://web.archive.org/web/20150114192846/http://programmer.97things.oreilly.com/wiki/index.php/When_Programmers_and_Testers_Collaborate
 ---
 
 Algo mágico sucede cuando los testers y programadores empiezan a
@@ -66,4 +66,3 @@ darse cuenta de que son responsables de construir calidad dentro de su
 código, el realizar pruebas es algo natural para el producto y el equipo
 puede automatizar más pruebas de regresión juntos. La magia del trabajo
 en equipo comienza.
-

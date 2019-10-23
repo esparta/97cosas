@@ -4,7 +4,7 @@ title: El trabajo duro no paga
 overview: true
 author: Olve Maudal
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Hard_Work_Does_not_Pay_Off
+original: https://web.archive.org/web/20150114191013/http://programmer.97things.oreilly.com/wiki/index.php/Hard_Work_Does_not_Pay_Off
 ---
 
 Como programador, trabajar duro muchas veces no da frutos. Puedes

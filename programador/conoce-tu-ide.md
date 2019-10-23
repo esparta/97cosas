@@ -4,7 +4,7 @@ title: Conoce tu IDE
 overview: true
 author: Heinz Kabutz
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Know_Your_IDE
+original: https://web.archive.org/web/20150114191103/http://programmer.97things.oreilly.com/wiki/index.php/Know_Your_IDE
 ---
 
 En la década de los ochenta nuestros entornos de programación eran, por
@@ -72,7 +72,7 @@ por adelantado.
 
 Por último, como programadores tenemos herramientas de flujo Unix que
 pueden ayudarnos a manipular el código. Como si durante una
-revisión de código me doy cuenta de que los programadores han nombrado 
+revisión de código me doy cuenta de que los programadores han nombrado
 muchas de sus clases de la misma forma, puedo encontrarlas fácilmente
 usando las herramientas find, sed, sort, uniq y grep, por ejemplo:
 
@@ -83,4 +83,3 @@ usando las herramientas find, sed, sort, uniq y grep, por ejemplo:
 Esperamos que un plomero que llega a nuestra casa sea capaz de usar su
 soplete. Pasemos un poco de tiempo estudiando cómo ser más efectivos con
 nuestro IDE.
-

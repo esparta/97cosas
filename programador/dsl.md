@@ -4,7 +4,7 @@ title: Lenguajes Específicos del Dominio (DSL)
 overview: true
 author: Michael Hunger
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Domain-Specific_Languages
+original: https://web.archive.org/web/20150114190917/http://programmer.97things.oreilly.com/wiki/index.php/Domain-Specific_Languages
 ---
 
 Cada vez que escuches una discusión de expertos de cualquier dominio, ya
