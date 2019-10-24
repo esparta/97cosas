@@ -4,7 +4,7 @@ title: Mensaje al futuro
 overview: true
 author: Linda Rising
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/A_Message_to_the_Future
+original: https://web.archive.org/web/20150114190745/http://programmer.97things.oreilly.com/wiki/index.php/A_Message_to_the_Future
 ---
 
 Quizás sea porque la mayoría de ellos son personas inteligentes, pero en

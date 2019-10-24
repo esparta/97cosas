@@ -4,7 +4,7 @@ title: ¡No ignores ese error!
 overview: true
 author: Pete Goodliffe
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Ignore_that_Error!
+original: https://web.archive.org/web/20150302172303/http://programmer.97things.oreilly.com/wiki/index.php/Don't_Ignore_that_Error!
 ---
 
 Una tarde, estaba caminando por la calle para verme con unos amigos en

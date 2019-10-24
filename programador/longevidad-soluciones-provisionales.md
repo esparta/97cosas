@@ -4,7 +4,7 @@ title: La longevidad de las soluciones provisionales
 overview: true
 author: Klaus Marquardt
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/The_Longevity_of_Interim_Solutions
+original: https://web.archive.org/web/20150302171142/http://programmer.97things.oreilly.com/wiki/index.php/The_Longevity_of_Interim_Solutions
 ---
 
 ¿Por qué creamos soluciones provisionales?

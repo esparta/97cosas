@@ -4,7 +4,7 @@ title: No seas lindo con tus datos de prueba
 overview: true
 author: Rod Begbie
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Be_Cute_with_Your_Test_Data
+original: https://web.archive.org/web/20150101015616/http://programmer.97things.oreilly.com/wiki/index.php/Don't_Be_Cute_with_Your_Test_Data
 ---
 
 Se estaba haciendo tarde. Estaba tirando cosas en un repositorio de

@@ -4,7 +4,7 @@ title: Implementa rápido y con frecuencia
 overview: true
 author: Steve Berczuk
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Deploy_Early_and_Often
+original: https://web.archive.org/web/20150202201317/http://programmer.97things.oreilly.com/wiki/index.php/Deploy_Early_and_Often
 ---
 
 Depurar el proceso de implementación e instalación suele posponerse
@@ -57,5 +57,3 @@ productividad de los clientes o de su equipo de servicio profesionales,
 por lo que deberías hacer pruebas y refactorizar este proceso sobre la
 marcha. Probamos y refactorizamos el código fuente de todo el proyecto.
 La implementación no se merece menos.
-
-

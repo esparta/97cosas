@@ -4,7 +4,7 @@ title: No confíes en el "Aquí sucede la magia"
 overview: true
 author: AlanGriffiths
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Rely_on_%22Magic_Happens_Here%22
+original: https://web.archive.org/web/20150302163417/http://programmer.97things.oreilly.com/wiki/index.php/Don't_Rely_on_%22Magic_Happens_Here%22
 ---
 
 Si nos fijamos en cualquier actividad, proceso o disciplina, desde lo
@@ -62,4 +62,3 @@ las partes que tú no.
 
 Más importante, asegúrate de que cuando la magia se detenga, pueda ser
 iniciada de nuevo.
-

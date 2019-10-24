@@ -4,7 +4,7 @@ title: Lee el código
 overview: true
 author: Karianne Berg
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Read_Code
+original: https://web.archive.org/web/20150114192320/http://programmer.97things.oreilly.com/wiki/index.php/Read_Code
 ---
 
 Nosotros, los programadores, somos criaturas raras. Amamos escribir
@@ -49,4 +49,3 @@ mismo modo hoy en día.
 
 Así que la próxima vez que sientas la necesidad de mejorar tus
 habilidades de programación, no leas otro libro. Lee el código.
-

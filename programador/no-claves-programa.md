@@ -4,7 +4,7 @@ title: No claves tu programa en la posición vertical
 overview: true
 author: Verity Stob
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Nail_Your_Program_into_the_Upright_Position
+original: https://web.archive.org/web/20150114190932/http://programmer.97things.oreilly.com/wiki/index.php/Don't_Nail_Your_Program_into_the_Upright_Position
 ---
 
 Una vez escribí una parodia de un _test_ de C++ y satíricamente sugería

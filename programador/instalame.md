@@ -4,7 +4,7 @@ title: Instalame
 overview: true
 author: Marcus Baker
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Install_Me
+original: https://web.archive.org/web/20150114191033/http://programmer.97things.oreilly.com/wiki/index.php/Install_Me
 ---
 
 No tengo el menor interés en tu programa.
