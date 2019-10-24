@@ -4,7 +4,7 @@ title: Haz lo invisible más visible
 overview: true
 author: Jon Jagger
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Make_the_Invisible_More_Visible
+original: https://web.archive.org/web/20150110145127/http://programmer.97things.oreilly.com/wiki/index.php/Make_the_Invisible_More_Visible
 ---
 
 Muchos aspectos de la invisibilidad son correctamente dichos como
@@ -61,4 +61,3 @@ Es mejor desarrollar software con una gran cantidad de evidencia visible
 habitual. La visibilidad otorga confianza de que el progreso es genuino
 y no una ilusión, deliberado y no involuntario, repetible y no
 accidental.
-

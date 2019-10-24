@@ -4,7 +4,7 @@ title: Inicia con un Sí
 overview: true
 author: Alex Miller
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Start_from_Yes
+original: https://web.archive.org/web/20150114192413/http://programmer.97things.oreilly.com/wiki/index.php/Start_from_Yes
 ---
 
 Recientemente fui a la tienda buscando arriba y abajo “edaname” (el cuál

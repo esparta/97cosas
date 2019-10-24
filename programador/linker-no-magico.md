@@ -4,7 +4,7 @@ title: El linker no es un programa mágico
 overview: true
 author: Walter Bright
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/The_Linker_Is_not_a_Magical_Program
+original: https://web.archive.org/web/20150114192453/http://programmer.97things.oreilly.com/wiki/index.php/The_Linker_Is_not_a_Magical_Program
 ---
 
 Con una frecuencia depresiva (me sucedió otra vez justo antes de
@@ -85,4 +85,3 @@ módulo.
 Aunque no siempre es obvio por qué aparece un mensaje del linker en
 particular, no hay nada mágico sobre los linkers. La mecánica es
 directa: son los detalles lo que tienes que averiguar en cada caso.
-

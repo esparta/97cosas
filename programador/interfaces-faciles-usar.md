@@ -4,7 +4,7 @@ title: Haz las Interfaces fáciles de usar correctamente y difíciles de usar in
 overview: true
 author: Scott Meyers
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Make_Interfaces_Easy_to_Use_Correctly_and_Hard_to_Use_Incorrectly
+original: https://web.archive.org/web/20150202020435/http://programmer.97things.oreilly.com/wiki/index.php/Make_Interfaces_Easy_to_Use_Correctly_and_Hard_to_Use_Incorrectly
 ---
 
 Una de las tareas más comunes en el desarrollo de software es la

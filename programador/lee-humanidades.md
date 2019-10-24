@@ -4,7 +4,7 @@ title: Lee las humanidades
 overview: true
 author: Keith Braithwaite
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Read_the_Humanities
+original: https://web.archive.org/web/20150114192325/http://programmer.97things.oreilly.com/wiki/index.php/Read_the_Humanities
 ---
 
 En todo y hasta en el proyecto más pequeño de desarrollo, las personas

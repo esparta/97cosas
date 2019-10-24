@@ -4,7 +4,7 @@ title: Mejora el código quitándolo
 overview: true
 author: Pete Goodliffe
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Improve_Code_by_Removing_It
+original: https://web.archive.org/web/20150114191028/http://programmer.97things.oreilly.com/wiki/index.php/Improve_Code_by_Removing_It
 ---
 
 _Menos es más_. Es una máxima un poco trillada, pero algunas veces es

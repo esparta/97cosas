@@ -4,7 +4,7 @@ title: La comunicación entre procesos afecta el tiempo de respuesta de la aplic
 overview: true
 author: Randy Stafford
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Inter-Process_Communication_Affects_Application_Response_Time
+original: https://web.archive.org/web/20150111033459/http://programmer.97things.oreilly.com/wiki/index.php/Inter-Process_Communication_Affects_Application_Response_Time
 ---
 
 El tiempo de respuesta es crítico en la usabilidad del software. Pocas

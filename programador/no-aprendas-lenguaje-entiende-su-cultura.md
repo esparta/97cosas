@@ -4,7 +4,7 @@ title: No sólo aprendas el lenguaje, entiende su cultura
 overview: true
 author: Anders Norås
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Just_Learn_the_Language%2C_Understand_its_Culture
+original: https://web.archive.org/web/20150115065242/http://programmer.97things.oreilly.com/wiki/index.php/Don't_Just_Learn_the_Language%2C_Understand_its_Culture
 ---
 
 En preparatoria tuve que aprender un idioma extranjero. En ese momento

@@ -4,7 +4,7 @@ title: Las herramientas Unix son tus amigas
 overview: true
 author: Diomidis Spinellis
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/The_Unix_Tools_Are_Your_Friends
+original: https://web.archive.org/web/20150111223653/http://programmer.97things.oreilly.com/wiki/index.php/The_Unix_Tools_Are_Your_Friends
 ---
 
 Si en mi camino al exilio en una isla desierta tuviera que escoger entre
