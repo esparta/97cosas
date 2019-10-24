@@ -4,7 +4,7 @@ title: Escribe código como si tuvieras que mantenerlo por el resto de tu vida
 overview: true
 author: Yuriy Zubarev
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Write_Code_as_If_You_Had_to_Support_It_for_the_Rest_of_Your_Life
+original: https://web.archive.org/web/20150124022052/http://programmer.97things.oreilly.com/wiki/index.php/Write_Code_as_If_You_Had_to_Support_It_for_the_Rest_of_Your_Life
 ---
 
 Puedes preguntarle a 97 personas lo que todo programador debería saber y

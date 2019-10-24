@@ -4,7 +4,7 @@ title: Evita errores
 overview: true
 author: Giles Colborne
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Prevent_Errors
+original: https://web.archive.org/web/20150114192310/http://programmer.97things.oreilly.com/wiki/index.php/Prevent_Errors
 ---
 
 Los mensajes de error son la interacción más crítica entre el usuario y

@@ -4,7 +4,7 @@ title: Escribe las pruebas para las personas
 overview: true
 author: Gerard Meszaros
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Write_Tests_for_People
+original: https://web.archive.org/web/20150114192856/http://programmer.97things.oreilly.com/wiki/index.php/Write_Tests_for_People
 ---
 
 Estás escribiendo pruebas automatizadas para una parte o todo tu código

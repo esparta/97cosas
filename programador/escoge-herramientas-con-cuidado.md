@@ -4,7 +4,7 @@ title: Escoge tus herramientas con cuidado
 overview: true
 author: Giovanni Asproni
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Choose_Your_Tools_with_Care
+original: https://web.archive.org/web/20150110064028/http://programmer.97things.oreilly.com/wiki/index.php/Choose_Your_Tools_with_Care
 ---
 
 Las aplicaciones modernas rara vez son construidas desde cero. Se

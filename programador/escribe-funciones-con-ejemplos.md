@@ -4,7 +4,7 @@ title: Escribe pequeñas funciones usando ejemplos
 overview: true
 author: Keith Braithwaite
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Write_Small_Functions_Using_Examples
+original: https://web.archive.org/web/20150114192851/http://programmer.97things.oreilly.com/wiki/index.php/Write_Small_Functions_Using_Examples
 ---
 
 Nos gustaría escribir código que fuese correcto y tener evidencia en
