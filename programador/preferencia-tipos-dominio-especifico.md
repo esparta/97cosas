@@ -4,7 +4,7 @@ title: Da preferencia a tipos de Dominio Específico que los tipos primitivos
 overview: true
 author: Einar Landre
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Prefer_Domain-Specific_Types_to_Primitive_Types
+original: https://web.archive.org/web/20150106001512/http://programmer.97things.oreilly.com/wiki/index.php/Prefer_Domain-Specific_Types_to_Primitive_Types
 ---
 
 El 23 de septiembre de 1999 el _Mars Climate Orbiter_ de U$327.6

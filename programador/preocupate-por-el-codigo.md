@@ -4,7 +4,7 @@ title: Preocúpate por el código
 overview: true
 author: Pete Goodliffe
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/You_Gotta_Care_about_the_Code
+original: https://web.archive.org/web/20150110064033/http://programmer.97things.oreilly.com/wiki/index.php/You_Gotta_Care_about_the_Code
 ---
 
 No hace falta ser Sherlock Holmes para saber que los buenos

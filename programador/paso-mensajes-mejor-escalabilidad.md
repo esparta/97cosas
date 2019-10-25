@@ -4,7 +4,7 @@ title: El paso de mensajes lleva a una mejor escalabilidad en sistemas paralelos
 overview: true
 author: Russel Winder
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Message_Passing_Leads_to_Better_Scalability_in_Parallel_Systems
+original: https://web.archive.org/web/20150106000512/http://programmer.97things.oreilly.com/wiki/index.php/Message_Passing_Leads_to_Better_Scalability_in_Parallel_Systems
 ---
 
 A los programadores se les enseña desde el primer momento de sus

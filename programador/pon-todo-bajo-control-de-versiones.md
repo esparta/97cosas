@@ -4,7 +4,7 @@ title: Pon todo bajo Control de Versiones
 overview: true
 author: Diomidis Spinellis
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Put_Everything_Under_Version_Control
+original: https://web.archive.org/web/20150103104230/http://programmer.97things.oreilly.com/wiki/index.php/Put_Everything_Under_Version_Control
 ---
 
 Pon todo lo que tienen tus proyectos bajo control de versiones. Los
