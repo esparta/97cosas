@@ -4,7 +4,7 @@ title: ¡No toques ese código!
 overview: true
 author: Cal Evans
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Touch_that_Code!
+original: https://web.archive.org/web/20150114190937/http://programmer.97things.oreilly.com/wiki/index.php/Don't_Touch_that_Code!
 ---
 
 Nos ha pasado a todos en algún momento. Tu código fue llevado al

@@ -4,7 +4,7 @@ title: No tengas miedo de romper cosas
 overview: true
 author: Mike Lewis
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Be_Afraid_to_Break_Things
+original: https://web.archive.org/web/20150114190922/http://programmer.97things.oreilly.com/wiki/index.php/Don't_Be_Afraid_to_Break_Things
 ---
 
 Todos los que tiene experiencia en el sector indudablemente han

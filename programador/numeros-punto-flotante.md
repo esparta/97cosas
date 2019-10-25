@@ -4,7 +4,7 @@ title: Los números de punto flotante no son reales
 overview: true
 author: Chuck Allison
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Floating-point_Numbers_Aren%27t_Real
+original: https://web.archive.org/web/20150124023607/http://programmer.97things.oreilly.com/wiki/index.php/Floating-point_Numbers_Aren%27t_Real
 ---
 
 Los números de punto flotante no son “números reales” en el sentido

@@ -4,7 +4,7 @@ title: No te repitas
 overview: true
 author: Steve Smith
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Repeat_Yourself
+original: https://web.archive.org/web/20150104160950/http://programmer.97things.oreilly.com/wiki/index.php/Don't_Repeat_Yourself
 ---
 
 De todos los principios de programación, No te Repitas (_Don’t Repeat
