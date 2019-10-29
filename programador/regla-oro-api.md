@@ -4,7 +4,7 @@ title: La regla de oro del diseño de API
 overview: true
 author: Michael Feathers
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/The_Golden_Rule_of_API_Design
+original: https://web.archive.org/web/20150114192443/http://programmer.97things.oreilly.com/wiki/index.php/The_Golden_Rule_of_API_Design
 ---
 
 El diseño de API es difícil, particularmente los grandes. Si estás

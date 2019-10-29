@@ -4,7 +4,7 @@ title: La Regla Boy Scout
 overview: true
 author: Uncle Bob
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/The_Boy_Scout_Rule
+original: https://web.archive.org/web/20150201232513/http://programmer.97things.oreilly.com/wiki/index.php/The_Boy_Scout_Rule
 ---
 
 Los Boy Scout tienen una regla: “Siempre deja el lugar de acampamento
