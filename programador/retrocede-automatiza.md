@@ -4,7 +4,7 @@ title: Retrocede y Automatiza, Automatiza, Automatiza
 overview: true
 author: Cay Horstmann
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Step_Back_and_Automate%2C_Automate%2C_Automate
+original: https://web.archive.org/web/20150114192418/http://programmer.97things.oreilly.com/wiki/index.php/Step_Back_and_Automate%2C_Automate%2C_Automate
 ---
 
 
@@ -68,4 +68,3 @@ automatizada, aprende sólo lo necesario acerca de la herramienta para
 hacerlo. Hazlo al inicio del proyecto cuando el tiempo es más fácil de
 encontrar. Una vez que has tenido éxito, tú y tu jefe verán que tiene
 sentido invertir en automatización.
-

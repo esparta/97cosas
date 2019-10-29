@@ -4,7 +4,7 @@ title: La Simplicidad viene de la Reducción
 overview: true
 author: Paul W. Homer
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Simplicity_Comes_from_Reduction
+original: https://web.archive.org/web/20150114192358/http://programmer.97things.oreilly.com/wiki/index.php/Simplicity_Comes_from_Reduction
 ---
 
 “Hazlo de nuevo…”, me dijo el jefe mientras su dedo presionaba con
@@ -55,4 +55,3 @@ importantes.
 Por supuesto, si no lo logra, entonces sólo borra todo y escríbelo una
 vez más. Iniciar el diseño desde lo recordado a menudo puede ayudar a
 cortar una gran cantidad de desorden innecesario.
-

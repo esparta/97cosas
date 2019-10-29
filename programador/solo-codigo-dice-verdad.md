@@ -4,7 +4,7 @@ title: Sólo el código dice la verdad
 overview: true
 author: Peter Sommerlad
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Only_the_Code_Tells_the_Truth
+original: https://web.archive.org/web/20150114191237/http://programmer.97things.oreilly.com/wiki/index.php/Only_the_Code_Tells_the_Truth
 ---
 
 La semántica final de un programa está dada por el código que se
@@ -59,4 +59,3 @@ agradecerán. Y, si eres un programador de mantenimiento y el código en
 el que estás trabajando no dice la verdad fácilmente, aplica las
 directrices anteriores de manera proactiva. Establece algo de cordura en
 el código y mantén tu propia cordura.
-

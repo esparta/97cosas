@@ -4,7 +4,7 @@ title: Toma ventaja de las herramientas de análisis de código
 overview: true
 author: Sarah Mount
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Take_Advantage_of_Code_Analysis_Tools
+original: https://web.archive.org/web/20150114192428/http://programmer.97things.oreilly.com/wiki/index.php/Take_Advantage_of_Code_Analysis_Tools
 ---
 
 El valor de las pruebas es algo que está siendo inculcado a los
@@ -65,4 +65,3 @@ excepción no capturada.
 Así que no dejes que las pruebas sean el final de tu aseguramiento de
 calidad; toma ventaja de las herramientas de análisis y no tengas miedo
 de complicarte.
-

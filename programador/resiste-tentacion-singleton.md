@@ -4,7 +4,7 @@ title: Resiste la tentación del patrón Singleton
 overview: true
 author: Sam Saariste
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Resist_the_Temptation_of_the_Singleton_Pattern
+original: https://web.archive.org/web/20150116014108/http://programmer.97things.oreilly.com/wiki/index.php/Resist_the_Temptation_of_the_Singleton_Pattern
 ---
 
 El patrón [Singleton][1] resuelve muchos de tus problemas. Sabes que
