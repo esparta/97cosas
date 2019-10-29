@@ -4,7 +4,7 @@ title: Prueba precisa y concretamente
 overview: true
 author: Kevlin Henney
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Test_Precisely_and_Concretely
+original: https://web.archive.org/web/20150114192433/http://programmer.97things.oreilly.com/wiki/index.php/Test_Precisely_and_Concretely
 ---
 
 Es importante probar el comportamiento deseado y esencial de una unidad

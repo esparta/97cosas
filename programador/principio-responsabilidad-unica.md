@@ -4,7 +4,7 @@ title: El Principio de Responsabilidad Única
 overview: true
 author: Uncle Bob
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/The_Single_Responsibility_Principle
+original: https://web.archive.org/web/20150124023612/http://programmer.97things.oreilly.com/wiki/index.php/The_Single_Responsibility_Principle
 ---
 
 Uno de los principios fundamentales de un buen diseño es: reúna las

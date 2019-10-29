@@ -4,7 +4,7 @@ title: Prueba el comportamiento requerido, no el comportamiento incidental
 overview: true
 author: Kevlin Henney
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Test_for_Required_Behavior%2C_not_Incidental_Behavior
+original: https://web.archive.org/web/20150106000303/http://programmer.97things.oreilly.com/wiki/index.php/Test_for_Required_Behavior%2C_not_Incidental_Behavior
 ---
 
 Una trampa común en las pruebas es asumir que lo que hace una

@@ -4,7 +4,7 @@ title: Programa en pareja y siente el flujo
 overview: true
 author: Gudny Hauknes, Ann Katrin Gagnat, y Kari Røssland
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Pair_Program_and_Feel_the_Flow
+original: https://web.archive.org/web/20150114191247/http://programmer.97things.oreilly.com/wiki/index.php/Pair_Program_and_Feel_the_Flow
 ---
 
 Imagina que estás totalmente absorto en lo que estás haciendo, enfocado,
@@ -75,4 +75,3 @@ otros miembros del equipo.
 
 El flujo te hace increíblemente productivo. Pero también es vulnerable.
 Haz lo que puedas para obtenerlo y aférrate a él cuando lo tengas.
-

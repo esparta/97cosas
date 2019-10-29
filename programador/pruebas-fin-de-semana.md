@@ -4,7 +4,7 @@ title: Haz pruebas mientras duermes (y los fines de semana)
 overview: true
 author: Rajith Attapattu
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Test_While_You_Sleep_%28and_over_Weekends%29
+original: https://web.archive.org/web/20150118063013/http://programmer.97things.oreilly.com/wiki/index.php/Test_While_You_Sleep_(and_over_Weekends)
 ---
 
 Tranquilo. No me refiero a centros de desarrollo a larga distancia,
