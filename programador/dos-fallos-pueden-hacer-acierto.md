@@ -73,4 +73,4 @@ posibilidad, una cabeza clara y voluntad de considerar todas las
 posibilidades.
 
 
-[1]: http://www.netjeff.com/humor/item.cgi?file=ApolloComputer
+[1]: https://www.netjeff.com/humor/item.cgi?file=ApolloComputer

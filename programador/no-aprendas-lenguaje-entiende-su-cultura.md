@@ -62,4 +62,4 @@ lenguaje que has aprendido.
 
 [1]: https://es.wikipedia.org/wiki/Iterador_%28patr%C3%B3n_de_dise%C3%B1o%29
 [2]: https://es.wikipedia.org/wiki/Visitor_%28patr%C3%B3n_de_dise%C3%B1o%29
-[3]: http://www.amazon.com/Design-patterns-elements-reusable-object-oriented/dp/0201633612
+[3]: https://www.amazon.com/Design-patterns-elements-reusable-object-oriented/dp/0201633612

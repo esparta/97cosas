@@ -60,4 +60,4 @@ son necesarias. Probar es el rigor ingenieril del desarrollo de
 software.
 
 
-[1]: http://www.developerdotstar.com/mag/articles/reeves_design.html
+[1]: https://web.archive.org/web/20150106180221/http://www.developerdotstar.com/mag/articles/reeves_design.html

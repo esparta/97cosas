@@ -64,4 +64,4 @@ La práctica deliberada es acerca del aprendizaje. Acerca del aprendizaje
 que te cambia; del aprendizaje que cambia tu comportamiento. Buena
 suerte.
 
-[1]: http://norvig.com/21-days.html
+[1]: https://web.archive.org/web/20150101023537/https://norvig.com/21-days.html

@@ -64,4 +64,4 @@ una visión de “caja negra” en las pruebas unitarias a probar, esbozando
 los contratos de la interfaz de manera ejecutable. Y, así, alinear el
 comportamiento probado con el comportamiento requerido.
 
-[1]: http://es.wikipedia.org/wiki/FUD
+[1]: https://es.wikipedia.org/wiki/FUD
