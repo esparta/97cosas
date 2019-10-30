@@ -4,7 +4,7 @@ title: Las pruebas son el rigor ingenieril del desarrollo de software
 overview: true
 author: Neal Ford
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Testing_Is_the_Engineering_Rigor_of_Software_Development
+original: https://web.archive.org/web/20150114192438/http://programmer.97things.oreilly.com/wiki/index.php/Testing_Is_the_Engineering_Rigor_of_Software_Development
 ---
 
 Los desarrolladores aman usar metáforas torturadoras cuando se trata de

@@ -4,7 +4,7 @@ title: Reinventa la rueda frecuentemente
 overview: true
 author: Jason P Sage
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Reinvent_the_Wheel_Often
+original: https://web.archive.org/web/20150114192331/http://programmer.97things.oreilly.com/wiki/index.php/Reinvent_the_Wheel_Often
 ---
 
 > “Sólo tienes que utilizar algo existente, es una tontería reinventar
