@@ -4,7 +4,7 @@ title: Usa el algoritmo y estructura de datos correctos
 overview: true
 author: JC van Winkel
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Use_the_Right_Algorithm_and_Data_Structure
+original: https://web.archive.org/web/20150101015029/http://programmer.97things.oreilly.com/wiki/index.php/Use_the_Right_Algorithm_and_Data_Structure
 ---
 
 Un gran banco con muchas sucursales se quejó de que las nuevas
@@ -87,4 +87,3 @@ Entonces, lee algunos buenos libros y asegúrate de que los entiendas. Si
 realmente lees bien El arte de la programación, de Donald Knuth, podrías
 incluso ser afortunado: encuentra una equivocación del autor y gana uno
 de los cheques de dólares hexadecimales ($2.56).
-

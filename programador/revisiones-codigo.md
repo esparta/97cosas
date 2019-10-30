@@ -4,7 +4,7 @@ title: Revisiones de código
 overview: true
 author: Mattias Karlsson
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Code_Reviews
+original: https://web.archive.org/web/20150109162125/http://programmer.97things.oreilly.com/wiki/index.php/Code_Reviews
 ---
 
 Deberías hacer revisiones de código. ¿Por qué? Porque incrementan la
@@ -63,4 +63,3 @@ difícil motivar a cualquiera. Que sea una revisión de código informal,
 cuyo propósito principal sea compartir conocimiento entre los miembros
 del equipo. Deja los comentarios sarcásticos fuera y trae un pastel o
 almuerzo en bolsa café en su lugar.
-

@@ -4,7 +4,7 @@ title: Un binario
 overview: true
 author: Steve Freeman
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/One_Binary
+original: https://web.archive.org/web/20150507121807/http://programmer.97things.oreilly.com/wiki/index.php/One_Binary
 ---
 
 He visto muchos proyectos en los cuales la compilación reescribe alguna

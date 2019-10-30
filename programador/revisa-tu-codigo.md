@@ -4,7 +4,7 @@ title: Primero revisa tu código antes de buscar culpar a otros
 overview: true
 author: Allan Kelly
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Check_Your_Code_First_before_Looking_to_Blame_Others
+original: https://web.archive.org/web/20150114190835/http://programmer.97things.oreilly.com/wiki/index.php/Check_Your_Code_First_before_Looking_to_Blame_Others
 ---
 
 Los desarrolladores –¡todos nosotros!– frecuentemente tenemos problemas

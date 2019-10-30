@@ -4,7 +4,7 @@ title: Suelta el ratón y aléjate del teclado
 overview: true
 author: Cay Horstmann
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Put_the_Mouse_Down_and_Step_Away_from_the_Keyboard
+original: https://web.archive.org/web/20150302171121/http://programmer.97things.oreilly.com/wiki/index.php/Put_the_Mouse_Down_and_Step_Away_from_the_Keyboard
 ---
 
 Te has enfocado por horas en algún raro problema y no hay solución a la
@@ -84,4 +84,3 @@ involucre el lado creativo de tu cerebro; esboza el problema, escucha
 algo de música o da un paseo al aire libre. A veces la mejor cosa que
 puedes hacer para resolver un problema es soltar el ratón y alejarte del
 teclado.
-

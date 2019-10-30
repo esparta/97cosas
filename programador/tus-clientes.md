@@ -4,7 +4,7 @@ title: Tus clientes no quieren decir lo que dicen
 overview: true
 author: Nate Jackson
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/Your_Customers_Do_not_Mean_What_They_Say
+original: https://web.archive.org/web/20150114192906/http://programmer.97things.oreilly.com/wiki/index.php/Your_Customers_Do_not_Mean_What_They_Say
 ---
 
 Nunca he conocido a un cliente que no estuviera muy feliz de decirme qué
@@ -63,4 +63,3 @@ día en que mostramos al cliente el fruto de nuestra labor. Al ver el
 producto, las palabras exactas sobre el color de fondo fueron:
 “Cuando dije negro, me refería a blanco”. Así que, ya ves, nunca es
 tan claro como el blanco y negro.
-

@@ -4,7 +4,7 @@ title: El WET dispersa los cuellos de botella en el rendimiento
 overview: true
 author: Kirk Pepperdine
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/WET_Dilutes_Performance_Bottlenecks
+original: https://web.archive.org/web/20150110063514/http://programmer.97things.oreilly.com/wiki/index.php/WET_Dilutes_Performance_Bottlenecks
 ---
 
 La importancia del principio DRY ([No te repitas][1]) es que codifica la

@@ -4,7 +4,7 @@ title: Noticias raras - Los testers son tus amigos
 overview: true
 author: Burk Hufnagel
 translator: Espartaco Palma
-original: http://programmer.97things.oreilly.com/wiki/index.php/News_of_the_Weird:_Testers_Are_Your_Friends
+original: https://web.archive.org/web/20150114191220/http://programmer.97things.oreilly.com/wiki/index.php/News_of_the_Weird:_Testers_Are_Your_Friends
 ---
 
 Ya sea que se llamen ellos mismos Aseguramiento de Calidad (QC, _Quality
@@ -63,4 +63,3 @@ programadores.
 Así que por extraño que suene, estos _testers_, quienes parecen
 determinados a exponer cada pequeño error en tu código, son realmente
 tus amigos.
-
