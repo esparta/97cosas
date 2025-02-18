@@ -28,7 +28,7 @@ ocurre, las pruebas funcionales se completan de manera temprana, lo que
 da tiempo para las pruebas exploratorias en condiciones extremas o a
 través de flujos de trabajo con un rango más amplio.
 
-odemos dar un paso más adelante. Como tester puedo suministrar la
+Podemos dar un paso más adelante. Como tester puedo suministrar la
 mayoría de mis ideas de prueba antes de que los programadores codifiquen
 una nueva característica. Cuando le pregunto a los programadores si
 tienen alguna sugerencia, ellos casi siempre me proveen la información
